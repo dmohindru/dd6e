@@ -26,9 +26,10 @@ module D_flipflop(q, d, clk, reset);
     input d, clk, reset;
     reg q;
 
-    always @(posedge clk)
+    always @(posedge clk, negedge reset) begin
         if (!reset) q <= 1'b0;
         else q <= d;
+    end
 endmodule
 
 module ex_2_28_structural(out, x, y, clk, reset);
@@ -36,9 +37,12 @@ module ex_2_28_structural(out, x, y, clk, reset);
     input x, y, clk, reset;
     wire w1, w2;
 
-    xor(w1, x, y);
-    xor(w2, w1, out);
+    //xor(w1, x, y);
+    //xor(w2, w1, out);
+    assign w1 = x ^ y;
+    assign w2 = w1 ^ out;
     D_flipflop ff(out, w2, clk, reset);
+    //D_flipflop ff(out, 1'b1, clk, reset);
 endmodule
 
 module ex_28_tb;
@@ -53,7 +57,8 @@ module ex_28_tb;
     initial begin
     reset = 1'b1;
     #15 reset = 1'b0;
-    #10 reset = 1'b1; x = 1'b0; y = 1'b0;
+    #10 reset = 1'b1; 
+    #10 x = 1'b0; y = 1'b0;
     #10 x = 1'b0; y = 1'b1;
     #10 x = 1'b1; y = 1'b1;
     #10 x = 1'b1; y = 1'b0;
