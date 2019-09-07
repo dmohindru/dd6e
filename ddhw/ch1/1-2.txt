@@ -1,0 +1,9 @@
+1K = 2E10 bytes
+1M = 1024K = 2E20 bytes
+1G = 1024M = 2E30 bytes
+
+a) 32K = 2E5 X 2E10 = 2E15 bytes = 32,768 bytes
+
+b) 16M = 2E4 X 2E20 = 2E24 = 16,777,216 bytes
+
+c) 4G = 2E2 X 2E30 = 2E32 = 4,294,967,296 bytes
