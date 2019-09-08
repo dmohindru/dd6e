@@ -1,0 +1,25 @@
+a) 11001101
+1's Complement: 00110010
+2's Complement: 00110011 
+
+b) 01101000
+1's Complement: 10010111
+2's Complement: 10011000 
+
+c) 10011100
+1's Complement: 01100011
+2's Complement: 01100100 
+
+d) 10100101
+1's Complement: 01011010
+2's Complement: 01011011 
+
+e) 10110100
+1's Complement: 01001011
+2's Complement: 01001100 
+
+f) 01001001
+1's Complement: 10110110
+2's Complement: 10110111 
+
+

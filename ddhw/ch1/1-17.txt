@@ -1,0 +1,38 @@
+a) 7523 - 4567
+10's complement of 4567 = 5433
+    7523
++   5433
+---------
+  1)2956
+
+carry means result is +ve
+ignoring carry resutl = 2956 (Verified)
+
+  b) 230 - 1204
+  10's complement of 1204 = 8797
+    0230
++   8796
+---------
+    9026
+no carry measn result is -ve and in 10's complement format.
+10's complement of 9026 = 974
+result = -974 (Verified)
+
+c) 224 - 712
+10's complement of 712 = 288
+    224
++   288
+--------
+    502
+no carry measn result is -ve and in 10's complement format.
+10's complement of 502 = 488
+result = -488 (Verified)
+
+d) 2390 - 945
+10's complement of 0945 = 9055
+    2390
++   9055
+--------
+  1)1445
+carry means result is +ve
+ignoring carry resutl = 1455 (Verified)

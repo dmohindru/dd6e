@@ -1,0 +1,54 @@
+a) (45.125)₁0
+    Binary
+    
+    Integer part
+    45 / 2 = 1
+    22 / 2 = 0
+    11 / 2 = 1
+     5 / 2 = 1
+     2 / 2 = 0
+     1 / 2 = 1
+
+     Fraction part
+     0.125 X 2 = 0
+     0.250 X 2 = 0
+     0.500 X 2 = 1
+
+    concatenating Integer and Fraction part, we get
+     = 101101.001
+
+b) (3.33)₁0
+    Binary
+
+    Integer part
+    3 / 2 = 1
+    1 / 2 = 1
+
+    Fraction part
+    0.33 X 2 = 0
+    0.66 X 2 = 1
+    0.32 x 2 = 0
+    0.64 X 2 = 1
+
+    concatenating Integer and Fraction part, we get
+    = 11.0101
+
+    Converting back 11.0101 to decimal
+    = 1X2¹ + 1X2⁰ + 1X2⁻² + 1X2⁻⁴
+    = 2 + 1 + 0.25 + 0.0625
+    =3.3125
+
+    Percentage error
+    = (3.33-3.3125) * 100 / 3.33
+    = 0.53%
+
+    c) (11.0101)₂
+        Hexadecimal
+        = 3.5
+
+        Converting (3.5)₁₆ to decimal
+        = 3.3125
+
+        We get same result when converting to Hexadecimal and then to Binary.
+
+

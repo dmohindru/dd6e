@@ -1,0 +1,22 @@
+a) (1.00011)₂
+    Decimal
+    = 1X2⁰ + 1X2⁻⁴ + 1X2⁻⁵
+    = 1 + 0.0625 + 0.03125
+    = 1.09375
+
+    Hexadecimal
+    Fraction part
+    0.09375 X 16 = 1
+    0.5 X 16 = 8
+    =  1.18
+
+b) (1000.11)₂
+    Decimal
+    = 1X2³ + 1X2⁻¹ + 1X2⁻²
+    = 8 + 0.5 + 0.25
+    = 8.75
+
+    Hexadecimal
+    = 8.C
+
+ b is eight time that of a because it is three radix point left of a.

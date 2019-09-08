@@ -1,0 +1,16 @@
+a) 65,234,035
+ 9's Complement: 34,765,964
+10's Complement: 34,765,965
+
+b) 56,783,223
+ 9's Complement: 43,216,776
+10's Complement: 43,216,777
+
+c) 87,000,367
+ 9's Complement: 12,999,632
+10's Complement: 12,999,633
+
+d) 99,999,000
+ 9's Complement: 00,000,999
+10's Complement: 00,001,000
+

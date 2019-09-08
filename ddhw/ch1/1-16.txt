@@ -1,0 +1,11 @@
+(1740)₈
+
+a) 8's complement : (6040)₈
+
+b) Binary : 001 111 100 000
+
+c) 2's complement : 110 000 100 000
+
+d) Octal: (6040)₈
+
+a) = d)
