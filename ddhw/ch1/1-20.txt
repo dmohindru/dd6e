@@ -24,23 +24,24 @@
 ------------
     1101100
 -----------
-no carry result is -ve and in 2's complement form
+1 in msb means -ve and in 2's complement form
 result = -20
 
 
  (-29) + (+49)
-    1100011
-+   0110001
+    11100011
++   10110001
 -----------
-  1)0010100
+     0010100
 -----------
-carry out mean result is +ve
+0 in msb mean result is +ve
 result = +20 
 
+increase word size by 1 bit to accomodate carry out
  (-29) + (-49)
-    1100011
-+   1001111
+    11100011
++   11001111
 -----------
-  1)0110010
-both number -ve and carry out mean result +ve which is not true.
-Takes 2's complement of a result: 78   <----- not convinenced with result.
+  1)10110010
+1 in msb indicates a -ve number
+Takes 2's complement of a result: -78

@@ -1,0 +1,41 @@
+using six digits to accomodate sum with is 5 digit and a extra sign digit
+(+9742)
+10's Complement of (+9742) = 990258
+
+(+641)
+10's Complement of (+641) = 999359
+
+a) (+9742) + (+641)
+    009742
++   000641
+----------
+    010383
+----------
+Left most digit 0, indicates result is +ve
+Hence result = 10383
+
+b) (+9742) + (-641)
+    009742
++   999359
+----------
+    009101
+----------
+Left most digit 0, indicates result is +ve
+Hence result = 9101
+
+c) (-9742) + (+641)
+    990258
++   000641
+----------
+    990899
+----------
+Left most digit 9, indicates result is -ve and in 10's complement format
+Hence result = -9101
+
+d) (-9742) + (-641)
+    990258
++   999359
+----------
+    989617
+Left most digit 9, indicates result is -ve and in 10's complement format
+Hence result = -10383

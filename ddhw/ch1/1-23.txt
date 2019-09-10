@@ -1,0 +1,17 @@
+8124
+BCD: 1000 0001 0010 0100
+
+8127
+BCD: 1000 0001 0010 0111
+
+Sum
+Add digit by digit if resulting sum of digit is greater than nine. Then add 6 to result to generate carry to next higher digit.
+    0000 1000 0001 0010 0100
+    0000 1000 0001 0010 0111
+----------------------------
+    0001 0000 0000 0001 1011
+         0110 0010 0100 0110
+----------------------------
+    0001 0110 0010 0101 0001 = 16251
+
+
