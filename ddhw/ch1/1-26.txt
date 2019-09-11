@@ -1,0 +1,7 @@
+2231
+9's Complement: 7768
+
+7768 in 2421 code:  1101 1101 1100 1110
+2231 in 2421 code:  0010 0010 0011 0001
+
+looking at above bit pattern it clear show 2421 is self complementing code.

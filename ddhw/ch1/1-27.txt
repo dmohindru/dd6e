@@ -1,0 +1,5 @@
+52 playing cards can be represented in normal binary code with 6 bits. But some bit combination are unused in this scheme.
+Let msb's select the suit of card (e.g. diamond, hears, clubs, spade encoded as 00, 01, 10 ,11). The remaining 4 bits for the number of
+card (e.g 0001-ace to 1011-9  )
+
+BCD, 2421 or excess-3 code would require 8 bits.
