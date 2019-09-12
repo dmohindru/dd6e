@@ -1,0 +1,2 @@
+ASCII printing characters: 94 
+ASCII special characters: 32
