@@ -1,0 +1,7 @@
+Register contents: 0101 0110 0100 0100
+
+a) BCD:         5644
+b) Excess-3:    2311
+c) Grey Code:   6477
+d) ASCII Code:  VD
+
