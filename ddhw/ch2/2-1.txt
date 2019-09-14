@@ -1,0 +1,24 @@
+a) Demorgan's theorm
+(x+y+z)' = x'y'z'
+
+x   y   z   |   x'  y'  z'  |    (x+y+z)    |   (x+y+z)'    |   x'y'z'
+----------------------------------------------------------------------
+0   0   0   |   1   1   1   |       0       |       1       |     1
+0   0   1   |   1   1   0   |       1       |       0       |     0
+0   1   0   |   1   0   1   |       1       |       0       |     0
+0   1   1   |   1   0   0   |       1       |       0       |     0
+1   0   0   |   0   1   1   |       1       |       0       |     0
+1   0   1   |   0   1   0   |       1       |       0       |     0
+1   1   0   |   0   0   1   |       1       |       0       |     0
+1   1   1   |   0   0   0   |       1       |       0       |     0
+
+(xyz)' = x' + y' + z'
+
+
+b) The distributive law: x + yz = (x+y)(x+z)
+
+c) The distributive law: x(y+z) = xy + xz
+
+d) The associative law: x + (y + z) = (x + y) + z
+
+e) The associative law: x(yz) = (xy)z

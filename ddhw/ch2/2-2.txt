@@ -1,0 +1,6 @@
+a) xy + xy' + x'y
+
+b) (x+y)(x'+y)
+
+c) xy(x'+y')'
+
