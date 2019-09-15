@@ -1,0 +1,33 @@
+a) xyz + x'y + xyz'
+    = xy(z+z') + x'y
+    = xy + x'y
+    = y(x + x')
+    = y
+
+b) x'yz + xz
+    = z(x + x'y)
+    = z((x + x')(x + y))
+    = z(x + y)
+    = xz + yz
+
+c) (x + y)'(x' + y')
+    = x'y'(x' + y')
+    = x'y'x' + x'y'y'
+    = x'y' + x'y'
+    = x'y'
+
+d) xy + x(wz + wz')
+    = xy + x(w(z+z'))
+    = xy + xw
+    = x(y + w)
+e) (yz' + x'w)(xy' + zw')
+    = xy'yz' + zw'yz' + x'wxy' + x'wzw'
+    = xz'(y'y) + w'y(zz') + wy'(x'x) + x'z(ww')
+    = xz'(0) + w'y(0) + wy'(0) + x'z(0)
+    = 0
+f) (x' + z')(x + y' + z')
+    = x'x + x'y' + x'z' + z'x + z'y' + z'z'
+    = x'y' + x'z' + xz' + y'z' + z'
+    = x'y' + z'(x' + x + y' + 1)
+    = x'y' + z'
+    = (x' + z')(y' + z')

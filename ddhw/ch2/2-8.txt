@@ -1,0 +1,80 @@
+F = x'y + yz'
+F' = (x'y + yz')'
+F' = (x'y)'(yz')'
+F' = (x + y')(y' + z) <-------- Conical form
+F' = xy' + xz + y'y' + y'z
+F' = xy' + xz + y' + y'z
+F' = xy' + xz + y'(1 + z)
+F' = xy' + xz + y'
+F' = y'(x + 1) + xz
+F' = y' + xz
+
+
+Now proving FF' = 0
+= (x'y + yz')(y' + xz)
+= x'yy' + x'yxz + yz'y' + yz'xz
+= x'(yy') + (xx')zy + z'(yy') + xy(zz')
+= x'(0) + (0)zy + z'(0) + xy(0)
+= 0
+
+
+ Now proving F + F' = 1
+ = x'y + yz' + y' + xz
+ = x'y(z + z') + yz'(x + x') + y'(x + x') + xz(y + y')
+ = x'yz + x'yz' + xyz' + x'yz' + x'y + x'y' + xyz + xy'z
+ = x'yz + x'yz' + xyz' + x'yz' + x'y(z + z') + x'y'(z + z') + xyz + xy'z
+ = x'yz + x'yz' + xyz' + x'yz' + x'yz + x'yz' + x'y'z + x'y'z' + xyz + xy'z
+ Removing same items and arrangin in asending order
+ = x'y'z' + x'y'z + x'yz' + x'yz + xy'z' + xy'z + xyz' + xyz
+ = x'y'(z' + z) + x'y(z' + z) + xy'(z' + z) + xy(z' + z)
+ = x'y' + x'y + xy' + xy
+ = x'(y' + y) + x(y' + y)
+ = x' + x
+ = 1
+
+
+ ---------------End of solution-------------------------
+F  = x'y + yz'
+F' = xz + y'
+
+ x   y   z   |   F  |   F'  |
+-----------------------------
+ 0   0   0   |   0  |   1   |        
+ 0   0   1   |   0  |   1   |
+ 0   1   0   |   1  |   0   |
+ 0   1   1   |   1  |   0   |
+ 1   0   0   |   0  |   1   |
+ 1   0   1   |   0  |   1   |
+ 1   1   0   |   1  |   0   |
+ 1   1   1   |   0  |   1   |
+
+ Expressing F as SOP
+ F = x'yz' + x'yz + xyz'
+ F = x'y(z' + z) + xyz'
+ F = x'y + xyz'
+ F = y(x' + xz')
+ F = y((x' + x)(x' + z'))
+ F = y(x' + z')
+ F = x'y + yz'
+
+ Expressin F as POS
+ F = (x + y + z)(x + y + z')(x' + y + z)(x' + y + z')(x' + y' + z')
+ F = (xx + xy + xz' + xy + yy + yz' + xz + yz + zz')(x + y + z')(x' + y + z)(x' + y + z')(x' + y' + z')
+ F = (x + xy + xz' + y + yz' + xz + yz)(x + y + z')(x' + y + z)(x' + y + z')(x' + y' + z')
+ F = (x(1 + y + z' + z) + y + yz' + yz)(x + y + z')(x' + y + z)(x' + y + z')(x' + y' + z')
+ F = (x + y(1 + z' + z))(x + y + z')(x' + y + z)(x' + y + z')(x' + y' + z')
+ F = (x + y)(x + y + z')(x' + y + z)(x' + y + z')(x' + y' + z')
+ F = (xx + xy + xz' + xy + yy + yz')(x' + y + z)(x' + y + z')(x' + y' + z')
+ F = (x + xy + xz' + y + yz')(x' + y + z)(x' + y + z')(x' + y' + z')
+ F = (x(1 + y + z') + y(1 + z'))(x' + y + z)(x' + y + z')(x' + y' + z')
+ F = (x + y)(x' + y + z)(x' + y + z')(x' + y' + z')
+ F = (xx' + xy + xz + x'y + yy + yz)(x' + y + z')(x' + y' + z')
+ F = (xy + xz + x'y + y + yz)(x' + y + z')(x' + y' + z')
+ F = (y(x + x' + 1 + z) + xz)(x' + y + z')(x' + y' + z')
+ F = (y + xz)(x' + y + z')(x' + y' + z')
+ F = (x'y + yy + yz' + xzx' + xyz + xzz')(x' + y' + z')
+ F = (x'y + y + yz' + xyz)(x' + y' + z')
+ F = (y(x' + 1 + z' + xz))(x' + y' + z')
+ F = y(x' + y' + z')
+ F = x'y + yy' + yz'
+ F = x'y + yz'

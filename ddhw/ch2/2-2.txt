@@ -1,6 +1,17 @@
 a) xy + xy' + x'y
+    = x(y+y') + x'y 
+    = x + x'y
+    = (x+x') . (x+y)
+    = x+y
 
 b) (x+y)(x'+y)
+    = xx' + xy + x'y + y.y
+    = xy + x'y + y
+    = y(x + x' + 1)
+    = y
 
 c) xy(x'+y')'
+    = xy(xy)
+    = (xx)(yy)
+    = xy
 

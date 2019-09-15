@@ -1,0 +1,13 @@
+a) x'y'z + x'yz + xy'
+    = z(x'y' + x'y) + xy'
+    = z(x'(y' + y)) + xy'
+    = x'z + xy'
+
+b) (w' + y)(w' + y')(w + x + yz)
+    = (w'w' + w'y' + yw' + yy')(w + x + yz)
+    = (w' + w'y' + w'y)(w + x + yz)
+    = w'(1 + y' + y)(w + x + yz)
+    = w'(w + x + yz)
+    = w'w + w'x + w'yz
+    = w'x + w'yz
+    = w'(x + yz) 
