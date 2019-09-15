@@ -34,6 +34,9 @@ Now proving FF' = 0
 
 
  ---------------End of solution-------------------------
+
+Analysis of complement of function as expression function in SOP and POS
+
 F  = x'y + yz'
 F' = xz + y'
 
