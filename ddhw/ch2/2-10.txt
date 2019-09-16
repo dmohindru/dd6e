@@ -1,0 +1,20 @@
+As example we take two function from exercise 2-9 (a) and (b)
+
+Say 
+F1 = xy'z + x'yz + xyz
+F2 = z' + xy'
+
+E = F1 + F2 (contains sum of min terms of F1 and F2)
+G = F1.F2 (contains min terms common to both F1 and F2)
+http://electronics-course.com/boolean-algebra?m4dc=1
+
+x   y   z   |  F1  |   F2  |
+-----------------------------
+0   0   0   |   0  |   1  |        
+0   0   1   |   0  |   0  |
+0   1   0   |   0  |   1  |
+0   1   1   |   1  |   0  |
+1   0   0   |   0  |   1  |
+1   0   1   |   1  |   1  |
+1   1   0   |   0  |   1  |
+1   1   1   |   1  |   0  |

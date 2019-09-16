@@ -1,0 +1,29 @@
+a)  F = xy'z + x'yz + xyz
+    F' = (xy'z + x'yz + xyz)'
+    F' = (xy'z)'(x'yz)'(xyz)'
+    F' = (x' + y + z')(x + y' + z')(x' + y' + z')
+    F' = (x'x + x'y' + x'z' + xy + yy' + yz' + xz' + y'z' + z'z')(x' + y' + z')
+    F' = (x'y' + x'z' + xy + yz' + xz' + y'z' + z')(x' + y' + z')
+    F' = (z'(x' + y + x + y' + 1) + x'y' + xy)(x' + y' + z')
+    F' = (z' + x'y' + xy)(x' + y' + z')
+    F' = x'z' + y'z' + z'z' + x'y'x' + x'y'y' + x'y'z' + xyx' + xyy' + xyz'
+    F' = x'z' + y'z' + z' + x'y' + x'y'z' + xyz'
+    F' = z'(x' + y' + 1 + x'y' + xy) + x'y'
+    F' = x'y' + z'
+
+b)  F = x'y'z' + x'yz' + xy'z' + xy'z + xyz'
+    F = x'z'(y' + y) + xz'(y' + y) + xy'z
+    F = x'z' + xz' + xy'z
+    F = z'(x' + x) + xy'z
+    F = z' + xy'z
+    F = (z' + xy')(z' + z)
+    F = z' + xy'
+    F' = (z' + xy')'
+    F' = (z')'(xy')'
+    F' = z(x' + y)
+    F' = x'z + yz
+
+c) F = (xy' + w'z)(wx' + yz')
+   F = xy'wx' + xy'yz' + w'zwx' + w'zyz'
+   F = 0
+   F' = 1
