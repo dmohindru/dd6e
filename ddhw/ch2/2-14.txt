@@ -1,0 +1,20 @@
+F = xy + x'y' + y'z
+
+a) With AND, OR and inverter gate
+    Just straight forward implementation
+
+b) With OR and inverter gates
+    F = ((xy)')' + ((x'y')')' + ((y'z)')'       (Theorem 3, involution)
+    F = (x' + y')' + (x + y)' + (y + z')'       (Demorgan Theorem)
+
+c) With AND and inverter gates
+    F = ((xy + x'y' + y'z)')'                   (Theorem 3, involution)
+    F = ((xy)'(x'y')'(y'z)')'                   (Demorgan Theorem)
+
+d) With NAND and inverter gates
+    same boolean expression as in (c)
+    F = ((xy)'(x'y')'(y'z)')'
+
+e) With NOR and inverter gates 
+    same boolean expression as in (b)
+    F = (x' + y')' + (x + y)' + (y + z')'
