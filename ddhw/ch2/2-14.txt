@@ -16,5 +16,5 @@ d) With NAND and inverter gates
     F = ((xy)'(x'y')'(y'z)')'
 
 e) With NOR and inverter gates 
-    same boolean expression as in (b)
     F = (x' + y')' + (x + y)' + (y + z')'
+    F = (((x' + y')' + (x + y)' + (y + z')')')' (Theorem 3, involution)

@@ -1,0 +1,21 @@
+T1 = A'BC + AB'C' + AB'C + ABC' + ABC
+T1 = BC(A' + A) + AB'(C' + C) + ABC'
+T1 = BC + AB' + ABC'
+T1 = BC + A(B' + BC')
+T1 = BC + A((B' +  B)(B' + C'))
+T1 = BC + A(B' + C')
+T1 = BC + AB' + AC'
+
+t1 = A+BC
+
+T2 = A'B'C' + A'B'C + A'BC'
+T2 = A'B'(C' + C) + A'BC'
+T2 = A'B' + A'BC'
+T2 = A'(B' + BC')
+T2 = A'((B' + B)(B' + C')) 
+T2 = A'(B' + C')
+T2 = A'B' + A'C'
+
+T2' = (A'B' + A'C')'
+T2' = (A'B')'(A'C')'
+T2' = (A + B)(A + C)
