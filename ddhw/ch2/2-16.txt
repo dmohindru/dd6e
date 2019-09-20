@@ -1,0 +1,20 @@
+Min terms of 1 variable = a, a'
+therefore a + a' = 1
+
+a) when n = 3
+F(a, b, c) = a'b'c' + a'b'c + a'bc' + a'bc + ab'c' + ab'c + abc' + abc
+           = a'(b'c' + b'c + bc'+ bc) + a(b'c' + b'c + bc' + bc)
+           = (a' + a)(b'c' + b'c + bc'+ bc)
+           = (b'c' + b'c + bc'+ bc)
+           = b'(c' + c) + b(c' + c)
+           = (b' + b)(c' + c)
+           = c' + c
+           = 1
+Hence
+    F(a, b, c) = 1
+
+b) F(x1, x2, x3.....xn) 
+There would be 2ⁿ/2 terms containing x1 and 2ⁿ/2  terms containing x1'. So as in problem (a) min terms can be factored out
+to eliminate x1 and x1'. Similarly there would be 2ⁿ⁻¹/2 terms containing x2 and 2ⁿ⁻¹/2 terms containing x2' would can again be 
+factored out to eliminate x2 and x2'. This process can continue will be get to last term containing xn and xn', which can be eliminated
+as previous examples.
