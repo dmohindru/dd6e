@@ -1,0 +1,66 @@
+F = xy'z + x'y'z + w'xy + wx'y + wxy
+
+a)
+x   y   z   w   |   F   | min_term
+-----------------------------------
+0   0   0   0   |   0   |     0
+0   0   0   1   |   0   |     1
+0   0   1   0   |   1   |     2
+0   0   1   1   |   1   |     3
+0   1   0   0   |   0   |     4
+0   1   0   1   |   1   |     5
+0   1   1   0   |   0   |     6
+0   1   1   1   |   1   |     7
+1   0   0   0   |   0   |     8
+1   0   0   1   |   0   |     9
+1   0   1   0   |   1   |    10
+1   0   1   1   |   1   |    11
+1   1   0   0   |   1   |    12
+1   1   0   1   |   1   |    13
+1   1   1   0   |   1   |    14
+1   1   1   1   |   1   |    15
+
+sum_min(2, 3, 5, 7, 10, 11, 12, 13, 14, 15)
+
+b) refer to file 2-18.circ
+
+c) F = xy'z + x'y'z + w'xy + wx'y + wxy
+     = y'z(x + x') + xy(w' + w) + wx'y
+     = y'z + xy + wx'y
+     = y'z + y(x + x'w)
+     = y'z + y((x + x')(x + w))
+     = y'z + y(x + w)
+     = y'z + xy + yw
+
+d)
+x   y   z   w   |   F   | min_term
+-----------------------------------
+0   0   0   0   |   0   |     0
+0   0   0   1   |   0   |     1
+0   0   1   0   |   1   |     2
+0   0   1   1   |   1   |     3
+0   1   0   0   |   0   |     4
+0   1   0   1   |   1   |     5
+0   1   1   0   |   0   |     6
+0   1   1   1   |   1   |     7
+1   0   0   0   |   0   |     8
+1   0   0   1   |   0   |     9
+1   0   1   0   |   1   |    10
+1   0   1   1   |   1   |    11
+1   1   0   0   |   1   |    12
+1   1   0   1   |   1   |    13
+1   1   1   0   |   1   |    14
+1   1   1   1   |   1   |    15
+
+sum_min(2, 3, 5, 7, 10, 11, 12, 13, 14, 15)
+same as in (a)
+
+e) refer to file 2-18.circ
+ Gate in original expression
+    3 input AND gate: 5
+    5 input OR gate : 1
+ Gate in simplified expression
+    2 input AND gate: 3
+    3 input OR gate : 1
+clearly simplified expression is equivalent to original expression and
+requires lesser gate to implement.
