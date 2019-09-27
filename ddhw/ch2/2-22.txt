@@ -1,8 +1,24 @@
+http://tma.main.jp/logic/index_en.html?m4dc=1
+
 a) F = (w + xy')(x + y'z)
    SOP form
    F = wx + wy'z + xy'
    POS form
-   F = 
+   F' = (wx + wy'z + xy')'
+   F' = (wx)'(wy'z)'(xy')'
+   F' = (w' + x')(w' + y + z')(x' + y)
+   F' = (w'w' + w'y + w'z' + w'x' + x'y + x'z')(x' + y)
+   F' = (w' + w'y + w'z' + w'x' + x'y + x'z')(x' + y)
+   F' = (w'(1 + y + z' + x') + x'y + x'z')(x' + y)
+   F' = (w' + x'y + x'z')(x' + y)
+   F' = w'x' + w'y + x'yx' + x'z'x' + x'z'x' + x'z'y
+   F' = w'x' + w'y + x'y + x'z' + x'z' + x'z'y
+   F' = w'x' + w'y + x'y + x'z' + x'z'y
+   F' = w'x' + w'y + x'y + x'z'(1 + y)
+   F' = w'x' + w'y + x'y + x'z'
+   F  = (w'x' + w'y + x'y + x'z')'
+   F  = (w'x')'(w'y)'(x'y)'(x'z')'
+   F = (w + x)(w + y')(x + y')(x + z)
 
    w   x   y   z   |   F   | min_term
 -----------------------------------
@@ -25,3 +41,21 @@ a) F = (w + xy')(x + y'z)
 
    sum_min(5, 8, 9, 10, 11, 12, 13, 14, 15)
    sum_pro(0, 1, 2, 3, 4, 6, 7)
+
+   b) F = xy + (w' + y'z')(z' + x'y')
+      SOP form
+      F = xy + w'z' + w'x'y' + y'z'z' + y'z'x'y'
+      F = xy + w'z' + w'x'y' + y'z' + x'y'z'
+      F = y'z'(1 + x') + xy + w'z' + w'x'y'
+      F = xy + w'z' + y'z' + w'x'y'
+      POS form
+      F' = (xy + w'z' + y'z' + w'x'y')'
+      F' = (xy)'(w'z')'(y'z')'(w'x'y')'
+      F' = (x' + y')(w + z)(y + z)(w + x + y)
+      F' = (x'w + x'z + wy' + y'z)(y + z)(w + x + y)
+      F' = (wx'y + wx'z + x'zy + x'zz + wy'y + wy'z + y'zy + y'zz)(w + x + y)
+      F' = (wx'y + wx'z + x'yz + x'z + wy'z + y'z)(w + x + y)
+      F' = (x'z(1 + w) + y'z(1 + w) + wx'y + x'yz)(w + x + y)
+      F' = (x'z + y'z + wx'y + x'yz)(w + x + y)
+      F' = (x'zw + x'zx + x'zy + y'zw + y'zx + y'zy + wx'yw + wx'yx + wx'yy + x'yzw + x'yzx + x'yzy)
+      F' = 
