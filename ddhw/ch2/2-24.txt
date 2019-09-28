@@ -1,0 +1,3 @@
+xy' + (y + z)(x + z')
+dual
+(x + y')(yz) + (xz')

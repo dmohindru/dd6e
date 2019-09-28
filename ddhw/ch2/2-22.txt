@@ -58,4 +58,8 @@ a) F = (w + xy')(x + y'z)
       F' = (x'z(1 + w) + y'z(1 + w) + wx'y + x'yz)(w + x + y)
       F' = (x'z + y'z + wx'y + x'yz)(w + x + y)
       F' = (x'zw + x'zx + x'zy + y'zw + y'zx + y'zy + wx'yw + wx'yx + wx'yy + x'yzw + x'yzx + x'yzy)
-      F' = 
+      F' = wx'z + x'yz + wy'z + xy'z + wx'y + wx'y + wx'yz + x'yz
+      F  = (wx'z + x'yz + wy'z + xy'z + wx'y + wx'y + wx'yz + x'yz)'
+      F  = (wx'z)'(x'yz)'(wy'z)'(xy'z)'(wx'y)'(wx'y)'(x'yz)'
+      F  = (w' + x + z)(x + y' + z')(w' + y + z')(x' + y + z')(w' + x + y')(w' + x + y')(x + y' + z')   
+

@@ -1,0 +1,9 @@
+positive logic NAND is negetive logic NOR and vice versa
+
+positive logic NAND
+
+A   B   |   F
+L   L   |
+L   H   |
+H   L   |
+H   H   |
