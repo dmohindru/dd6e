@@ -1,0 +1,16 @@
+f1 = a'b'c' + a'bc + abc' + abc
+f1 = a'b'c' + a'bc + ab(c' + c)
+f1 = a'b'c' + a'bc + ab
+f1 = a'b'c' + b(a + a'c)
+f1 = a'b'c' + b((a + a')(a + c))
+f1 = a'b'c' + b(a + c)
+f1 = a'b'c' + ab + bc
+
+f2 = a'bc' + a'bc + ab'c' + ab'c + abc'
+f2 = a'b(c' + c) + ab'(c' + c) + abc'
+f2 = a'b + ab' + abc'
+f2 = b(a' + ac') + ab'
+f2 = b((a' + a)(a' + c')) + ab'
+f2 = b(a' + c') + ab'
+f2 = a'b + bc' + ab'
+

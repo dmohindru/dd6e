@@ -1,9 +1,37 @@
 positive logic NAND is negetive logic NOR and vice versa
 
 positive logic NAND
-
 A   B   |   F
-L   L   |
-L   H   |
-H   L   |
-H   H   |
+-------------
+L   L   |   H
+L   H   |   H
+H   L   |   H
+H   H   |   L
+
+positive logic NOR
+A   B   |   F
+-------------
+L   L   |   H
+L   H   |   L
+H   L   |   L
+H   H   |   L
+
+negetive logic NAND
+A   B   |   F
+-------------
+L   L   |   H
+L   H   |   L
+H   L   |   L
+H   H   |   L
+
+negetive logic NOR
+A   B   |   F
+-------------
+L   L   |   H
+L   H   |   H
+H   L   |   H
+H   H   |   L
+
+comparing truth table of negetive logic NOR with positive logic NAND and
+comparing truth table of negetive logic NAND with positive logic NOR
+proves it.
