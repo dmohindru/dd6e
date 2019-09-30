@@ -1,0 +1,12 @@
+a'b + ac + bc = (a + b)(a' + c)(b + c)
+(a + b)(a' + c)(b + c) = (aa' + ac + a'b + bc)(b + c)
+                       = (ac + a'b + bc)(b + c)
+                       = (acb + acc + a'bb + a'bc + bcb + bcc)
+                       = abc + ac + a'b + a'bc + bc + bc
+                       = abc + ac + a'b + a'bc + bc
+                       = bc(1 + a + a') + ac + a'b
+                       = bc + ac + a'b
+                       = a'b + ac + bc
+
+LHS = RHS
+So its true

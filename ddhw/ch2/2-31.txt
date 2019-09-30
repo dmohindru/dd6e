@@ -1,0 +1,11 @@
+F  = ac' + abc' + a'bc
+F  = ac' + a'bc
+F' = (ac' + a'bc)'
+F' = (ac')'(a'bc)'
+F' = (a' + c)(a + b' + c')
+F' = a'a + a'b' + a'c' + ac + b'c + cc'
+F' = a'b' + a'c' + ac + b'c
+F' = a'b' + ac + a'c' + b'c
+F  = (a'b' + ac + a'c' + b'c)'
+F  = (a'b')'(ac)'(a'c')'(b'c)'
+F  = (a + b)(a' + c')(a + c)(b + c')

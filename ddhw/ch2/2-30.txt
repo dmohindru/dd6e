@@ -1,0 +1,4 @@
+(w + x + y)(x' + y' + z')
+= wx' + wy' + wz' + xx' + xy' + xz' + x'y + yy' + yz'
+= (wx') + wy' + wz' + (xy') + xz' + (x'y) + (yz')
+= x'y + xy' + wx' + yz'
