@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.graphics">
- <office:meta><meta:initial-creator>Dhruv </meta:initial-creator><meta:creation-date>2019-10-08T12:15:22.957901113</meta:creation-date><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><dc:date>2019-10-10T08:25:14.673040805</dc:date><dc:creator>Dhruv </dc:creator><meta:editing-duration>PT1H54M10S</meta:editing-duration><meta:editing-cycles>21</meta:editing-cycles><meta:document-statistic meta:object-count="323"/></office:meta>
+ <office:meta><meta:initial-creator>Dhruv </meta:initial-creator><meta:creation-date>2019-10-08T12:15:22.957901113</meta:creation-date><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><dc:date>2019-10-10T09:24:28.309311107</dc:date><dc:creator>Dhruv </dc:creator><meta:editing-duration>PT2H51M6S</meta:editing-duration><meta:editing-cycles>38</meta:editing-cycles><meta:document-statistic meta:object-count="307"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">5074</config:config-item>
-   <config:config-item config:name="VisibleAreaLeft" config:type="int">-1058</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">3067</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">-451</config:config-item>
    <config:config-item config:name="VisibleAreaWidth" config:type="int">30878</config:config-item>
    <config:config-item config:name="VisibleAreaHeight" config:type="int">21416</config:config-item>
    <config:config-item-map-indexed config:name="Views">
@@ -35,10 +35,10 @@
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
      <config:config-item config:name="SlidesPerRow" config:type="short">4</config:config-item>
      <config:config-item config:name="EditMode" config:type="int">0</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">5074</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-1058</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">30879</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">21417</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">3067</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-451</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">29827</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">20687</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">1000</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">1000</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">100</config:config-item>
@@ -307,7 +307,7 @@
    <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#ff00fb" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-vertical-align="middle" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
   </style:style>
   <style:style style:name="gr16" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="1.423cm" fo:min-width="8.591cm"/>
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="0cm" fo:min-width="0cm"/>
   </style:style>
   <style:style style:name="gr17" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="0.712cm" fo:min-width="0.425cm"/>
@@ -318,56 +318,47 @@
   <style:style style:name="gr19" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#3465a4" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="1.016cm" fo:min-width="3.856cm" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
   </style:style>
-  <style:style style:name="gr20" style:family="graphic" style:parent-style-name="objectwithoutfill">
-   <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#fa0707" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-vertical-align="middle" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
-  </style:style>
-  <style:style style:name="gr21" style:family="graphic" style:parent-style-name="standard">
+  <style:style style:name="gr20" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#039906" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="4.361cm" fo:min-width="4.466cm" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
   </style:style>
-  <style:style style:name="gr22" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="1.423cm" fo:min-width="11.762cm"/>
-  </style:style>
-  <style:style style:name="gr23" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#0500a7" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="1.216cm" fo:min-width="10.266cm" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
-  </style:style>
-  <style:style style:name="gr24" style:family="graphic" style:parent-style-name="standard">
+  <style:style style:name="gr21" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#fa0707" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="3.771cm" fo:min-width="3.856cm" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
   </style:style>
-  <style:style style:name="gr25" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#ff00fb" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="3.771cm" fo:min-width="3.856cm" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
+  <style:style style:name="gr22" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#ff00fb" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="4.071cm" fo:min-width="3.656cm" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
   </style:style>
-  <style:style style:name="gr26" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#3465a4" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="4.316cm" fo:min-width="1.066cm" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
-  </style:style>
-  <style:style style:name="gr27" style:family="graphic" style:parent-style-name="standard">
+  <style:style style:name="gr23" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#039906" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="4.116cm" fo:min-width="1.066cm" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
   </style:style>
-  <style:style style:name="gr28" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="0cm" fo:min-width="0cm"/>
-  </style:style>
-  <style:style style:name="gr29" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#fa0707" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="1.516cm" fo:min-width="10.166cm" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
-  </style:style>
-  <style:style style:name="gr30" style:family="graphic" style:parent-style-name="standard">
+  <style:style style:name="gr24" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#0500a7" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="3.916cm" fo:min-width="3.866cm" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
   </style:style>
-  <style:style style:name="gr31" style:family="graphic" style:parent-style-name="standard">
+  <style:style style:name="gr25" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#ff00fb" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="3.916cm" fo:min-width="3.866cm" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
   </style:style>
-  <style:style style:name="gr32" style:family="graphic" style:parent-style-name="standard">
+  <style:style style:name="gr26" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#039906" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="1.316cm" fo:min-width="3.866cm" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
   </style:style>
-  <style:style style:name="gr33" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#fa0707" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="4.016cm" fo:min-width="3.856cm" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
+  <style:style style:name="gr27" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#039906" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="4.016cm" fo:min-width="1.366cm" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
   </style:style>
-  <style:style style:name="gr34" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#fa0707" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="1.316cm" fo:min-width="4.366cm" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
+  <style:style style:name="gr28" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#ff00fb" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="4.006cm" fo:min-width="0.866cm" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
   </style:style>
-  <style:style style:name="gr35" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#039906" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="1.316cm" fo:min-width="4.366cm" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
+  <style:style style:name="gr29" style:family="graphic" style:parent-style-name="objectwithoutfill">
+   <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#0500a7" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-vertical-align="middle" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
   </style:style>
-  <style:style style:name="gr36" style:family="graphic" style:parent-style-name="standard">
+  <style:style style:name="gr30" style:family="graphic" style:parent-style-name="objectwithoutfill">
+   <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#3465a4" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-vertical-align="middle" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
+  </style:style>
+  <style:style style:name="gr31" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#fa0707" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="4.516cm" fo:min-width="4.366cm" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
+  </style:style>
+  <style:style style:name="gr32" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#0500a7" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="1.16cm" fo:min-width="3.866cm" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
+  </style:style>
+  <style:style style:name="gr33" style:family="graphic" style:parent-style-name="objectwithoutfill">
+   <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#039906" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-vertical-align="middle" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
   </style:style>
   <style:style style:name="co1" style:family="table-column">
    <style:table-column-properties style:column-width="3.138cm" style:use-optimal-column-width="false"/>
@@ -417,9 +408,6 @@
   </style:style>
   <style:style style:name="T2" style:family="text">
    <style:text-properties fo:font-size="9pt"/>
-  </style:style>
-  <style:style style:name="T3" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="18pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lohit Devanagari" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <text:list-style style:name="L1">
    <text:list-level-style-bullet text:level="1" text:bullet-char="●">
@@ -1693,7 +1681,7 @@
       </table:table-row>
       <table:table-row table:style-name="ro2" table:default-cell-style-name="ce2">
        <table:table-cell>
-        <text:p text:style-name="P3">1</text:p>
+        <text:p text:style-name="P3">0</text:p>
        </table:table-cell>
        <table:table-cell>
         <text:p text:style-name="P3">1</text:p>
@@ -1702,21 +1690,21 @@
         <text:p text:style-name="P3">1</text:p>
        </table:table-cell>
        <table:table-cell>
-        <text:p text:style-name="P3">1</text:p>
+        <text:p text:style-name="P3">0</text:p>
        </table:table-cell>
       </table:table-row>
       <table:table-row table:style-name="ro2" table:default-cell-style-name="ce2">
        <table:table-cell>
-        <text:p text:style-name="P3">0</text:p>
-       </table:table-cell>
-       <table:table-cell>
         <text:p text:style-name="P3">1</text:p>
        </table:table-cell>
        <table:table-cell>
         <text:p text:style-name="P3">1</text:p>
        </table:table-cell>
        <table:table-cell>
-        <text:p text:style-name="P3">0</text:p>
+        <text:p text:style-name="P3">1</text:p>
+       </table:table-cell>
+       <table:table-cell>
+        <text:p text:style-name="P3">1</text:p>
        </table:table-cell>
       </table:table-row>
       <table:table-row table:style-name="ro2" table:default-cell-style-name="ce2">
@@ -1761,8 +1749,8 @@
        AQAeAAAAFABYVEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhUX1BB
        SU5UU0hBUEVfQkVHSU4AAAAAAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMA
        AAAAAAB7AgAA//8AAAIABQAAAAAAAAAJBAAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEAhwAB
-       AAUAAAD/////AIYAAQAEAAAAAAAAAHEAAgAeAAAAqBcAAKgrAAABAAAAMQAAAAEAAQAAAF8B
-       AAABADEAAAIBABMAAAAJAFhURVhUX0VPQwAAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPTAAA
+       AAUAAAD/////AIYAAQAEAAAAAAAAAHEAAgAeAAAAqBcAAKgrAAABAAAAMAAAAAEAAQAAAF8B
+       AAABADAAAAIBABMAAAAJAFhURVhUX0VPQwAAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPTAAA
        AAAAAAAAAAIBABMAAAAJAFhURVhUX0VPUAAAAAAAAAAAAAIBAB4AAAAUAFhURVhUX1BBSU5U
        U0hBUEVfRU5EAAAAAAAAAAAAAgEAIAAAABYAWFRFWFRfUEFJTlRTSEFQRV9CRUdJTgAAAAAA
        AAAAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAHsCAAD//wAAAgAFAAAA
@@ -1778,13 +1766,13 @@
        AAAAFABYVEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhUX1BBSU5U
        U0hBUEVfQkVHSU4AAAAAAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAA
        AAB7AgAA//8AAAIABQAAAAAAAAAJBAAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEAhwABAAUA
-       AAD/////AIYAAQAEAAAAAAAAAHEAAgAeAAAAbjwAAKgrAAABAAAAMQAAAAEAAQAAAF8BAAAB
-       ADEAAAIBABMAAAAJAFhURVhUX0VPQwAAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPTAAAAAAA
+       AAD/////AIYAAQAEAAAAAAAAAHEAAgAeAAAAbjwAAKgrAAABAAAAMAAAAAEAAQAAAF8BAAAB
+       ADAAAAIBABMAAAAJAFhURVhUX0VPQwAAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPTAAAAAAA
        AAAAAAIBABMAAAAJAFhURVhUX0VPUAAAAAAAAAAAAAIBAB4AAAAUAFhURVhUX1BBSU5UU0hB
        UEVfRU5EAAAAAAAAAAAAAgEAIAAAABYAWFRFWFRfUEFJTlRTSEFQRV9CRUdJTgAAAAAAAAAA
        igABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAHsCAAD//wAAAgAFAAAAAAAA
        AAkEAAAAAAAAAAEA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAA
-       cQACAB4AAACoFwAA8TYAAAEAAAAwAAAAAQABAAAAXwEAAAEAMAAAAgEAEwAAAAkAWFRFWFRf
+       cQACAB4AAACoFwAA8TYAAAEAAAAxAAAAAQABAAAAXwEAAAEAMQAAAgEAEwAAAAkAWFRFWFRf
        RU9DAAAAAAAAAAAAAgEAEwAAAAkAWFRFWFRfRU9MAAAAAAAAAAAAAgEAEwAAAAkAWFRFWFRf
        RU9QAAAAAAAAAAAAAgEAHgAAABQAWFRFWFRfUEFJTlRTSEFQRV9FTkQAAAAAAAAAAAACAQAg
        AAAAFgBYVEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMAOwAAAA8ATGli
@@ -1801,7 +1789,7 @@
        RU5EAAAAAAAAAAAAAgEAIAAAABYAWFRFWFRfUEFJTlRTSEFQRV9CRUdJTgAAAAAAAAAAigAB
        AEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAHsCAAD//wAAAgAFAAAAAAAAAAkE
        AAAAAAAAAAEA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcQAC
-       AB4AAABuPAAA8TYAAAEAAAAwAAAAAQABAAAAXwEAAAEAMAAAAgEAEwAAAAkAWFRFWFRfRU9D
+       AB4AAABuPAAA8TYAAAEAAAAxAAAAAQABAAAAXwEAAAEAMQAAAgEAEwAAAAkAWFRFWFRfRU9D
        AAAAAAAAAAAAAgEAEwAAAAkAWFRFWFRfRU9MAAAAAAAAAAAAAgEAEwAAAAkAWFRFWFRfRU9Q
        AAAAAAAAAAAAAgEAHgAAABQAWFRFWFRfUEFJTlRTSEFQRV9FTkQAAAAAAAAAAAACAQAgAAAA
        FgBYVEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMAOwAAAA8ATGliZXJh
@@ -2472,9 +2460,9 @@
       <text:p>z</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr11" draw:text-style-name="P5" draw:layer="layout" svg:width="2.369cm" svg:height="0.962cm" svg:x="2.6cm" svg:y="2.2cm">
+    <draw:frame draw:style-name="gr11" draw:text-style-name="P5" draw:layer="layout" svg:width="2.72cm" svg:height="0.962cm" svg:x="2.6cm" svg:y="2.2cm">
      <draw:text-box>
-      <text:p>3-9 (a)</text:p>
+      <text:p>3-10 (a)</text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr12" draw:text-style-name="P5" draw:layer="layout" svg:width="0.82cm" svg:height="0.962cm" svg:x="18.4cm" svg:y="11.9cm">
@@ -2482,7 +2470,7 @@
       <text:p>x</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr13" draw:text-style-name="P1" draw:layer="layout" svg:width="10.7cm" svg:height="1.6cm" svg:x="5.6cm" svg:y="10.3cm">
+    <draw:custom-shape draw:style-name="gr13" draw:text-style-name="P1" draw:layer="layout" svg:width="10.7cm" svg:height="1.6cm" svg:x="5.6cm" svg:y="13cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
@@ -2534,10 +2522,9 @@
       <text:p/>
      </draw:line>
     </draw:g>
-    <draw:frame draw:style-name="gr16" draw:text-style-name="P5" draw:layer="layout" svg:width="9.091cm" svg:height="1.673cm" svg:x="3.6cm" svg:y="21.8cm">
+    <draw:frame draw:style-name="gr16" draw:text-style-name="P5" draw:layer="layout" svg:width="5.379cm" svg:height="0.962cm" svg:x="3.4cm" svg:y="22.9cm">
      <draw:text-box>
-      <text:p>Prime Implicants = w’x, xz, x’z’</text:p>
-      <text:p>Essential Implicant = x’z’, xz</text:p>
+      <text:p>F = x’z’ + xz + wx</text:p>
      </draw:text-box>
     </draw:frame>
    </draw:page>
@@ -4500,9 +4487,9 @@
       <text:p>D</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr11" draw:text-style-name="P5" draw:layer="layout" svg:width="2.369cm" svg:height="0.962cm" svg:x="2.302cm" svg:y="1.9cm">
+    <draw:frame draw:style-name="gr11" draw:text-style-name="P5" draw:layer="layout" svg:width="2.72cm" svg:height="0.962cm" svg:x="2.302cm" svg:y="1.9cm">
      <draw:text-box>
-      <text:p>3-9 (b)</text:p>
+      <text:p>3-10 (b)</text:p>
      </draw:text-box>
     </draw:frame>
     <draw:custom-shape draw:style-name="gr18" draw:text-style-name="P1" draw:layer="layout" svg:width="10.4cm" svg:height="1.5cm" draw:transform="rotate (1.5707963267949) translate (11.952cm 17.25cm)">
@@ -4513,28 +4500,6 @@
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
-    <draw:g>
-     <draw:line draw:style-name="gr20" draw:text-style-name="P1" draw:layer="layout" svg:x1="11.802cm" svg:y1="18.2cm" svg:x2="11.802cm" svg:y2="15.5cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr20" draw:text-style-name="P1" draw:layer="layout" svg:x1="16.402cm" svg:y1="18.2cm" svg:x2="16.402cm" svg:y2="15.5cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr20" draw:text-style-name="P1" draw:layer="layout" svg:x1="16.402cm" svg:y1="15.5cm" svg:x2="11.802cm" svg:y2="15.5cm">
-      <text:p/>
-     </draw:line>
-    </draw:g>
-    <draw:g>
-     <draw:line draw:style-name="gr20" draw:text-style-name="P1" draw:layer="layout" svg:x1="16.402cm" svg:y1="5.8cm" svg:x2="16.402cm" svg:y2="8.5cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr20" draw:text-style-name="P1" draw:layer="layout" svg:x1="11.802cm" svg:y1="5.8cm" svg:x2="11.802cm" svg:y2="8.5cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr20" draw:text-style-name="P1" draw:layer="layout" svg:x1="11.802cm" svg:y1="8.5cm" svg:x2="16.402cm" svg:y2="8.5cm">
-      <text:p/>
-     </draw:line>
-    </draw:g>
     <draw:g>
      <draw:line draw:style-name="gr15" draw:text-style-name="P6" draw:layer="layout" svg:x1="4.713cm" svg:y1="5.101cm" svg:x2="7.4cm" svg:y2="7.788cm">
       <text:p/>
@@ -4579,14 +4544,13 @@
       <text:p/>
      </draw:line>
     </draw:g>
-    <draw:custom-shape draw:style-name="gr21" draw:text-style-name="P1" draw:layer="layout" svg:width="5cm" svg:height="4.645cm" svg:x="11.5cm" svg:y="13.055cm">
+    <draw:custom-shape draw:style-name="gr20" draw:text-style-name="P1" draw:layer="layout" svg:width="5cm" svg:height="4.645cm" svg:x="11.5cm" svg:y="13.055cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
-    <draw:frame draw:style-name="gr22" draw:text-style-name="P5" draw:layer="layout" svg:width="12.262cm" svg:height="1.673cm" svg:x="3.2cm" svg:y="21.5cm">
+    <draw:frame draw:style-name="gr16" draw:text-style-name="P5" draw:layer="layout" svg:width="8.059cm" svg:height="0.962cm" svg:x="4.3cm" svg:y="22cm">
      <draw:text-box>
-      <text:p>Prime Implicants: CD, B’D’, AC, A’BD, B’C</text:p>
-      <text:p>Essintial Implicants: A’BD, B’D’, AC, B’C</text:p>
+      <text:p>F = B’D’ + CD + AC + A’BD</text:p>
      </draw:text-box>
     </draw:frame>
    </draw:page>
@@ -5759,27 +5723,13 @@
         <text:p text:style-name="P2"><text:span text:style-name="T1">0</text:span></text:p>
        </table:table-cell>
        <table:table-cell>
+        <text:p text:style-name="P3">1</text:p>
+       </table:table-cell>
+       <table:table-cell>
+        <text:p text:style-name="P3">1</text:p>
+       </table:table-cell>
+       <table:table-cell>
         <text:p text:style-name="P3">0</text:p>
-       </table:table-cell>
-       <table:table-cell>
-        <text:p text:style-name="P3">1</text:p>
-       </table:table-cell>
-       <table:table-cell>
-        <text:p text:style-name="P3">1</text:p>
-       </table:table-cell>
-      </table:table-row>
-      <table:table-row table:style-name="ro2" table:default-cell-style-name="ce2">
-       <table:table-cell>
-        <text:p text:style-name="P3">1</text:p>
-       </table:table-cell>
-       <table:table-cell>
-        <text:p text:style-name="P3">1</text:p>
-       </table:table-cell>
-       <table:table-cell>
-        <text:p text:style-name="P3">1</text:p>
-       </table:table-cell>
-       <table:table-cell>
-        <text:p text:style-name="P3">1</text:p>
        </table:table-cell>
       </table:table-row>
       <table:table-row table:style-name="ro2" table:default-cell-style-name="ce2">
@@ -5798,7 +5748,10 @@
       </table:table-row>
       <table:table-row table:style-name="ro2" table:default-cell-style-name="ce2">
        <table:table-cell>
-        <text:p text:style-name="P3">0</text:p>
+        <text:p text:style-name="P3">1</text:p>
+       </table:table-cell>
+       <table:table-cell>
+        <text:p text:style-name="P3">1</text:p>
        </table:table-cell>
        <table:table-cell>
         <text:p text:style-name="P3">1</text:p>
@@ -5806,8 +5759,19 @@
        <table:table-cell>
         <text:p text:style-name="P3">1</text:p>
        </table:table-cell>
+      </table:table-row>
+      <table:table-row table:style-name="ro2" table:default-cell-style-name="ce2">
        <table:table-cell>
         <text:p text:style-name="P3">0</text:p>
+       </table:table-cell>
+       <table:table-cell>
+        <text:p text:style-name="P3">0</text:p>
+       </table:table-cell>
+       <table:table-cell>
+        <text:p text:style-name="P3">1</text:p>
+       </table:table-cell>
+       <table:table-cell>
+        <text:p text:style-name="P3">1</text:p>
        </table:table-cell>
       </table:table-row>
      </table:table><draw:image>
@@ -5821,8 +5785,8 @@
        AAACAQAeAAAAFABYVEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhU
        X1BBSU5UU0hBUEVfQkVHSU4AAAAAAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNh
        bnMAAAAAAAB7AgAA//8AAAIABQAAAAAAAAAJBAAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEA
-       hwABAAUAAAD/////AIYAAQAEAAAAAAAAAHEAAgAeAAAA7CMAADYfAAABAAAAMAAAAAEAAQAA
-       AF8BAAABADAAAAIBABMAAAAJAFhURVhUX0VPQwAAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VP
+       hwABAAUAAAD/////AIYAAQAEAAAAAAAAAHEAAgAeAAAA7CMAADYfAAABAAAAMQAAAAEAAQAA
+       AF8BAAABADEAAAIBABMAAAAJAFhURVhUX0VPQwAAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VP
        TAAAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPUAAAAAAAAAAAAAIBAB4AAAAUAFhURVhUX1BB
        SU5UU0hBUEVfRU5EAAAAAAAAAAAAAgEAIAAAABYAWFRFWFRfUEFJTlRTSEFQRV9CRUdJTgAA
        AAAAAAAAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAHsCAAD//wAAAgAF
@@ -5833,7 +5797,7 @@
        AAACAQAgAAAAFgBYVEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMAOwAA
        AA8ATGliZXJhdGlvbiBTYW5zAAAAAAAAewIAAP//AAACAAUAAAAAAAAACQQAAAAAAAAAAQD/
        AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABxAAIAHgAAAHA8AAA2
-       HwAAAQAAADEAAAABAAEAAABfAQAAAQAxAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAAC
+       HwAAAQAAADAAAAABAAEAAABfAQAAAQAwAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAAC
        AQATAAAACQBYVEVYVF9FT0wAAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1AAAAAAAAAAAAAC
        AQAeAAAAFABYVEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhUX1BB
        SU5UU0hBUEVfQkVHSU4AAAAAAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMA
@@ -5850,13 +5814,13 @@
        AQAgAAAAFgBYVEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMAOwAAAA8A
        TGliZXJhdGlvbiBTYW5zAAAAAAAAewIAAP//AAACAAUAAAAAAAAACQQAAAAAAAAAAQD/AwAA
        AAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABxAAIAHgAAAC4wAAB8KgAA
-       AQAAADEAAAABAAEAAABfAQAAAQAxAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAACAQAT
+       AQAAADAAAAABAAEAAABfAQAAAQAwAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAACAQAT
        AAAACQBYVEVYVF9FT0wAAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1AAAAAAAAAAAAACAQAe
        AAAAFABYVEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhUX1BBSU5U
        U0hBUEVfQkVHSU4AAAAAAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAA
        AAB7AgAA//8AAAIABQAAAAAAAAAJBAAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEAhwABAAUA
-       AAD/////AIYAAQAEAAAAAAAAAHEAAgAeAAAAcDwAAHwqAAABAAAAMQAAAAEAAQAAAF8BAAAB
-       ADEAAAIBABMAAAAJAFhURVhUX0VPQwAAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPTAAAAAAA
+       AAD/////AIYAAQAEAAAAAAAAAHEAAgAeAAAAcDwAAHwqAAABAAAAMAAAAAEAAQAAAF8BAAAB
+       ADAAAAIBABMAAAAJAFhURVhUX0VPQwAAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPTAAAAAAA
        AAAAAAIBABMAAAAJAFhURVhUX0VPUAAAAAAAAAAAAAIBAB4AAAAUAFhURVhUX1BBSU5UU0hB
        UEVfRU5EAAAAAAAAAAAAAgEAIAAAABYAWFRFWFRfUEFJTlRTSEFQRV9CRUdJTgAAAAAAAAAA
        igABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAHsCAAD//wAAAgAFAAAAAAAA
@@ -5872,13 +5836,13 @@
        FABYVEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhUX1BBSU5UU0hB
        UEVfQkVHSU4AAAAAAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAAB7
        AgAA//8AAAIABQAAAAAAAAAJBAAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/
-       ////AIYAAQAEAAAAAAAAAHEAAgAeAAAALjAAAMU1AAABAAAAMAAAAAEAAQAAAF8BAAABADAA
+       ////AIYAAQAEAAAAAAAAAHEAAgAeAAAALjAAAMU1AAABAAAAMQAAAAEAAQAAAF8BAAABADEA
        AAIBABMAAAAJAFhURVhUX0VPQwAAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPTAAAAAAAAAAA
        AAIBABMAAAAJAFhURVhUX0VPUAAAAAAAAAAAAAIBAB4AAAAUAFhURVhUX1BBSU5UU0hBUEVf
        RU5EAAAAAAAAAAAAAgEAIAAAABYAWFRFWFRfUEFJTlRTSEFQRV9CRUdJTgAAAAAAAAAAigAB
        AEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAHsCAAD//wAAAgAFAAAAAAAAAAkE
        AAAAAAAAAAEA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcQAC
-       AB4AAABwPAAAxTUAAAEAAAAwAAAAAQABAAAAXwEAAAEAMAAAAgEAEwAAAAkAWFRFWFRfRU9D
+       AB4AAABwPAAAxTUAAAEAAAAxAAAAAQABAAAAXwEAAAEAMQAAAgEAEwAAAAkAWFRFWFRfRU9D
        AAAAAAAAAAAAAgEAEwAAAAkAWFRFWFRfRU9MAAAAAAAAAAAAAgEAEwAAAAkAWFRFWFRfRU9Q
        AAAAAAAAAAAAAgEAHgAAABQAWFRFWFRfUEFJTlRTSEFQRV9FTkQAAAAAAAAAAAACAQAgAAAA
        FgBYVEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMAOwAAAA8ATGliZXJh
@@ -5889,7 +5853,7 @@
        VEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhUX1BBSU5UU0hBUEVf
        QkVHSU4AAAAAAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAAB7AgAA
        //8AAAIABQAAAAAAAAAJBAAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////
-       AIYAAQAEAAAAAAAAAHEAAgAeAAAA7CMAAA5BAAABAAAAMQAAAAEAAQAAAF8BAAABADEAAAIB
+       AIYAAQAEAAAAAAAAAHEAAgAeAAAA7CMAAA5BAAABAAAAMAAAAAEAAQAAAF8BAAABADAAAAIB
        ABMAAAAJAFhURVhUX0VPQwAAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPTAAAAAAAAAAAAAIB
        ABMAAAAJAFhURVhUX0VPUAAAAAAAAAAAAAIBAB4AAAAUAFhURVhUX1BBSU5UU0hBUEVfRU5E
        AAAAAAAAAAAAAgEAIAAAABYAWFRFWFRfUEFJTlRTSEFQRV9CRUdJTgAAAAAAAAAAigABAEEA
@@ -5900,8 +5864,8 @@
        AAAAAAAAAgEAHgAAABQAWFRFWFRfUEFJTlRTSEFQRV9FTkQAAAAAAAAAAAACAQAgAAAAFgBY
        VEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMAOwAAAA8ATGliZXJhdGlv
        biBTYW5zAAAAAAAAewIAAP//AAACAAUAAAAAAAAACQQAAAAAAAAAAQD/AwAAAAAAiAABAAIA
-       AAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABxAAIAHgAAAHA8AAAOQQAAAQAAADAAAAAB
-       AAEAAABfAQAAAQAwAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAACAQATAAAACQBYVEVY
+       AAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABxAAIAHgAAAHA8AAAOQQAAAQAAADEAAAAB
+       AAEAAABfAQAAAQAxAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAACAQATAAAACQBYVEVY
        VF9FT0wAAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1AAAAAAAAAAAAACAQAeAAAAFABYVEVY
        VF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAiwABAAIAAAADAIQAAQAFAAAAAAAAAAEAAgEAbgAA
        ABUAWFBBVEhTVFJPS0VfU0VRX0JFR0lOAAAAAE8AAAABAEkAAAABABMAAAACAO4RAAC3GAAA
@@ -6549,39 +6513,26 @@
       <text:p>D</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr11" draw:text-style-name="P5" draw:layer="layout" svg:width="2.369cm" svg:height="0.962cm" svg:x="2.302cm" svg:y="1.9cm">
+    <draw:frame draw:style-name="gr11" draw:text-style-name="P5" draw:layer="layout" svg:width="2.686cm" svg:height="0.962cm" svg:x="2.302cm" svg:y="1.9cm">
      <draw:text-box>
-      <text:p>3-9 (c)</text:p>
+      <text:p>3-10 (c)</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr23" draw:text-style-name="P1" draw:layer="layout" svg:width="10.8cm" svg:height="1.5cm" svg:x="5.5cm" svg:y="9.9cm">
+    <draw:custom-shape draw:style-name="gr21" draw:text-style-name="P1" draw:layer="layout" svg:width="4.39cm" svg:height="4.055cm" svg:x="5.657cm" svg:y="10.2cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr24" draw:text-style-name="P1" draw:layer="layout" svg:width="4.39cm" svg:height="4.055cm" svg:x="5.657cm" svg:y="10.2cm">
+    <draw:custom-shape draw:style-name="gr22" draw:text-style-name="P1" draw:layer="layout" svg:width="4.19cm" svg:height="4.355cm" svg:x="11.9cm" svg:y="12.845cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr25" draw:text-style-name="P1" draw:layer="layout" svg:width="4.39cm" svg:height="4.055cm" svg:x="11.7cm" svg:y="7.045cm">
+    <draw:custom-shape draw:style-name="gr23" draw:text-style-name="P1" draw:layer="layout" svg:width="1.6cm" svg:height="4.4cm" draw:transform="rotate (1.5707963267949) translate (8.7cm 8.8cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr26" draw:text-style-name="P1" draw:layer="layout" svg:width="1.6cm" svg:height="4.6cm" svg:x="8.8cm" svg:y="12.9cm">
-     <text:p/>
-     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
-    </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr27" draw:text-style-name="P1" draw:layer="layout" svg:width="1.6cm" svg:height="4.4cm" draw:transform="rotate (1.5707963267949) translate (9cm 17.2cm)">
-     <text:p/>
-     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
-    </draw:custom-shape>
-    <draw:frame draw:style-name="gr28" draw:text-style-name="P5" draw:layer="layout" svg:width="12.669cm" svg:height="0.962cm" svg:x="3.7cm" svg:y="21cm">
+    <draw:frame draw:style-name="gr16" draw:text-style-name="P5" draw:layer="layout" svg:width="7.953cm" svg:height="0.962cm" svg:x="4.1cm" svg:y="21.2cm">
      <draw:text-box>
-      <text:p>Prime Implicants: A’C, A’B, BC’, AC’D, AB’D</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="gr28" draw:text-style-name="P5" draw:layer="layout" svg:width="13.837cm" svg:height="0.962cm" svg:x="3.7cm" svg:y="22.5cm">
-     <draw:text-box>
-      <text:p><text:span text:style-name="T3">Essential </text:span><text:span text:style-name="T3">Prime </text:span><text:span text:style-name="T3">Implicant</text:span><text:span text:style-name="T3">s: </text:span>A’C, A’B, BC’, AB’D </text:p>
+      <text:p>F = A’B’D + BC’ + AB + AC</text:p>
      </draw:text-box>
     </draw:frame>
    </draw:page>
@@ -7746,16 +7697,30 @@
       <table:table-column table:style-name="co2"/>
       <table:table-row table:style-name="ro1" table:default-cell-style-name="ce2">
        <table:table-cell table:style-name="ce1">
-        <text:p text:style-name="P2"><text:span text:style-name="T1">0</text:span></text:p>
-       </table:table-cell>
-       <table:table-cell>
-        <text:p text:style-name="P3">1</text:p>
+        <text:p text:style-name="P2"><text:span text:style-name="T1">1</text:span></text:p>
        </table:table-cell>
        <table:table-cell>
         <text:p text:style-name="P3">1</text:p>
        </table:table-cell>
        <table:table-cell>
         <text:p text:style-name="P3">0</text:p>
+       </table:table-cell>
+       <table:table-cell>
+        <text:p text:style-name="P3">0</text:p>
+       </table:table-cell>
+      </table:table-row>
+      <table:table-row table:style-name="ro2" table:default-cell-style-name="ce2">
+       <table:table-cell>
+        <text:p text:style-name="P3">1</text:p>
+       </table:table-cell>
+       <table:table-cell>
+        <text:p text:style-name="P3">1</text:p>
+       </table:table-cell>
+       <table:table-cell>
+        <text:p text:style-name="P3">1</text:p>
+       </table:table-cell>
+       <table:table-cell>
+        <text:p text:style-name="P3">1</text:p>
        </table:table-cell>
       </table:table-row>
       <table:table-row table:style-name="ro2" table:default-cell-style-name="ce2">
@@ -7774,27 +7739,13 @@
       </table:table-row>
       <table:table-row table:style-name="ro2" table:default-cell-style-name="ce2">
        <table:table-cell>
-        <text:p text:style-name="P3">1</text:p>
-       </table:table-cell>
-       <table:table-cell>
-        <text:p text:style-name="P3">1</text:p>
-       </table:table-cell>
-       <table:table-cell>
-        <text:p text:style-name="P3">1</text:p>
-       </table:table-cell>
-       <table:table-cell>
-        <text:p text:style-name="P3">1</text:p>
-       </table:table-cell>
-      </table:table-row>
-      <table:table-row table:style-name="ro2" table:default-cell-style-name="ce2">
-       <table:table-cell>
-        <text:p text:style-name="P3">1</text:p>
-       </table:table-cell>
-       <table:table-cell>
-        <text:p text:style-name="P3">1</text:p>
-       </table:table-cell>
-       <table:table-cell>
         <text:p text:style-name="P3">0</text:p>
+       </table:table-cell>
+       <table:table-cell>
+        <text:p text:style-name="P3">1</text:p>
+       </table:table-cell>
+       <table:table-cell>
+        <text:p text:style-name="P3">1</text:p>
        </table:table-cell>
        <table:table-cell>
         <text:p text:style-name="P3">0</text:p>
@@ -7806,7 +7757,7 @@
        AAAJAAACAQAgAAAAFgBYVEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMA
        OwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAAewIAAP//AAACAAUAAAAAAAAACQQAAAAAAAAA
        AQD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABxAAIAHgAAAKgX
-       AABiIAAAAQAAADAAAAABAAEAAABfAQAAAQAwAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAA
+       AABiIAAAAQAAADEAAAABAAEAAABfAQAAAQAxAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAA
        AAACAQATAAAACQBYVEVYVF9FT0wAAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1AAAAAAAAAA
        AAACAQAeAAAAFABYVEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhU
        X1BBSU5UU0hBUEVfQkVHSU4AAAAAAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNh
@@ -7817,7 +7768,7 @@
        SU5UU0hBUEVfRU5EAAAAAAAAAAAAAgEAIAAAABYAWFRFWFRfUEFJTlRTSEFQRV9CRUdJTgAA
        AAAAAAAAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAHsCAAD//wAAAgAF
        AAAAAAAAAAkEAAAAAAAAAAEA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQA
-       AAAAAAAAcQACAB4AAAAsMAAAYiAAAAEAAAAxAAAAAQABAAAAXwEAAAEAMQAAAgEAEwAAAAkA
+       AAAAAAAAcQACAB4AAAAsMAAAYiAAAAEAAAAwAAAAAQABAAAAXwEAAAEAMAAAAgEAEwAAAAkA
        WFRFWFRfRU9DAAAAAAAAAAAAAgEAEwAAAAkAWFRFWFRfRU9MAAAAAAAAAAAAAgEAEwAAAAkA
        WFRFWFRfRU9QAAAAAAAAAAAAAgEAHgAAABQAWFRFWFRfUEFJTlRTSEFQRV9FTkQAAAAAAAAA
        AAACAQAgAAAAFgBYVEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMAOwAA
@@ -7828,13 +7779,13 @@
        AQAeAAAAFABYVEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhUX1BB
        SU5UU0hBUEVfQkVHSU4AAAAAAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMA
        AAAAAAB7AgAA//8AAAIABQAAAAAAAAAJBAAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEAhwAB
-       AAUAAAD/////AIYAAQAEAAAAAAAAAHEAAgAeAAAAqBcAAKgrAAABAAAAMAAAAAEAAQAAAF8B
-       AAABADAAAAIBABMAAAAJAFhURVhUX0VPQwAAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPTAAA
+       AAUAAAD/////AIYAAQAEAAAAAAAAAHEAAgAeAAAAqBcAAKgrAAABAAAAMQAAAAEAAQAAAF8B
+       AAABADEAAAIBABMAAAAJAFhURVhUX0VPQwAAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPTAAA
        AAAAAAAAAAIBABMAAAAJAFhURVhUX0VPUAAAAAAAAAAAAAIBAB4AAAAUAFhURVhUX1BBSU5U
        U0hBUEVfRU5EAAAAAAAAAAAAAgEAIAAAABYAWFRFWFRfUEFJTlRTSEFQRV9CRUdJTgAAAAAA
        AAAAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAHsCAAD//wAAAgAFAAAA
        AAAAAAkEAAAAAAAAAAEA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAA
-       AAAAcQACAB4AAADqIwAAqCsAAAEAAAAwAAAAAQABAAAAXwEAAAEAMAAAAgEAEwAAAAkAWFRF
+       AAAAcQACAB4AAADqIwAAqCsAAAEAAAAxAAAAAQABAAAAXwEAAAEAMQAAAgEAEwAAAAkAWFRF
        WFRfRU9DAAAAAAAAAAAAAgEAEwAAAAkAWFRFWFRfRU9MAAAAAAAAAAAAAgEAEwAAAAkAWFRF
        WFRfRU9QAAAAAAAAAAAAAgEAHgAAABQAWFRFWFRfUEFJTlRTSEFQRV9FTkQAAAAAAAAAAAAC
        AQAgAAAAFgBYVEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMAOwAAAA8A
@@ -7851,13 +7802,13 @@
        UEVfRU5EAAAAAAAAAAAAAgEAIAAAABYAWFRFWFRfUEFJTlRTSEFQRV9CRUdJTgAAAAAAAAAA
        igABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAHsCAAD//wAAAgAFAAAAAAAA
        AAkEAAAAAAAAAAEA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAA
-       cQACAB4AAACoFwAA8TYAAAEAAAAxAAAAAQABAAAAXwEAAAEAMQAAAgEAEwAAAAkAWFRFWFRf
+       cQACAB4AAACoFwAA8TYAAAEAAAAwAAAAAQABAAAAXwEAAAEAMAAAAgEAEwAAAAkAWFRFWFRf
        RU9DAAAAAAAAAAAAAgEAEwAAAAkAWFRFWFRfRU9MAAAAAAAAAAAAAgEAEwAAAAkAWFRFWFRf
        RU9QAAAAAAAAAAAAAgEAHgAAABQAWFRFWFRfUEFJTlRTSEFQRV9FTkQAAAAAAAAAAAACAQAg
        AAAAFgBYVEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMAOwAAAA8ATGli
        ZXJhdGlvbiBTYW5zAAAAAAAAewIAAP//AAACAAUAAAAAAAAACQQAAAAAAAAAAQD/AwAAAAAA
        iAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABxAAIAHgAAAOojAADxNgAAAQAA
-       ADEAAAABAAEAAABfAQAAAQAxAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAACAQATAAAA
+       ADAAAAABAAEAAABfAQAAAQAwAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAACAQATAAAA
        CQBYVEVYVF9FT0wAAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1AAAAAAAAAAAAACAQAeAAAA
        FABYVEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhUX1BBSU5UU0hB
        UEVfQkVHSU4AAAAAAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAAB7
@@ -7873,8 +7824,8 @@
        AAAAAAAAAAAAAgEAHgAAABQAWFRFWFRfUEFJTlRTSEFQRV9FTkQAAAAAAAAAAAACAQAgAAAA
        FgBYVEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMAOwAAAA8ATGliZXJh
        dGlvbiBTYW5zAAAAAAAAewIAAP//AAACAAUAAAAAAAAACQQAAAAAAAAAAQD/AwAAAAAAiAAB
-       AAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABxAAIAHgAAAKgXAAA6QgAAAQAAADEA
-       AAABAAEAAABfAQAAAQAxAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAACAQATAAAACQBY
+       AAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABxAAIAHgAAAKgXAAA6QgAAAQAAADAA
+       AAABAAEAAABfAQAAAQAwAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAACAQATAAAACQBY
        VEVYVF9FT0wAAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1AAAAAAAAAAAAACAQAeAAAAFABY
        VEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhUX1BBSU5UU0hBUEVf
        QkVHSU4AAAAAAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAAB7AgAA
@@ -7885,7 +7836,7 @@
        AAAAAAAAAAAAAgEAIAAAABYAWFRFWFRfUEFJTlRTSEFQRV9CRUdJTgAAAAAAAAAAigABAEEA
        AAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAHsCAAD//wAAAgAFAAAAAAAAAAkEAAAA
        AAAAAAEA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcQACAB4A
-       AAAsMAAAOkIAAAEAAAAwAAAAAQABAAAAXwEAAAEAMAAAAgEAEwAAAAkAWFRFWFRfRU9DAAAA
+       AAAsMAAAOkIAAAEAAAAxAAAAAQABAAAAXwEAAAEAMQAAAgEAEwAAAAkAWFRFWFRfRU9DAAAA
        AAAAAAAAAgEAEwAAAAkAWFRFWFRfRU9MAAAAAAAAAAAAAgEAEwAAAAkAWFRFWFRfRU9QAAAA
        AAAAAAAAAgEAHgAAABQAWFRFWFRfUEFJTlRTSEFQRV9FTkQAAAAAAAAAAAACAQAgAAAAFgBY
        VEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMAOwAAAA8ATGliZXJhdGlv
@@ -8539,9 +8490,9 @@
       <text:p>z</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr11" draw:text-style-name="P5" draw:layer="layout" svg:width="2.369cm" svg:height="0.962cm" svg:x="2.6cm" svg:y="2.2cm">
+    <draw:frame draw:style-name="gr11" draw:text-style-name="P5" draw:layer="layout" svg:width="2.72cm" svg:height="0.962cm" svg:x="2.6cm" svg:y="2.2cm">
      <draw:text-box>
-      <text:p>3-9 (d)</text:p>
+      <text:p>3-10 (d)</text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr12" draw:text-style-name="P5" draw:layer="layout" svg:width="0.82cm" svg:height="0.962cm" svg:x="18.4cm" svg:y="11.9cm">
@@ -8549,30 +8500,21 @@
       <text:p>x</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr29" draw:text-style-name="P1" draw:layer="layout" svg:width="10.7cm" svg:height="1.8cm" svg:x="5.6cm" svg:y="13.1cm">
+    <draw:custom-shape draw:style-name="gr24" draw:text-style-name="P1" draw:layer="layout" svg:width="4.4cm" svg:height="4.2cm" svg:x="5.5cm" svg:y="7.5cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr30" draw:text-style-name="P1" draw:layer="layout" svg:width="4.4cm" svg:height="4.2cm" svg:x="5.8cm" svg:y="13.4cm">
+    <draw:custom-shape draw:style-name="gr25" draw:text-style-name="P1" draw:layer="layout" svg:width="4.4cm" svg:height="4.2cm" svg:x="11.8cm" svg:y="10.3cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr31" draw:text-style-name="P1" draw:layer="layout" svg:width="4.4cm" svg:height="4.2cm" svg:x="11.7cm" svg:y="10.3cm">
+    <draw:custom-shape draw:style-name="gr26" draw:text-style-name="P1" draw:layer="layout" svg:width="4.4cm" svg:height="1.6cm" svg:x="8.7cm" svg:y="16.1cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr32" draw:text-style-name="P1" draw:layer="layout" svg:width="4.4cm" svg:height="1.6cm" svg:x="8.7cm" svg:y="7.3cm">
-     <text:p/>
-     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
-    </draw:custom-shape>
-    <draw:frame draw:style-name="gr28" draw:text-style-name="P5" draw:layer="layout" svg:width="9.942cm" svg:height="0.962cm" svg:x="3.9cm" svg:y="20.8cm">
+    <draw:frame draw:style-name="gr16" draw:text-style-name="P5" draw:layer="layout" svg:width="5.976cm" svg:height="0.962cm" svg:x="3.8cm" svg:y="21.1cm">
      <draw:text-box>
-      <text:p>Prime Implicant: w’x’z, xy, wx, wy’</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="gr28" draw:text-style-name="P5" draw:layer="layout" svg:width="12.69cm" svg:height="0.962cm" svg:x="3.858cm" svg:y="22.638cm">
-     <draw:text-box>
-      <text:p>Essential Prime Implicant: w’x’z, xy, wx, wy’</text:p>
+      <text:p>F = w’y’ + xy + wx’z</text:p>
      </draw:text-box>
     </draw:frame>
    </draw:page>
@@ -9748,10 +9690,10 @@
         <text:p text:style-name="P3">1</text:p>
        </table:table-cell>
        <table:table-cell>
-        <text:p text:style-name="P3">0</text:p>
+        <text:p text:style-name="P3">1</text:p>
        </table:table-cell>
        <table:table-cell>
-        <text:p text:style-name="P3">1</text:p>
+        <text:p text:style-name="P3">0</text:p>
        </table:table-cell>
       </table:table-row>
       <table:table-row table:style-name="ro2" table:default-cell-style-name="ce2">
@@ -9759,7 +9701,7 @@
         <text:p text:style-name="P3">0</text:p>
        </table:table-cell>
        <table:table-cell>
-        <text:p text:style-name="P3">1</text:p>
+        <text:p text:style-name="P3">0</text:p>
        </table:table-cell>
        <table:table-cell>
         <text:p text:style-name="P3">1</text:p>
@@ -9813,13 +9755,13 @@
        SU5UU0hBUEVfRU5EAAAAAAAAAAAAAgEAIAAAABYAWFRFWFRfUEFJTlRTSEFQRV9CRUdJTgAA
        AAAAAAAAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAHsCAAD//wAAAgAF
        AAAAAAAAAAkEAAAAAAAAAAEA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQA
-       AAAAAAAAcQACAB4AAAAuMAAANh8AAAEAAAAwAAAAAQABAAAAXwEAAAEAMAAAAgEAEwAAAAkA
+       AAAAAAAAcQACAB4AAAAuMAAANh8AAAEAAAAxAAAAAQABAAAAXwEAAAEAMQAAAgEAEwAAAAkA
        WFRFWFRfRU9DAAAAAAAAAAAAAgEAEwAAAAkAWFRFWFRfRU9MAAAAAAAAAAAAAgEAEwAAAAkA
        WFRFWFRfRU9QAAAAAAAAAAAAAgEAHgAAABQAWFRFWFRfUEFJTlRTSEFQRV9FTkQAAAAAAAAA
        AAACAQAgAAAAFgBYVEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMAOwAA
        AA8ATGliZXJhdGlvbiBTYW5zAAAAAAAAewIAAP//AAACAAUAAAAAAAAACQQAAAAAAAAAAQD/
        AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABxAAIAHgAAAHA8AAA2
-       HwAAAQAAADEAAAABAAEAAABfAQAAAQAxAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAAC
+       HwAAAQAAADAAAAABAAEAAABfAQAAAQAwAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAAC
        AQATAAAACQBYVEVYVF9FT0wAAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1AAAAAAAAAAAAAC
        AQAeAAAAFABYVEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhUX1BB
        SU5UU0hBUEVfQkVHSU4AAAAAAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMA
@@ -9830,7 +9772,7 @@
        U0hBUEVfRU5EAAAAAAAAAAAAAgEAIAAAABYAWFRFWFRfUEFJTlRTSEFQRV9CRUdJTgAAAAAA
        AAAAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAHsCAAD//wAAAgAFAAAA
        AAAAAAkEAAAAAAAAAAEA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAA
-       AAAAcQACAB4AAADsIwAAfCoAAAEAAAAxAAAAAQABAAAAXwEAAAEAMQAAAgEAEwAAAAkAWFRF
+       AAAAcQACAB4AAADsIwAAfCoAAAEAAAAwAAAAAQABAAAAXwEAAAEAMAAAAgEAEwAAAAkAWFRF
        WFRfRU9DAAAAAAAAAAAAAgEAEwAAAAkAWFRFWFRfRU9MAAAAAAAAAAAAAgEAEwAAAAkAWFRF
        WFRfRU9QAAAAAAAAAAAAAgEAHgAAABQAWFRFWFRfUEFJTlRTSEFQRV9FTkQAAAAAAAAAAAAC
        AQAgAAAAFgBYVEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMAOwAAAA8A
@@ -10535,73 +10477,68 @@
       <text:p>D</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr11" draw:text-style-name="P5" draw:layer="layout" svg:width="2.369cm" svg:height="0.962cm" svg:x="2.302cm" svg:y="1.9cm">
+    <draw:frame draw:style-name="gr11" draw:text-style-name="P5" draw:layer="layout" svg:width="2.72cm" svg:height="0.962cm" svg:x="2.302cm" svg:y="1.9cm">
      <draw:text-box>
-      <text:p>3-9 (e)</text:p>
+      <text:p>3-10 (e)</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr18" draw:text-style-name="P1" draw:layer="layout" svg:width="10.4cm" svg:height="1.5cm" draw:transform="rotate (1.5707963267949) translate (8.752cm 17.25cm)">
+    <draw:custom-shape draw:style-name="gr27" draw:text-style-name="P1" draw:layer="layout" svg:width="1.9cm" svg:height="4.3cm" svg:x="11.7cm" svg:y="6.8cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr33" draw:text-style-name="P1" draw:layer="layout" svg:width="4.39cm" svg:height="4.3cm" svg:x="9cm" svg:y="10.1cm">
+    <draw:custom-shape draw:style-name="gr28" draw:text-style-name="P1" draw:layer="layout" svg:width="1.4cm" svg:height="4.29cm" draw:transform="rotate (1.5707963267949) translate (8.81cm 14.2cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
     <draw:g>
-     <draw:line draw:style-name="gr15" draw:text-style-name="P6" draw:layer="layout" svg:x1="4.813cm" svg:y1="5.101cm" svg:x2="7.5cm" svg:y2="7.788cm">
+     <draw:line draw:style-name="gr29" draw:text-style-name="P1" draw:layer="layout" svg:x1="5.4cm" svg:y1="18.2cm" svg:x2="5.4cm" svg:y2="15.6cm">
       <text:p/>
      </draw:line>
-     <draw:line draw:style-name="gr15" draw:text-style-name="P6" draw:layer="layout" svg:x1="3.616cm" svg:y1="6.301cm" svg:x2="6.303cm" svg:y2="8.988cm">
+     <draw:line draw:style-name="gr29" draw:text-style-name="P1" draw:layer="layout" svg:x1="10.3cm" svg:y1="18.2cm" svg:x2="10.3cm" svg:y2="15.6cm">
       <text:p/>
      </draw:line>
-     <draw:line draw:style-name="gr15" draw:text-style-name="P6" draw:layer="layout" svg:x1="6.303cm" svg:y1="8.988cm" svg:x2="7.5cm" svg:y2="7.788cm">
-      <text:p/>
-     </draw:line>
-    </draw:g>
-    <draw:g>
-     <draw:line draw:style-name="gr15" draw:text-style-name="P6" draw:layer="layout" svg:x1="3.513cm" svg:y1="17.888cm" svg:x2="6.2cm" svg:y2="15.201cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr15" draw:text-style-name="P6" draw:layer="layout" svg:x1="4.713cm" svg:y1="19.085cm" svg:x2="7.4cm" svg:y2="16.398cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr15" draw:text-style-name="P6" draw:layer="layout" svg:x1="7.4cm" svg:y1="16.398cm" svg:x2="6.2cm" svg:y2="15.201cm">
+     <draw:line draw:style-name="gr29" draw:text-style-name="P1" draw:layer="layout" svg:x1="10.3cm" svg:y1="15.6cm" svg:x2="5.4cm" svg:y2="15.6cm">
       <text:p/>
      </draw:line>
     </draw:g>
     <draw:g>
-     <draw:line draw:style-name="gr15" draw:text-style-name="P6" draw:layer="layout" svg:x1="17.103cm" svg:y1="19.088cm" svg:x2="14.416cm" svg:y2="16.401cm">
+     <draw:line draw:style-name="gr30" draw:text-style-name="P1" draw:layer="layout" svg:x1="17.8cm" svg:y1="17.4cm" svg:x2="14.9cm" svg:y2="17.4cm">
       <text:p/>
      </draw:line>
-     <draw:line draw:style-name="gr15" draw:text-style-name="P6" draw:layer="layout" svg:x1="18.3cm" svg:y1="17.888cm" svg:x2="15.613cm" svg:y2="15.201cm">
+     <draw:line draw:style-name="gr30" draw:text-style-name="P1" draw:layer="layout" svg:x1="17.8cm" svg:y1="15.7cm" svg:x2="14.9cm" svg:y2="15.7cm">
       <text:p/>
      </draw:line>
-     <draw:line draw:style-name="gr15" draw:text-style-name="P6" draw:layer="layout" svg:x1="15.613cm" svg:y1="15.201cm" svg:x2="14.416cm" svg:y2="16.401cm">
-      <text:p/>
-     </draw:line>
-    </draw:g>
-    <draw:g>
-     <draw:line draw:style-name="gr15" draw:text-style-name="P6" draw:layer="layout" svg:x1="18.1cm" svg:y1="6.398cm" svg:x2="15.413cm" svg:y2="9.085cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr15" draw:text-style-name="P6" draw:layer="layout" svg:x1="16.9cm" svg:y1="5.201cm" svg:x2="14.213cm" svg:y2="7.888cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr15" draw:text-style-name="P6" draw:layer="layout" svg:x1="14.213cm" svg:y1="7.888cm" svg:x2="15.413cm" svg:y2="9.085cm">
+     <draw:line draw:style-name="gr30" draw:text-style-name="P1" draw:layer="layout" svg:x1="14.9cm" svg:y1="15.7cm" svg:x2="14.9cm" svg:y2="17.4cm">
       <text:p/>
      </draw:line>
     </draw:g>
-    <draw:frame draw:style-name="gr28" draw:text-style-name="P5" draw:layer="layout" svg:width="9.032cm" svg:height="0.962cm" svg:x="3.9cm" svg:y="20.8cm">
+    <draw:frame draw:style-name="gr16" draw:text-style-name="P5" draw:layer="layout" svg:width="9.146cm" svg:height="0.962cm" svg:x="3.3cm" svg:y="21.1cm">
      <draw:text-box>
-      <text:p>Prime Implicant: BD, C’D, B’D’</text:p>
+      <text:p>F = B’C’ + A’CD + ABD + AB’D’</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr28" draw:text-style-name="P5" draw:layer="layout" svg:width="11.78cm" svg:height="0.962cm" svg:x="3.858cm" svg:y="22.638cm">
-     <draw:text-box>
-      <text:p><text:span text:style-name="T3">Essential </text:span><text:span text:style-name="T3">Prime </text:span><text:span text:style-name="T3">Implicant</text:span><text:span text:style-name="T3">: </text:span>BD, C’D, B’D’</text:p>
-     </draw:text-box>
-    </draw:frame>
+    <draw:g>
+     <draw:line draw:style-name="gr29" draw:text-style-name="P1" draw:layer="layout" svg:x1="10.3cm" svg:y1="6cm" svg:x2="10.3cm" svg:y2="8.6cm">
+      <text:p/>
+     </draw:line>
+     <draw:line draw:style-name="gr29" draw:text-style-name="P1" draw:layer="layout" svg:x1="5.4cm" svg:y1="6cm" svg:x2="5.4cm" svg:y2="8.6cm">
+      <text:p/>
+     </draw:line>
+     <draw:line draw:style-name="gr29" draw:text-style-name="P1" draw:layer="layout" svg:x1="5.4cm" svg:y1="8.6cm" svg:x2="10.3cm" svg:y2="8.6cm">
+      <text:p/>
+     </draw:line>
+    </draw:g>
+    <draw:g>
+     <draw:line draw:style-name="gr30" draw:text-style-name="P1" draw:layer="layout" svg:x1="3.8cm" svg:y1="15.8cm" svg:x2="6.7cm" svg:y2="15.8cm">
+      <text:p/>
+     </draw:line>
+     <draw:line draw:style-name="gr30" draw:text-style-name="P1" draw:layer="layout" svg:x1="3.8cm" svg:y1="17.5cm" svg:x2="6.7cm" svg:y2="17.5cm">
+      <text:p/>
+     </draw:line>
+     <draw:line draw:style-name="gr30" draw:text-style-name="P1" draw:layer="layout" svg:x1="6.7cm" svg:y1="17.5cm" svg:x2="6.7cm" svg:y2="15.8cm">
+      <text:p/>
+     </draw:line>
+    </draw:g>
    </draw:page>
    <draw:page draw:name="page6" draw:style-name="dp2" draw:master-page-name="Default">
     <draw:frame draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="2.687cm" svg:height="5.392cm" svg:x="2.225cm" svg:y="12.608cm">
@@ -11778,16 +11715,16 @@
       </table:table-row>
       <table:table-row table:style-name="ro2" table:default-cell-style-name="ce2">
        <table:table-cell>
-        <text:p text:style-name="P3">0</text:p>
-       </table:table-cell>
-       <table:table-cell>
         <text:p text:style-name="P3">1</text:p>
        </table:table-cell>
        <table:table-cell>
         <text:p text:style-name="P3">1</text:p>
        </table:table-cell>
        <table:table-cell>
-        <text:p text:style-name="P3">0</text:p>
+        <text:p text:style-name="P3">1</text:p>
+       </table:table-cell>
+       <table:table-cell>
+        <text:p text:style-name="P3">1</text:p>
        </table:table-cell>
       </table:table-row>
       <table:table-row table:style-name="ro2" table:default-cell-style-name="ce2">
@@ -11806,7 +11743,7 @@
       </table:table-row>
       <table:table-row table:style-name="ro2" table:default-cell-style-name="ce2">
        <table:table-cell>
-        <text:p text:style-name="P3">1</text:p>
+        <text:p text:style-name="P3">0</text:p>
        </table:table-cell>
        <table:table-cell>
         <text:p text:style-name="P3">0</text:p>
@@ -11846,8 +11783,8 @@
        AQAeAAAAFABYVEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhUX1BB
        SU5UU0hBUEVfQkVHSU4AAAAAAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMA
        AAAAAAB7AgAA//8AAAIABQAAAAAAAAAJBAAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEAhwAB
-       AAUAAAD/////AIYAAQAEAAAAAAAAAHEAAgAeAAAAqBcAAKgrAAABAAAAMAAAAAEAAQAAAF8B
-       AAABADAAAAIBABMAAAAJAFhURVhUX0VPQwAAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPTAAA
+       AAUAAAD/////AIYAAQAEAAAAAAAAAHEAAgAeAAAAqBcAAKgrAAABAAAAMQAAAAEAAQAAAF8B
+       AAABADEAAAIBABMAAAAJAFhURVhUX0VPQwAAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPTAAA
        AAAAAAAAAAIBABMAAAAJAFhURVhUX0VPUAAAAAAAAAAAAAIBAB4AAAAUAFhURVhUX1BBSU5U
        U0hBUEVfRU5EAAAAAAAAAAAAAgEAIAAAABYAWFRFWFRfUEFJTlRTSEFQRV9CRUdJTgAAAAAA
        AAAAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAHsCAAD//wAAAgAFAAAA
@@ -11863,8 +11800,8 @@
        AAAAFABYVEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhUX1BBSU5U
        U0hBUEVfQkVHSU4AAAAAAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAA
        AAB7AgAA//8AAAIABQAAAAAAAAAJBAAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEAhwABAAUA
-       AAD/////AIYAAQAEAAAAAAAAAHEAAgAeAAAAbjwAAKgrAAABAAAAMAAAAAEAAQAAAF8BAAAB
-       ADAAAAIBABMAAAAJAFhURVhUX0VPQwAAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPTAAAAAAA
+       AAD/////AIYAAQAEAAAAAAAAAHEAAgAeAAAAbjwAAKgrAAABAAAAMQAAAAEAAQAAAF8BAAAB
+       ADEAAAIBABMAAAAJAFhURVhUX0VPQwAAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPTAAAAAAA
        AAAAAAIBABMAAAAJAFhURVhUX0VPUAAAAAAAAAAAAAIBAB4AAAAUAFhURVhUX1BBSU5UU0hB
        UEVfRU5EAAAAAAAAAAAAAgEAIAAAABYAWFRFWFRfUEFJTlRTSEFQRV9CRUdJTgAAAAAAAAAA
        igABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAHsCAAD//wAAAgAFAAAAAAAA
@@ -11891,8 +11828,8 @@
        AAAAAAAAAAAAAgEAHgAAABQAWFRFWFRfUEFJTlRTSEFQRV9FTkQAAAAAAAAAAAACAQAgAAAA
        FgBYVEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMAOwAAAA8ATGliZXJh
        dGlvbiBTYW5zAAAAAAAAewIAAP//AAACAAUAAAAAAAAACQQAAAAAAAAAAQD/AwAAAAAAiAAB
-       AAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABxAAIAHgAAAKgXAAA6QgAAAQAAADEA
-       AAABAAEAAABfAQAAAQAxAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAACAQATAAAACQBY
+       AAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABxAAIAHgAAAKgXAAA6QgAAAQAAADAA
+       AAABAAEAAABfAQAAAQAwAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAACAQATAAAACQBY
        VEVYVF9FT0wAAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1AAAAAAAAAAAAACAQAeAAAAFABY
        VEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhUX1BBSU5UU0hBUEVf
        QkVHSU4AAAAAAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAAB7AgAA
@@ -12060,12 +11997,12 @@
     </draw:frame>
     <draw:frame draw:style-name="gr3" draw:text-style-name="P4" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="14.058cm" svg:y="9.5cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">6</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m6</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr3" draw:text-style-name="P4" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="10.858cm" svg:y="9.5cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">7</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m7</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P5" draw:layer="layout" svg:width="1.205cm" svg:height="0.962cm" svg:x="5.553cm" svg:y="5.8cm">
@@ -12509,7 +12446,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr4" draw:text-style-name="P4" draw:layer="layout" svg:width="1.2cm" svg:height="0.607cm" svg:x="14.055cm" svg:y="15.3cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">1</text:span><text:span text:style-name="T2">0</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m10</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr4" draw:text-style-name="P4" draw:layer="layout" svg:width="1.2cm" svg:height="0.607cm" svg:x="4.555cm" svg:y="12.5cm">
@@ -12557,9 +12494,9 @@
       <text:p>z</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr11" draw:text-style-name="P5" draw:layer="layout" svg:width="2.369cm" svg:height="0.962cm" svg:x="2.6cm" svg:y="2.2cm">
+    <draw:frame draw:style-name="gr11" draw:text-style-name="P5" draw:layer="layout" svg:width="2.547cm" svg:height="0.962cm" svg:x="2.6cm" svg:y="2.2cm">
      <draw:text-box>
-      <text:p>3-9 (f)</text:p>
+      <text:p>3-10 (f)</text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr12" draw:text-style-name="P5" draw:layer="layout" svg:width="0.82cm" svg:height="0.962cm" svg:x="18.4cm" svg:y="11.9cm">
@@ -12567,72 +12504,63 @@
       <text:p>x</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr34" draw:text-style-name="P1" draw:layer="layout" svg:width="4.9cm" svg:height="1.6cm" draw:transform="rotate (1.5707963267949) translate (8.7cm 12cm)">
+    <draw:custom-shape draw:style-name="gr31" draw:text-style-name="P1" draw:layer="layout" svg:width="4.9cm" svg:height="4.8cm" draw:transform="rotate (1.5707963267949) translate (5.5cm 12cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr35" draw:text-style-name="P1" draw:layer="layout" svg:width="4.9cm" svg:height="1.6cm" svg:x="8.9cm" svg:y="10.2cm">
-     <text:p/>
-     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
-    </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr36" draw:text-style-name="P1" draw:layer="layout" svg:width="4.4cm" svg:height="1.444cm" draw:transform="rotate (1.5707963267949) translate (11.956cm 14.831cm)">
+    <draw:custom-shape draw:style-name="gr32" draw:text-style-name="P1" draw:layer="layout" svg:width="4.4cm" svg:height="1.444cm" draw:transform="rotate (1.5707963267949) translate (11.956cm 14.831cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
     <draw:g>
-     <draw:line draw:style-name="gr15" draw:text-style-name="P6" draw:layer="layout" svg:x1="4.614cm" svg:y1="5.402cm" svg:x2="7.301cm" svg:y2="8.089cm">
+     <draw:line draw:style-name="gr15" draw:text-style-name="P1" draw:layer="layout" svg:x1="15cm" svg:y1="18.8cm" svg:x2="15cm" svg:y2="15.9cm">
       <text:p/>
      </draw:line>
-     <draw:line draw:style-name="gr15" draw:text-style-name="P6" draw:layer="layout" svg:x1="3.417cm" svg:y1="6.602cm" svg:x2="6.104cm" svg:y2="9.289cm">
+     <draw:line draw:style-name="gr15" draw:text-style-name="P1" draw:layer="layout" svg:x1="16.4cm" svg:y1="18.8cm" svg:x2="16.4cm" svg:y2="15.9cm">
       <text:p/>
      </draw:line>
-     <draw:line draw:style-name="gr15" draw:text-style-name="P6" draw:layer="layout" svg:x1="6.104cm" svg:y1="9.289cm" svg:x2="7.301cm" svg:y2="8.089cm">
-      <text:p/>
-     </draw:line>
-    </draw:g>
-    <draw:g>
-     <draw:line draw:style-name="gr15" draw:text-style-name="P6" draw:layer="layout" svg:x1="3.614cm" svg:y1="18.189cm" svg:x2="6.301cm" svg:y2="15.502cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr15" draw:text-style-name="P6" draw:layer="layout" svg:x1="4.814cm" svg:y1="19.386cm" svg:x2="7.501cm" svg:y2="16.699cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr15" draw:text-style-name="P6" draw:layer="layout" svg:x1="7.501cm" svg:y1="16.699cm" svg:x2="6.301cm" svg:y2="15.502cm">
+     <draw:line draw:style-name="gr15" draw:text-style-name="P1" draw:layer="layout" svg:x1="16.4cm" svg:y1="15.9cm" svg:x2="15cm" svg:y2="15.9cm">
       <text:p/>
      </draw:line>
     </draw:g>
     <draw:g>
-     <draw:line draw:style-name="gr15" draw:text-style-name="P6" draw:layer="layout" svg:x1="17.004cm" svg:y1="19.389cm" svg:x2="14.317cm" svg:y2="16.702cm">
+     <draw:line draw:style-name="gr15" draw:text-style-name="P1" draw:layer="layout" svg:x1="16.3cm" svg:y1="5.9cm" svg:x2="16.3cm" svg:y2="8.8cm">
       <text:p/>
      </draw:line>
-     <draw:line draw:style-name="gr15" draw:text-style-name="P6" draw:layer="layout" svg:x1="18.201cm" svg:y1="18.189cm" svg:x2="15.514cm" svg:y2="15.502cm">
+     <draw:line draw:style-name="gr15" draw:text-style-name="P1" draw:layer="layout" svg:x1="15cm" svg:y1="5.9cm" svg:x2="15cm" svg:y2="8.8cm">
       <text:p/>
      </draw:line>
-     <draw:line draw:style-name="gr15" draw:text-style-name="P6" draw:layer="layout" svg:x1="15.514cm" svg:y1="15.502cm" svg:x2="14.317cm" svg:y2="16.702cm">
-      <text:p/>
-     </draw:line>
-    </draw:g>
-    <draw:g>
-     <draw:line draw:style-name="gr15" draw:text-style-name="P6" draw:layer="layout" svg:x1="18.201cm" svg:y1="6.699cm" svg:x2="15.514cm" svg:y2="9.386cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr15" draw:text-style-name="P6" draw:layer="layout" svg:x1="17.001cm" svg:y1="5.502cm" svg:x2="14.314cm" svg:y2="8.189cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr15" draw:text-style-name="P6" draw:layer="layout" svg:x1="14.314cm" svg:y1="8.189cm" svg:x2="15.514cm" svg:y2="9.386cm">
+     <draw:line draw:style-name="gr15" draw:text-style-name="P1" draw:layer="layout" svg:x1="15cm" svg:y1="8.8cm" svg:x2="16.3cm" svg:y2="8.8cm">
       <text:p/>
      </draw:line>
     </draw:g>
-    <draw:frame draw:style-name="gr28" draw:text-style-name="P5" draw:layer="layout" svg:width="10.764cm" svg:height="0.962cm" svg:x="3.9cm" svg:y="20.8cm">
+    <draw:frame draw:style-name="gr16" draw:text-style-name="P5" draw:layer="layout" svg:width="8.054cm" svg:height="0.962cm" svg:x="3.9cm" svg:y="22.1cm">
      <draw:text-box>
-      <text:p>Prime Implicant: x’z’, w’y’z, w’xz, xyz</text:p>
+      <text:p>F = w’y’ + xyz + w’z’ + x’yz’</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr28" draw:text-style-name="P5" draw:layer="layout" svg:width="13.511cm" svg:height="0.962cm" svg:x="3.858cm" svg:y="22.638cm">
-     <draw:text-box>
-      <text:p><text:span text:style-name="T3">Essenti</text:span><text:span text:style-name="T3">al </text:span><text:span text:style-name="T3">Prime </text:span><text:span text:style-name="T3">Implica</text:span><text:span text:style-name="T3">nt: x’z’, </text:span><text:span text:style-name="T3">w’y’z, </text:span><text:span text:style-name="T3">w’xz, </text:span><text:span text:style-name="T3">xyz</text:span></text:p>
-     </draw:text-box>
-    </draw:frame>
+    <draw:g>
+     <draw:line draw:style-name="gr33" draw:text-style-name="P1" draw:layer="layout" svg:x1="4.2cm" svg:y1="7.3cm" svg:x2="7.1cm" svg:y2="7.3cm">
+      <text:p/>
+     </draw:line>
+     <draw:line draw:style-name="gr33" draw:text-style-name="P1" draw:layer="layout" svg:x1="4.2cm" svg:y1="11.6cm" svg:x2="7.1cm" svg:y2="11.6cm">
+      <text:p/>
+     </draw:line>
+     <draw:line draw:style-name="gr33" draw:text-style-name="P1" draw:layer="layout" svg:x1="7.1cm" svg:y1="11.6cm" svg:x2="7.1cm" svg:y2="7.3cm">
+      <text:p/>
+     </draw:line>
+    </draw:g>
+    <draw:g>
+     <draw:line draw:style-name="gr33" draw:text-style-name="P1" draw:layer="layout" svg:x1="17.6cm" svg:y1="11.6cm" svg:x2="14.7cm" svg:y2="11.6cm">
+      <text:p/>
+     </draw:line>
+     <draw:line draw:style-name="gr33" draw:text-style-name="P1" draw:layer="layout" svg:x1="17.6cm" svg:y1="7.3cm" svg:x2="14.7cm" svg:y2="7.3cm">
+      <text:p/>
+     </draw:line>
+     <draw:line draw:style-name="gr33" draw:text-style-name="P1" draw:layer="layout" svg:x1="14.7cm" svg:y1="7.3cm" svg:x2="14.7cm" svg:y2="11.6cm">
+      <text:p/>
+     </draw:line>
+    </draw:g>
    </draw:page>
   </office:drawing>
  </office:body>
