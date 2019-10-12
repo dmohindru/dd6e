@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.graphics">
- <office:meta><meta:initial-creator>Dhruv </meta:initial-creator><meta:creation-date>2019-10-11T09:10:41.729998739</meta:creation-date><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><dc:date>2019-10-11T09:13:44.029993713</dc:date><dc:creator>Dhruv </dc:creator><meta:editing-duration>PT3M2S</meta:editing-duration><meta:editing-cycles>1</meta:editing-cycles><meta:document-statistic meta:object-count="217"/></office:meta>
+ <office:meta><meta:initial-creator>Dhruv </meta:initial-creator><meta:creation-date>2019-10-11T09:10:41.729998739</meta:creation-date><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><dc:date>2019-10-12T08:53:35.894148065</dc:date><dc:creator>Dhruv </dc:creator><meta:editing-duration>PT50M1S</meta:editing-duration><meta:editing-cycles>11</meta:editing-cycles><meta:document-statistic meta:object-count="212"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
@@ -293,28 +293,55 @@
    <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="0.712cm" fo:min-width="0.459cm"/>
   </style:style>
   <style:style style:name="gr12" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="0cm" fo:min-width="0cm"/>
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="0.712cm" fo:min-width="2.22cm"/>
   </style:style>
-  <style:style style:name="gr13" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="0.75cm" fo:min-width="0cm"/>
-  </style:style>
-  <style:style style:name="gr14" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="0.712cm" fo:min-width="0.916cm"/>
-  </style:style>
-  <style:style style:name="gr15" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#0500a7" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="1.216cm" fo:min-width="9.866cm" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
-  </style:style>
-  <style:style style:name="gr16" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#3465a4" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="1.016cm" fo:min-width="3.856cm" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
-  </style:style>
-  <style:style style:name="gr17" style:family="graphic" style:parent-style-name="objectwithoutfill">
+  <style:style style:name="gr13" style:family="graphic" style:parent-style-name="objectwithoutfill">
    <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#fa0707" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-vertical-align="middle" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
   </style:style>
-  <style:style style:name="gr18" style:family="graphic" style:parent-style-name="objectwithoutfill">
-   <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#ff00fb" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-vertical-align="middle" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
+  <style:style style:name="gr14" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#3465a4" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="1.016cm" fo:min-width="3.856cm" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
+  </style:style>
+  <style:style style:name="gr15" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="0cm" fo:min-width="0cm"/>
+  </style:style>
+  <style:style style:name="gr16" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#ff00fb" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="1.016cm" fo:min-width="4.366cm" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
+  </style:style>
+  <style:style style:name="gr17" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#039906" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="1.016cm" fo:min-width="4.166cm" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
+  </style:style>
+  <style:style style:name="gr18" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="0.75cm" fo:min-width="0cm"/>
   </style:style>
   <style:style style:name="gr19" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="0.712cm" fo:min-width="0.916cm"/>
+  </style:style>
+  <style:style style:name="gr20" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#0500a7" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="1.216cm" fo:min-width="9.866cm" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
+  </style:style>
+  <style:style style:name="gr21" style:family="graphic" style:parent-style-name="objectwithoutfill">
+   <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#ff00fb" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-vertical-align="middle" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
+  </style:style>
+  <style:style style:name="gr22" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#039906" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="4.361cm" fo:min-width="4.466cm" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
+  </style:style>
+  <style:style style:name="gr23" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#039906" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="4.361cm" fo:min-width="4.666cm" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
+  </style:style>
+  <style:style style:name="gr24" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="0.712cm" fo:min-width="2.186cm"/>
+  </style:style>
+  <style:style style:name="gr25" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#039906" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="4.361cm" fo:min-width="3.766cm" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
+  </style:style>
+  <style:style style:name="gr26" style:family="graphic" style:parent-style-name="objectwithoutfill">
+   <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#3465a4" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-vertical-align="middle" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
+  </style:style>
+  <style:style style:name="gr27" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#fa0707" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="1.216cm" fo:min-width="9.866cm" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
+  </style:style>
+  <style:style style:name="gr28" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-width="0.035cm" svg:stroke-color="#ff00fb" draw:marker-start-width="0.252cm" draw:marker-end-width="0.252cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="4.361cm" fo:min-width="4.466cm" fo:padding-top="0.142cm" fo:padding-bottom="0.142cm" fo:padding-left="0.267cm" fo:padding-right="0.267cm"/>
   </style:style>
   <style:style style:name="co1" style:family="table-column">
    <style:table-column-properties style:column-width="3.138cm" style:use-optimal-column-width="false"/>
@@ -1634,7 +1661,7 @@
       <table:table-column table:style-name="co2"/>
       <table:table-row table:style-name="ro1" table:default-cell-style-name="ce1">
        <table:table-cell>
-        <text:p text:style-name="P2"><text:span text:style-name="T1">0</text:span></text:p>
+        <text:p text:style-name="P2"><text:span text:style-name="T1">1</text:span></text:p>
        </table:table-cell>
        <table:table-cell>
         <text:p text:style-name="P2"><text:span text:style-name="T1">0</text:span></text:p>
@@ -1643,21 +1670,21 @@
         <text:p text:style-name="P2"><text:span text:style-name="T1">0</text:span></text:p>
        </table:table-cell>
        <table:table-cell>
-        <text:p text:style-name="P2"><text:span text:style-name="T1">0</text:span></text:p>
+        <text:p text:style-name="P2"><text:span text:style-name="T1">1</text:span></text:p>
        </table:table-cell>
       </table:table-row>
       <table:table-row table:style-name="ro2" table:default-cell-style-name="ce1">
        <table:table-cell>
-        <text:p text:style-name="P2"><text:span text:style-name="T1">0</text:span></text:p>
+        <text:p text:style-name="P2"><text:span text:style-name="T1">1</text:span></text:p>
        </table:table-cell>
        <table:table-cell>
         <text:p text:style-name="P2"><text:span text:style-name="T1">0</text:span></text:p>
        </table:table-cell>
        <table:table-cell>
-        <text:p text:style-name="P2"><text:span text:style-name="T1">0</text:span></text:p>
+        <text:p text:style-name="P2"><text:span text:style-name="T1">1</text:span></text:p>
        </table:table-cell>
        <table:table-cell>
-        <text:p text:style-name="P2"><text:span text:style-name="T1">0</text:span></text:p>
+        <text:p text:style-name="P2"><text:span text:style-name="T1">1</text:span></text:p>
        </table:table-cell>
       </table:table-row>
      </table:table><draw:image>
@@ -1666,7 +1693,7 @@
        AAAJAAACAQAgAAAAFgBYVEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMA
        OwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAACAMAAP//AAACAAUAAAAAAAAACQQAAAAAAAAA
        AQD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABxAAIAHgAAAEcX
-       AAACHwAAAQAAADAAAAABAAEAAACwAQAAAQAwAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAA
+       AAACHwAAAQAAADEAAAABAAEAAACwAQAAAQAxAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAA
        AAACAQATAAAACQBYVEVYVF9FT0wAAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1AAAAAAAAAA
        AAACAQAeAAAAFABYVEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhU
        X1BBSU5UU0hBUEVfQkVHSU4AAAAAAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNh
@@ -1683,13 +1710,13 @@
        AAACAQAgAAAAFgBYVEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMAOwAA
        AA8ATGliZXJhdGlvbiBTYW5zAAAAAAAACAMAAP//AAACAAUAAAAAAAAACQQAAAAAAAAAAQD/
        AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABxAAIAHgAAAP07AAAC
-       HwAAAQAAADAAAAABAAEAAACwAQAAAQAwAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAAC
+       HwAAAQAAADEAAAABAAEAAACwAQAAAQAxAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAAC
        AQATAAAACQBYVEVYVF9FT0wAAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1AAAAAAAAAAAAAC
        AQAeAAAAFABYVEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhUX1BB
        SU5UU0hBUEVfQkVHSU4AAAAAAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMA
        AAAAAAAIAwAA//8AAAIABQAAAAAAAAAJBAAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEAhwAB
-       AAUAAAD/////AIYAAQAEAAAAAAAAAHEAAgAeAAAARxcAAEkqAAABAAAAMAAAAAEAAQAAALAB
-       AAABADAAAAIBABMAAAAJAFhURVhUX0VPQwAAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPTAAA
+       AAUAAAD/////AIYAAQAEAAAAAAAAAHEAAgAeAAAARxcAAEkqAAABAAAAMQAAAAEAAQAAALAB
+       AAABADEAAAIBABMAAAAJAFhURVhUX0VPQwAAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPTAAA
        AAAAAAAAAAIBABMAAAAJAFhURVhUX0VPUAAAAAAAAAAAAAIBAB4AAAAUAFhURVhUX1BBSU5U
        U0hBUEVfRU5EAAAAAAAAAAAAAgEAIAAAABYAWFRFWFRfUEFJTlRTSEFQRV9CRUdJTgAAAAAA
        AAAAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAAgDAAD//wAAAgAFAAAA
@@ -1700,13 +1727,13 @@
        AQAgAAAAFgBYVEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMAOwAAAA8A
        TGliZXJhdGlvbiBTYW5zAAAAAAAACAMAAP//AAACAAUAAAAAAAAACQQAAAAAAAAAAQD/AwAA
        AAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABxAAIAHgAAAMsvAABJKgAA
-       AQAAADAAAAABAAEAAACwAQAAAQAwAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAACAQAT
+       AQAAADEAAAABAAEAAACwAQAAAQAxAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAACAQAT
        AAAACQBYVEVYVF9FT0wAAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1AAAAAAAAAAAAACAQAe
        AAAAFABYVEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhUX1BBSU5U
        U0hBUEVfQkVHSU4AAAAAAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAA
        AAAIAwAA//8AAAIABQAAAAAAAAAJBAAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEAhwABAAUA
-       AAD/////AIYAAQAEAAAAAAAAAHEAAgAeAAAA/TsAAEkqAAABAAAAMAAAAAEAAQAAALABAAAB
-       ADAAAAIBABMAAAAJAFhURVhUX0VPQwAAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPTAAAAAAA
+       AAD/////AIYAAQAEAAAAAAAAAHEAAgAeAAAA/TsAAEkqAAABAAAAMQAAAAEAAQAAALABAAAB
+       ADEAAAIBABMAAAAJAFhURVhUX0VPQwAAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPTAAAAAAA
        AAAAAAIBABMAAAAJAFhURVhUX0VPUAAAAAAAAAAAAAIBAB4AAAAUAFhURVhUX1BBSU5UU0hB
        UEVfRU5EAAAAAAAAAACLAAEAAgAAAAMAhAABAAUAAAAAAAAAAQACAQBuAAAAFQBYUEFUSFNU
        Uk9LRV9TRVFfQkVHSU4AAAAATwAAAAEASQAAAAEAEwAAAAIAiBEAAFMYAACUQgAAUxgAAAAB
@@ -1797,42 +1824,42 @@
     </draw:line>
     <draw:frame draw:style-name="gr3" draw:text-style-name="P3" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="4.458cm" svg:y="6.2cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">0</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m0</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr4" draw:text-style-name="P3" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="7.658cm" svg:y="6.2cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">1</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m1</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr4" draw:text-style-name="P3" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="13.958cm" svg:y="6.2cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">2</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m2</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr4" draw:text-style-name="P3" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="10.758cm" svg:y="6.2cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">3</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m3</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr4" draw:text-style-name="P3" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="4.458cm" svg:y="9.1cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">4</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m4</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr3" draw:text-style-name="P3" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="7.658cm" svg:y="9.1cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">5</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m5</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr3" draw:text-style-name="P3" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="13.958cm" svg:y="9.1cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">6</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m6</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr3" draw:text-style-name="P3" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="10.758cm" svg:y="9.1cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">7</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m7</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P4" draw:layer="layout" svg:width="1.205cm" svg:height="0.962cm" svg:x="5.453cm" svg:y="5.4cm">
@@ -1877,7 +1904,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr9" draw:text-style-name="P4" draw:layer="layout" svg:width="0.925cm" svg:height="0.962cm" svg:x="2.1cm" svg:y="10.037cm">
      <draw:text-box>
-      <text:p>A</text:p>
+      <text:p>x</text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr9" draw:text-style-name="P4" draw:layer="layout" svg:width="0.925cm" svg:height="0.962cm" svg:x="13.626cm" svg:y="3.884cm">
@@ -1893,6 +1920,50 @@
     <draw:frame draw:style-name="gr12" draw:text-style-name="P4" draw:layer="layout" svg:width="2.72cm" svg:height="0.962cm" svg:x="3.4cm" svg:y="2.3cm">
      <draw:text-box>
       <text:p>3-13 (a)</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:g>
+     <draw:line draw:style-name="gr13" draw:text-style-name="P1" draw:layer="layout" svg:x1="4.1cm" svg:y1="6.8cm" svg:x2="6.8cm" svg:y2="6.8cm">
+      <text:p/>
+     </draw:line>
+     <draw:line draw:style-name="gr13" draw:text-style-name="P1" draw:layer="layout" svg:x1="4.1cm" svg:y1="11.4cm" svg:x2="6.8cm" svg:y2="11.4cm">
+      <text:p/>
+     </draw:line>
+     <draw:line draw:style-name="gr13" draw:text-style-name="P1" draw:layer="layout" svg:x1="6.8cm" svg:y1="11.4cm" svg:x2="6.8cm" svg:y2="6.8cm">
+      <text:p/>
+     </draw:line>
+    </draw:g>
+    <draw:g>
+     <draw:line draw:style-name="gr13" draw:text-style-name="P1" draw:layer="layout" svg:x1="17.5cm" svg:y1="11.4cm" svg:x2="14.8cm" svg:y2="11.4cm">
+      <text:p/>
+     </draw:line>
+     <draw:line draw:style-name="gr13" draw:text-style-name="P1" draw:layer="layout" svg:x1="17.5cm" svg:y1="6.8cm" svg:x2="14.8cm" svg:y2="6.8cm">
+      <text:p/>
+     </draw:line>
+     <draw:line draw:style-name="gr13" draw:text-style-name="P1" draw:layer="layout" svg:x1="14.8cm" svg:y1="6.8cm" svg:x2="14.8cm" svg:y2="11.4cm">
+      <text:p/>
+     </draw:line>
+    </draw:g>
+    <draw:custom-shape draw:style-name="gr14" draw:text-style-name="P1" draw:layer="layout" svg:width="4.39cm" svg:height="1.3cm" svg:x="11.9cm" svg:y="9.8cm">
+     <text:p/>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:frame draw:style-name="gr15" draw:text-style-name="P4" draw:layer="layout" svg:width="3.597cm" svg:height="0.962cm" svg:x="3cm" svg:y="14.1cm">
+     <draw:text-box>
+      <text:p>F = z’ + xy </text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:custom-shape draw:style-name="gr16" draw:text-style-name="P1" draw:layer="layout" svg:width="4.9cm" svg:height="1.3cm" svg:x="8.1cm" svg:y="7.1cm">
+     <text:p/>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr17" draw:text-style-name="P1" draw:layer="layout" svg:width="4.7cm" svg:height="1.3cm" draw:transform="rotate (1.5707963267949) translate (8.7cm 11.5cm)">
+     <text:p/>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:frame draw:style-name="gr15" draw:text-style-name="P4" draw:layer="layout" svg:width="5.472cm" svg:height="0.962cm" svg:x="3.5cm" svg:y="16.1cm">
+     <draw:text-box>
+      <text:p>F = (x + z’)(y + z’)</text:p>
      </draw:text-box>
     </draw:frame>
    </draw:page>
@@ -3062,27 +3133,13 @@
       <table:table-column table:style-name="co2"/>
       <table:table-row table:style-name="ro1" table:default-cell-style-name="ce3">
        <table:table-cell table:style-name="ce2">
-        <text:p text:style-name="P5"><text:span text:style-name="T3">1</text:span></text:p>
+        <text:p text:style-name="P5"><text:span text:style-name="T3">0</text:span></text:p>
        </table:table-cell>
        <table:table-cell>
         <text:p text:style-name="P6">0</text:p>
        </table:table-cell>
        <table:table-cell>
-        <text:p text:style-name="P6">1</text:p>
-       </table:table-cell>
-       <table:table-cell>
-        <text:p text:style-name="P6">1</text:p>
-       </table:table-cell>
-      </table:table-row>
-      <table:table-row table:style-name="ro2" table:default-cell-style-name="ce3">
-       <table:table-cell>
         <text:p text:style-name="P6">0</text:p>
-       </table:table-cell>
-       <table:table-cell>
-        <text:p text:style-name="P6">1</text:p>
-       </table:table-cell>
-       <table:table-cell>
-        <text:p text:style-name="P6">1</text:p>
        </table:table-cell>
        <table:table-cell>
         <text:p text:style-name="P6">0</text:p>
@@ -3099,13 +3156,24 @@
         <text:p text:style-name="P6">1</text:p>
        </table:table-cell>
        <table:table-cell>
-        <text:p text:style-name="P6">1</text:p>
+        <text:p text:style-name="P6">0</text:p>
        </table:table-cell>
       </table:table-row>
       <table:table-row table:style-name="ro2" table:default-cell-style-name="ce3">
        <table:table-cell>
         <text:p text:style-name="P6">1</text:p>
        </table:table-cell>
+       <table:table-cell>
+        <text:p text:style-name="P6">1</text:p>
+       </table:table-cell>
+       <table:table-cell>
+        <text:p text:style-name="P6">1</text:p>
+       </table:table-cell>
+       <table:table-cell>
+        <text:p text:style-name="P6">0</text:p>
+       </table:table-cell>
+      </table:table-row>
+      <table:table-row table:style-name="ro2" table:default-cell-style-name="ce3">
        <table:table-cell>
         <text:p text:style-name="P6">0</text:p>
        </table:table-cell>
@@ -3114,6 +3182,9 @@
        </table:table-cell>
        <table:table-cell>
         <text:p text:style-name="P6">1</text:p>
+       </table:table-cell>
+       <table:table-cell>
+        <text:p text:style-name="P6">0</text:p>
        </table:table-cell>
       </table:table-row>
      </table:table><draw:image>
@@ -3122,7 +3193,7 @@
        AAAJAAACAQAgAAAAFgBYVEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMA
        OwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAAewIAAP//AAACAAUAAAAAAAAACQQAAAAAAAAA
        AQD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABxAAIAHgAAAKsX
-       AAAtHwAAAQAAADEAAAABAAEAAABfAQAAAQAxAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAA
+       AAAtHwAAAQAAADAAAAABAAEAAABfAQAAAQAwAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAA
        AAACAQATAAAACQBYVEVYVF9FT0wAAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1AAAAAAAAAA
        AAACAQAeAAAAFABYVEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhU
        X1BBSU5UU0hBUEVfQkVHSU4AAAAAAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNh
@@ -3133,13 +3204,13 @@
        SU5UU0hBUEVfRU5EAAAAAAAAAAAAAgEAIAAAABYAWFRFWFRfUEFJTlRTSEFQRV9CRUdJTgAA
        AAAAAAAAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAHsCAAD//wAAAgAF
        AAAAAAAAAAkEAAAAAAAAAAEA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQA
-       AAAAAAAAcQACAB4AAAAvMAAALR8AAAEAAAAxAAAAAQABAAAAXwEAAAEAMQAAAgEAEwAAAAkA
+       AAAAAAAAcQACAB4AAAAvMAAALR8AAAEAAAAwAAAAAQABAAAAXwEAAAEAMAAAAgEAEwAAAAkA
        WFRFWFRfRU9DAAAAAAAAAAAAAgEAEwAAAAkAWFRFWFRfRU9MAAAAAAAAAAAAAgEAEwAAAAkA
        WFRFWFRfRU9QAAAAAAAAAAAAAgEAHgAAABQAWFRFWFRfUEFJTlRTSEFQRV9FTkQAAAAAAAAA
        AAACAQAgAAAAFgBYVEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMAOwAA
        AA8ATGliZXJhdGlvbiBTYW5zAAAAAAAAewIAAP//AAACAAUAAAAAAAAACQQAAAAAAAAAAQD/
        AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABxAAIAHgAAAHE8AAAt
-       HwAAAQAAADEAAAABAAEAAABfAQAAAQAxAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAAC
+       HwAAAQAAADAAAAABAAEAAABfAQAAAQAwAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAAC
        AQATAAAACQBYVEVYVF9FT0wAAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1AAAAAAAAAAAAAC
        AQAeAAAAFABYVEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhUX1BB
        SU5UU0hBUEVfQkVHSU4AAAAAAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMA
@@ -3150,7 +3221,7 @@
        U0hBUEVfRU5EAAAAAAAAAAAAAgEAIAAAABYAWFRFWFRfUEFJTlRTSEFQRV9CRUdJTgAAAAAA
        AAAAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAHsCAAD//wAAAgAFAAAA
        AAAAAAkEAAAAAAAAAAEA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAA
-       AAAAcQACAB4AAADtIwAAcyoAAAEAAAAxAAAAAQABAAAAXwEAAAEAMQAAAgEAEwAAAAkAWFRF
+       AAAAcQACAB4AAADtIwAAcyoAAAEAAAAwAAAAAQABAAAAXwEAAAEAMAAAAgEAEwAAAAkAWFRF
        WFRfRU9DAAAAAAAAAAAAAgEAEwAAAAkAWFRFWFRfRU9MAAAAAAAAAAAAAgEAEwAAAAkAWFRF
        WFRfRU9QAAAAAAAAAAAAAgEAHgAAABQAWFRFWFRfUEFJTlRTSEFQRV9FTkQAAAAAAAAAAAAC
        AQAgAAAAFgBYVEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMAOwAAAA8A
@@ -3167,13 +3238,13 @@
        UEVfRU5EAAAAAAAAAAAAAgEAIAAAABYAWFRFWFRfUEFJTlRTSEFQRV9CRUdJTgAAAAAAAAAA
        igABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAHsCAAD//wAAAgAFAAAAAAAA
        AAkEAAAAAAAAAAEA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAA
-       cQACAB4AAACrFwAAvDUAAAEAAAAwAAAAAQABAAAAXwEAAAEAMAAAAgEAEwAAAAkAWFRFWFRf
+       cQACAB4AAACrFwAAvDUAAAEAAAAxAAAAAQABAAAAXwEAAAEAMQAAAgEAEwAAAAkAWFRFWFRf
        RU9DAAAAAAAAAAAAAgEAEwAAAAkAWFRFWFRfRU9MAAAAAAAAAAAAAgEAEwAAAAkAWFRFWFRf
        RU9QAAAAAAAAAAAAAgEAHgAAABQAWFRFWFRfUEFJTlRTSEFQRV9FTkQAAAAAAAAAAAACAQAg
        AAAAFgBYVEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMAOwAAAA8ATGli
        ZXJhdGlvbiBTYW5zAAAAAAAAewIAAP//AAACAAUAAAAAAAAACQQAAAAAAAAAAQD/AwAAAAAA
        iAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABxAAIAHgAAAO0jAAC8NQAAAQAA
-       ADAAAAABAAEAAABfAQAAAQAwAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAACAQATAAAA
+       ADEAAAABAAEAAABfAQAAAQAxAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAACAQATAAAA
        CQBYVEVYVF9FT0wAAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1AAAAAAAAAAAAACAQAeAAAA
        FABYVEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhUX1BBSU5UU0hB
        UEVfQkVHSU4AAAAAAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAAB7
@@ -3184,18 +3255,18 @@
        RU5EAAAAAAAAAAAAAgEAIAAAABYAWFRFWFRfUEFJTlRTSEFQRV9CRUdJTgAAAAAAAAAAigAB
        AEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAHsCAAD//wAAAgAFAAAAAAAAAAkE
        AAAAAAAAAAEA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcQAC
-       AB4AAABxPAAAvDUAAAEAAAAxAAAAAQABAAAAXwEAAAEAMQAAAgEAEwAAAAkAWFRFWFRfRU9D
+       AB4AAABxPAAAvDUAAAEAAAAwAAAAAQABAAAAXwEAAAEAMAAAAgEAEwAAAAkAWFRFWFRfRU9D
        AAAAAAAAAAAAAgEAEwAAAAkAWFRFWFRfRU9MAAAAAAAAAAAAAgEAEwAAAAkAWFRFWFRfRU9Q
        AAAAAAAAAAAAAgEAHgAAABQAWFRFWFRfUEFJTlRTSEFQRV9FTkQAAAAAAAAAAAACAQAgAAAA
        FgBYVEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMAOwAAAA8ATGliZXJh
        dGlvbiBTYW5zAAAAAAAAewIAAP//AAACAAUAAAAAAAAACQQAAAAAAAAAAQD/AwAAAAAAiAAB
-       AAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABxAAIAHgAAAKsXAAAFQQAAAQAAADEA
-       AAABAAEAAABfAQAAAQAxAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAACAQATAAAACQBY
+       AAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABxAAIAHgAAAKsXAAAFQQAAAQAAADAA
+       AAABAAEAAABfAQAAAQAwAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAACAQATAAAACQBY
        VEVYVF9FT0wAAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1AAAAAAAAAAAAACAQAeAAAAFABY
        VEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhUX1BBSU5UU0hBUEVf
        QkVHSU4AAAAAAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAAB7AgAA
        //8AAAIABQAAAAAAAAAJBAAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////
-       AIYAAQAEAAAAAAAAAHEAAgAeAAAA7SMAAAVBAAABAAAAMAAAAAEAAQAAAF8BAAABADAAAAIB
+       AIYAAQAEAAAAAAAAAHEAAgAeAAAA7SMAAAVBAAABAAAAMQAAAAEAAQAAAF8BAAABADEAAAIB
        ABMAAAAJAFhURVhUX0VPQwAAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPTAAAAAAAAAAAAAIB
        ABMAAAAJAFhURVhUX0VPUAAAAAAAAAAAAAIBAB4AAAAUAFhURVhUX1BBSU5UU0hBUEVfRU5E
        AAAAAAAAAAAAAgEAIAAAABYAWFRFWFRfUEFJTlRTSEFQRV9CRUdJTgAAAAAAAAAAigABAEEA
@@ -3206,8 +3277,8 @@
        AAAAAAAAAgEAHgAAABQAWFRFWFRfUEFJTlRTSEFQRV9FTkQAAAAAAAAAAAACAQAgAAAAFgBY
        VEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMAOwAAAA8ATGliZXJhdGlv
        biBTYW5zAAAAAAAAewIAAP//AAACAAUAAAAAAAAACQQAAAAAAAAAAQD/AwAAAAAAiAABAAIA
-       AAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABxAAIAHgAAAHE8AAAFQQAAAQAAADEAAAAB
-       AAEAAABfAQAAAQAxAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAACAQATAAAACQBYVEVY
+       AAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABxAAIAHgAAAHE8AAAFQQAAAQAAADAAAAAB
+       AAEAAABfAQAAAQAwAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAACAQATAAAACQBYVEVY
        VF9FT0wAAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1AAAAAAAAAAAAACAQAeAAAAFABYVEVY
        VF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAiwABAAIAAAADAIQAAQAFAAAAAAAAAAEAAgEAbgAA
        ABUAWFBBVEhTVFJPS0VfU0VRX0JFR0lOAAAAAE8AAAABAEkAAAABABMAAAACAO8RAACuGAAA
@@ -3328,42 +3399,42 @@
     </draw:line>
     <draw:frame draw:style-name="gr3" draw:text-style-name="P3" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="4.561cm" svg:y="6.291cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">0</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m0</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr4" draw:text-style-name="P3" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="7.761cm" svg:y="6.291cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">1</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m1</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr4" draw:text-style-name="P3" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="14.061cm" svg:y="6.291cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">2</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m2</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr4" draw:text-style-name="P3" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="10.861cm" svg:y="6.291cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">3</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m3</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr4" draw:text-style-name="P3" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="4.561cm" svg:y="9.191cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">4</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m4</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr3" draw:text-style-name="P3" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="7.761cm" svg:y="9.191cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">5</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m5</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr3" draw:text-style-name="P3" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="14.061cm" svg:y="9.191cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">6</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m6</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr3" draw:text-style-name="P3" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="10.861cm" svg:y="9.191cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">7</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m7</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P4" draw:layer="layout" svg:width="1.205cm" svg:height="0.962cm" svg:x="5.556cm" svg:y="5.491cm">
@@ -3775,12 +3846,12 @@
       <text:p>00</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr13" draw:text-style-name="P4" draw:layer="layout" svg:width="1.492cm" svg:height="1cm" svg:x="2.228cm" svg:y="4.891cm">
+    <draw:frame draw:style-name="gr18" draw:text-style-name="P4" draw:layer="layout" svg:width="1.492cm" svg:height="1cm" svg:x="2.228cm" svg:y="4.891cm">
      <draw:text-box>
       <text:p>AB</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr14" draw:text-style-name="P4" draw:layer="layout" svg:width="1.416cm" svg:height="0.962cm" svg:x="3.012cm" svg:y="3.929cm">
+    <draw:frame draw:style-name="gr19" draw:text-style-name="P4" draw:layer="layout" svg:width="1.416cm" svg:height="0.962cm" svg:x="3.012cm" svg:y="3.929cm">
      <draw:text-box>
       <text:p>CD</text:p>
      </draw:text-box>
@@ -3802,42 +3873,42 @@
     </draw:frame>
     <draw:frame draw:style-name="gr4" draw:text-style-name="P3" draw:layer="layout" svg:width="1.2cm" svg:height="0.607cm" svg:x="14.058cm" svg:y="12.191cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">1</text:span><text:span text:style-name="T2">4</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m14</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr4" draw:text-style-name="P3" draw:layer="layout" svg:width="1.2cm" svg:height="0.607cm" svg:x="14.058cm" svg:y="14.991cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">1</text:span><text:span text:style-name="T2">0</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m10</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr4" draw:text-style-name="P3" draw:layer="layout" svg:width="1.2cm" svg:height="0.607cm" svg:x="4.558cm" svg:y="12.191cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">1</text:span><text:span text:style-name="T2">2</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m12</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr4" draw:text-style-name="P3" draw:layer="layout" svg:width="1.2cm" svg:height="0.607cm" svg:x="7.758cm" svg:y="12.191cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">1</text:span><text:span text:style-name="T2">3</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m13</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr4" draw:text-style-name="P3" draw:layer="layout" svg:width="1.2cm" svg:height="0.607cm" svg:x="10.858cm" svg:y="12.191cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">1</text:span><text:span text:style-name="T2">5</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m15</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr3" draw:text-style-name="P3" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="4.558cm" svg:y="14.991cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">8</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m8</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr4" draw:text-style-name="P3" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="7.758cm" svg:y="14.991cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">9</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m9</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr4" draw:text-style-name="P3" draw:layer="layout" svg:width="1.2cm" svg:height="0.607cm" svg:x="10.858cm" svg:y="14.991cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">1</text:span><text:span text:style-name="T2">1</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m11</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr9" draw:text-style-name="P4" draw:layer="layout" svg:width="0.925cm" svg:height="0.962cm" svg:x="1.603cm" svg:y="14.491cm">
@@ -3855,87 +3926,87 @@
       <text:p>D</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr15" draw:text-style-name="P1" draw:layer="layout" svg:width="10.4cm" svg:height="1.5cm" draw:transform="rotate (1.5707963267949) translate (11.953cm 17.241cm)">
+    <draw:custom-shape draw:style-name="gr20" draw:text-style-name="P1" draw:layer="layout" svg:width="10.4cm" svg:height="1.5cm" draw:transform="rotate (1.5707963267949) translate (15cm 17.5cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr16" draw:text-style-name="P1" draw:layer="layout" svg:width="4.39cm" svg:height="1.3cm" svg:x="8.858cm" svg:y="10.046cm">
+    <draw:custom-shape draw:style-name="gr14" draw:text-style-name="P1" draw:layer="layout" svg:width="4.39cm" svg:height="1.3cm" svg:x="5.7cm" svg:y="13.2cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
     <draw:g>
-     <draw:line draw:style-name="gr17" draw:text-style-name="P1" draw:layer="layout" svg:x1="11.803cm" svg:y1="18.191cm" svg:x2="11.803cm" svg:y2="15.491cm">
+     <draw:line draw:style-name="gr21" draw:text-style-name="P7" draw:layer="layout" svg:x1="4.714cm" svg:y1="5.092cm" svg:x2="7.401cm" svg:y2="7.779cm">
       <text:p/>
      </draw:line>
-     <draw:line draw:style-name="gr17" draw:text-style-name="P1" draw:layer="layout" svg:x1="16.403cm" svg:y1="18.191cm" svg:x2="16.403cm" svg:y2="15.491cm">
+     <draw:line draw:style-name="gr21" draw:text-style-name="P7" draw:layer="layout" svg:x1="3.517cm" svg:y1="6.292cm" svg:x2="6.204cm" svg:y2="8.979cm">
       <text:p/>
      </draw:line>
-     <draw:line draw:style-name="gr17" draw:text-style-name="P1" draw:layer="layout" svg:x1="16.403cm" svg:y1="15.491cm" svg:x2="11.803cm" svg:y2="15.491cm">
-      <text:p/>
-     </draw:line>
-    </draw:g>
-    <draw:g>
-     <draw:line draw:style-name="gr17" draw:text-style-name="P1" draw:layer="layout" svg:x1="16.403cm" svg:y1="5.791cm" svg:x2="16.403cm" svg:y2="8.491cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr17" draw:text-style-name="P1" draw:layer="layout" svg:x1="11.803cm" svg:y1="5.791cm" svg:x2="11.803cm" svg:y2="8.491cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr17" draw:text-style-name="P1" draw:layer="layout" svg:x1="11.803cm" svg:y1="8.491cm" svg:x2="16.403cm" svg:y2="8.491cm">
+     <draw:line draw:style-name="gr21" draw:text-style-name="P7" draw:layer="layout" svg:x1="6.204cm" svg:y1="8.979cm" svg:x2="7.401cm" svg:y2="7.779cm">
       <text:p/>
      </draw:line>
     </draw:g>
     <draw:g>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="4.714cm" svg:y1="5.092cm" svg:x2="7.401cm" svg:y2="7.779cm">
+     <draw:line draw:style-name="gr21" draw:text-style-name="P7" draw:layer="layout" svg:x1="3.514cm" svg:y1="18.079cm" svg:x2="6.201cm" svg:y2="15.392cm">
       <text:p/>
      </draw:line>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="3.517cm" svg:y1="6.292cm" svg:x2="6.204cm" svg:y2="8.979cm">
+     <draw:line draw:style-name="gr21" draw:text-style-name="P7" draw:layer="layout" svg:x1="4.714cm" svg:y1="19.276cm" svg:x2="7.401cm" svg:y2="16.589cm">
       <text:p/>
      </draw:line>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="6.204cm" svg:y1="8.979cm" svg:x2="7.401cm" svg:y2="7.779cm">
-      <text:p/>
-     </draw:line>
-    </draw:g>
-    <draw:g>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="3.514cm" svg:y1="18.079cm" svg:x2="6.201cm" svg:y2="15.392cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="4.714cm" svg:y1="19.276cm" svg:x2="7.401cm" svg:y2="16.589cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="7.401cm" svg:y1="16.589cm" svg:x2="6.201cm" svg:y2="15.392cm">
+     <draw:line draw:style-name="gr21" draw:text-style-name="P7" draw:layer="layout" svg:x1="7.401cm" svg:y1="16.589cm" svg:x2="6.201cm" svg:y2="15.392cm">
       <text:p/>
      </draw:line>
     </draw:g>
     <draw:g>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="16.804cm" svg:y1="19.379cm" svg:x2="14.117cm" svg:y2="16.692cm">
+     <draw:line draw:style-name="gr21" draw:text-style-name="P7" draw:layer="layout" svg:x1="16.804cm" svg:y1="19.379cm" svg:x2="14.117cm" svg:y2="16.692cm">
       <text:p/>
      </draw:line>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="18.001cm" svg:y1="18.179cm" svg:x2="15.314cm" svg:y2="15.492cm">
+     <draw:line draw:style-name="gr21" draw:text-style-name="P7" draw:layer="layout" svg:x1="18.001cm" svg:y1="18.179cm" svg:x2="15.314cm" svg:y2="15.492cm">
       <text:p/>
      </draw:line>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="15.314cm" svg:y1="15.492cm" svg:x2="14.117cm" svg:y2="16.692cm">
+     <draw:line draw:style-name="gr21" draw:text-style-name="P7" draw:layer="layout" svg:x1="15.314cm" svg:y1="15.492cm" svg:x2="14.117cm" svg:y2="16.692cm">
       <text:p/>
      </draw:line>
     </draw:g>
     <draw:g>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="18.101cm" svg:y1="6.489cm" svg:x2="15.414cm" svg:y2="9.176cm">
+     <draw:line draw:style-name="gr21" draw:text-style-name="P7" draw:layer="layout" svg:x1="18.101cm" svg:y1="6.489cm" svg:x2="15.414cm" svg:y2="9.176cm">
       <text:p/>
      </draw:line>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="16.901cm" svg:y1="5.292cm" svg:x2="14.214cm" svg:y2="7.979cm">
+     <draw:line draw:style-name="gr21" draw:text-style-name="P7" draw:layer="layout" svg:x1="16.901cm" svg:y1="5.292cm" svg:x2="14.214cm" svg:y2="7.979cm">
       <text:p/>
      </draw:line>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="14.214cm" svg:y1="7.979cm" svg:x2="15.414cm" svg:y2="9.176cm">
+     <draw:line draw:style-name="gr21" draw:text-style-name="P7" draw:layer="layout" svg:x1="14.214cm" svg:y1="7.979cm" svg:x2="15.414cm" svg:y2="9.176cm">
       <text:p/>
      </draw:line>
     </draw:g>
-    <draw:custom-shape draw:style-name="gr19" draw:text-style-name="P1" draw:layer="layout" svg:width="5cm" svg:height="4.645cm" svg:x="11.501cm" svg:y="13.046cm">
+    <draw:custom-shape draw:style-name="gr22" draw:text-style-name="P1" draw:layer="layout" svg:width="5cm" svg:height="4.645cm" svg:x="8.3cm" svg:y="12.955cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
     <draw:frame draw:style-name="gr12" draw:text-style-name="P4" draw:layer="layout" svg:width="2.72cm" svg:height="0.962cm" svg:x="3.4cm" svg:y="2.3cm">
      <draw:text-box>
       <text:p>3-13 (b)</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:custom-shape draw:style-name="gr14" draw:text-style-name="P1" draw:layer="layout" svg:width="4.39cm" svg:height="1.3cm" draw:transform="rotate (1.5707963267949) translate (11.8cm 14.29cm)">
+     <text:p/>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr22" draw:text-style-name="P1" draw:layer="layout" svg:width="5cm" svg:height="4.645cm" svg:x="5.1cm" svg:y="6.955cm">
+     <text:p/>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr20" draw:text-style-name="P1" draw:layer="layout" svg:width="10.4cm" svg:height="1.5cm" svg:x="5.6cm" svg:y="7.3cm">
+     <text:p/>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:frame draw:style-name="gr15" draw:text-style-name="P4" draw:layer="layout" svg:width="6.662cm" svg:height="0.962cm" svg:x="3.4cm" svg:y="21.5cm">
+     <draw:text-box>
+      <text:p>F = AD + BCD + ABC’</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr15" draw:text-style-name="P4" draw:layer="layout" svg:width="9.798cm" svg:height="0.962cm" svg:x="3.7cm" svg:y="23.9cm">
+     <draw:text-box>
+      <text:p>F = (A + C)(A + B)(C’ + D)(B + D)</text:p>
      </draw:text-box>
     </draw:frame>
    </draw:page>
@@ -5105,7 +5176,7 @@
       <table:table-column table:style-name="co2"/>
       <table:table-row table:style-name="ro1" table:default-cell-style-name="ce3">
        <table:table-cell table:style-name="ce2">
-        <text:p text:style-name="P5"><text:span text:style-name="T3">1</text:span></text:p>
+        <text:p text:style-name="P5"><text:span text:style-name="T3">0</text:span></text:p>
        </table:table-cell>
        <table:table-cell>
         <text:p text:style-name="P6">0</text:p>
@@ -5114,7 +5185,21 @@
         <text:p text:style-name="P6">1</text:p>
        </table:table-cell>
        <table:table-cell>
+        <text:p text:style-name="P6">0</text:p>
+       </table:table-cell>
+      </table:table-row>
+      <table:table-row table:style-name="ro2" table:default-cell-style-name="ce3">
+       <table:table-cell>
+        <text:p text:style-name="P6">0</text:p>
+       </table:table-cell>
+       <table:table-cell>
+        <text:p text:style-name="P6">0</text:p>
+       </table:table-cell>
+       <table:table-cell>
         <text:p text:style-name="P6">1</text:p>
+       </table:table-cell>
+       <table:table-cell>
+        <text:p text:style-name="P6">0</text:p>
        </table:table-cell>
       </table:table-row>
       <table:table-row table:style-name="ro2" table:default-cell-style-name="ce3">
@@ -5136,21 +5221,7 @@
         <text:p text:style-name="P6">0</text:p>
        </table:table-cell>
        <table:table-cell>
-        <text:p text:style-name="P6">0</text:p>
-       </table:table-cell>
-       <table:table-cell>
         <text:p text:style-name="P6">1</text:p>
-       </table:table-cell>
-       <table:table-cell>
-        <text:p text:style-name="P6">1</text:p>
-       </table:table-cell>
-      </table:table-row>
-      <table:table-row table:style-name="ro2" table:default-cell-style-name="ce3">
-       <table:table-cell>
-        <text:p text:style-name="P6">1</text:p>
-       </table:table-cell>
-       <table:table-cell>
-        <text:p text:style-name="P6">0</text:p>
        </table:table-cell>
        <table:table-cell>
         <text:p text:style-name="P6">1</text:p>
@@ -5165,7 +5236,7 @@
        AAAJAAACAQAgAAAAFgBYVEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMA
        OwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAAewIAAP//AAACAAUAAAAAAAAACQQAAAAAAAAA
        AQD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABxAAIAHgAAAKsX
-       AAAtHwAAAQAAADEAAAABAAEAAABfAQAAAQAxAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAA
+       AAAtHwAAAQAAADAAAAABAAEAAABfAQAAAQAwAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAA
        AAACAQATAAAACQBYVEVYVF9FT0wAAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1AAAAAAAAAA
        AAACAQAeAAAAFABYVEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhU
        X1BBSU5UU0hBUEVfQkVHSU4AAAAAAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNh
@@ -5182,7 +5253,7 @@
        AAACAQAgAAAAFgBYVEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMAOwAA
        AA8ATGliZXJhdGlvbiBTYW5zAAAAAAAAewIAAP//AAACAAUAAAAAAAAACQQAAAAAAAAAAQD/
        AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABxAAIAHgAAAHE8AAAt
-       HwAAAQAAADEAAAABAAEAAABfAQAAAQAxAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAAC
+       HwAAAQAAADAAAAABAAEAAABfAQAAAQAwAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAAC
        AQATAAAACQBYVEVYVF9FT0wAAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1AAAAAAAAAAAAAC
        AQAeAAAAFABYVEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhUX1BB
        SU5UU0hBUEVfQkVHSU4AAAAAAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMA
@@ -5193,7 +5264,7 @@
        U0hBUEVfRU5EAAAAAAAAAAAAAgEAIAAAABYAWFRFWFRfUEFJTlRTSEFQRV9CRUdJTgAAAAAA
        AAAAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAHsCAAD//wAAAgAFAAAA
        AAAAAAkEAAAAAAAAAAEA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAA
-       AAAAcQACAB4AAADtIwAAcyoAAAEAAAAxAAAAAQABAAAAXwEAAAEAMQAAAgEAEwAAAAkAWFRF
+       AAAAcQACAB4AAADtIwAAcyoAAAEAAAAwAAAAAQABAAAAXwEAAAEAMAAAAgEAEwAAAAkAWFRF
        WFRfRU9DAAAAAAAAAAAAAgEAEwAAAAkAWFRFWFRfRU9MAAAAAAAAAAAAAgEAEwAAAAkAWFRF
        WFRfRU9QAAAAAAAAAAAAAgEAHgAAABQAWFRFWFRfUEFJTlRTSEFQRV9FTkQAAAAAAAAAAAAC
        AQAgAAAAFgBYVEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMAOwAAAA8A
@@ -5216,7 +5287,7 @@
        AAAAFgBYVEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMAOwAAAA8ATGli
        ZXJhdGlvbiBTYW5zAAAAAAAAewIAAP//AAACAAUAAAAAAAAACQQAAAAAAAAAAQD/AwAAAAAA
        iAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABxAAIAHgAAAO0jAAC8NQAAAQAA
-       ADAAAAABAAEAAABfAQAAAQAwAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAACAQATAAAA
+       ADEAAAABAAEAAABfAQAAAQAxAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAACAQATAAAA
        CQBYVEVYVF9FT0wAAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1AAAAAAAAAAAAACAQAeAAAA
        FABYVEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhUX1BBSU5UU0hB
        UEVfQkVHSU4AAAAAAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAAB7
@@ -5227,18 +5298,18 @@
        RU5EAAAAAAAAAAAAAgEAIAAAABYAWFRFWFRfUEFJTlRTSEFQRV9CRUdJTgAAAAAAAAAAigAB
        AEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAHsCAAD//wAAAgAFAAAAAAAAAAkE
        AAAAAAAAAAEA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcQAC
-       AB4AAABxPAAAvDUAAAEAAAAxAAAAAQABAAAAXwEAAAEAMQAAAgEAEwAAAAkAWFRFWFRfRU9D
+       AB4AAABxPAAAvDUAAAEAAAAwAAAAAQABAAAAXwEAAAEAMAAAAgEAEwAAAAkAWFRFWFRfRU9D
        AAAAAAAAAAAAAgEAEwAAAAkAWFRFWFRfRU9MAAAAAAAAAAAAAgEAEwAAAAkAWFRFWFRfRU9Q
        AAAAAAAAAAAAAgEAHgAAABQAWFRFWFRfUEFJTlRTSEFQRV9FTkQAAAAAAAAAAAACAQAgAAAA
        FgBYVEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMAOwAAAA8ATGliZXJh
        dGlvbiBTYW5zAAAAAAAAewIAAP//AAACAAUAAAAAAAAACQQAAAAAAAAAAQD/AwAAAAAAiAAB
-       AAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABxAAIAHgAAAKsXAAAFQQAAAQAAADEA
-       AAABAAEAAABfAQAAAQAxAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAACAQATAAAACQBY
+       AAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABxAAIAHgAAAKsXAAAFQQAAAQAAADAA
+       AAABAAEAAABfAQAAAQAwAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAACAQATAAAACQBY
        VEVYVF9FT0wAAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1AAAAAAAAAAAAACAQAeAAAAFABY
        VEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhUX1BBSU5UU0hBUEVf
        QkVHSU4AAAAAAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAAB7AgAA
        //8AAAIABQAAAAAAAAAJBAAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////
-       AIYAAQAEAAAAAAAAAHEAAgAeAAAA7SMAAAVBAAABAAAAMAAAAAEAAQAAAF8BAAABADAAAAIB
+       AIYAAQAEAAAAAAAAAHEAAgAeAAAA7SMAAAVBAAABAAAAMQAAAAEAAQAAAF8BAAABADEAAAIB
        ABMAAAAJAFhURVhUX0VPQwAAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPTAAAAAAAAAAAAAIB
        ABMAAAAJAFhURVhUX0VPUAAAAAAAAAAAAAIBAB4AAAAUAFhURVhUX1BBSU5UU0hBUEVfRU5E
        AAAAAAAAAAAAAgEAIAAAABYAWFRFWFRfUEFJTlRTSEFQRV9CRUdJTgAAAAAAAAAAigABAEEA
@@ -5371,42 +5442,42 @@
     </draw:line>
     <draw:frame draw:style-name="gr3" draw:text-style-name="P3" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="4.561cm" svg:y="6.291cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">0</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m0</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr4" draw:text-style-name="P3" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="7.761cm" svg:y="6.291cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">1</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m1</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr4" draw:text-style-name="P3" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="14.061cm" svg:y="6.291cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">2</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m2</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr4" draw:text-style-name="P3" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="10.861cm" svg:y="6.291cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">3</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m3</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr4" draw:text-style-name="P3" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="4.561cm" svg:y="9.191cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">4</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m4</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr3" draw:text-style-name="P3" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="7.761cm" svg:y="9.191cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">5</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m5</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr3" draw:text-style-name="P3" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="14.061cm" svg:y="9.191cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">6</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m6</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr3" draw:text-style-name="P3" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="10.861cm" svg:y="9.191cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">7</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m7</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P4" draw:layer="layout" svg:width="1.205cm" svg:height="0.962cm" svg:x="5.556cm" svg:y="5.491cm">
@@ -5818,12 +5889,12 @@
       <text:p>00</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr13" draw:text-style-name="P4" draw:layer="layout" svg:width="1.492cm" svg:height="1cm" svg:x="2.228cm" svg:y="4.891cm">
+    <draw:frame draw:style-name="gr18" draw:text-style-name="P4" draw:layer="layout" svg:width="1.492cm" svg:height="1cm" svg:x="2.228cm" svg:y="4.891cm">
      <draw:text-box>
       <text:p>AB</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr14" draw:text-style-name="P4" draw:layer="layout" svg:width="1.416cm" svg:height="0.962cm" svg:x="3.012cm" svg:y="3.929cm">
+    <draw:frame draw:style-name="gr19" draw:text-style-name="P4" draw:layer="layout" svg:width="1.416cm" svg:height="0.962cm" svg:x="3.012cm" svg:y="3.929cm">
      <draw:text-box>
       <text:p>CD</text:p>
      </draw:text-box>
@@ -5845,42 +5916,42 @@
     </draw:frame>
     <draw:frame draw:style-name="gr4" draw:text-style-name="P3" draw:layer="layout" svg:width="1.2cm" svg:height="0.607cm" svg:x="14.058cm" svg:y="12.191cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">1</text:span><text:span text:style-name="T2">4</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m14</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr4" draw:text-style-name="P3" draw:layer="layout" svg:width="1.2cm" svg:height="0.607cm" svg:x="14.058cm" svg:y="14.991cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">1</text:span><text:span text:style-name="T2">0</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m10</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr4" draw:text-style-name="P3" draw:layer="layout" svg:width="1.2cm" svg:height="0.607cm" svg:x="4.558cm" svg:y="12.191cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">1</text:span><text:span text:style-name="T2">2</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m12</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr4" draw:text-style-name="P3" draw:layer="layout" svg:width="1.2cm" svg:height="0.607cm" svg:x="7.758cm" svg:y="12.191cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">1</text:span><text:span text:style-name="T2">3</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m13</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr4" draw:text-style-name="P3" draw:layer="layout" svg:width="1.2cm" svg:height="0.607cm" svg:x="10.858cm" svg:y="12.191cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">1</text:span><text:span text:style-name="T2">5</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m15</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr3" draw:text-style-name="P3" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="4.558cm" svg:y="14.991cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">8</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m8</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr4" draw:text-style-name="P3" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="7.758cm" svg:y="14.991cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">9</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m9</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr4" draw:text-style-name="P3" draw:layer="layout" svg:width="1.2cm" svg:height="0.607cm" svg:x="10.858cm" svg:y="14.991cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">1</text:span><text:span text:style-name="T2">1</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m11</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr9" draw:text-style-name="P4" draw:layer="layout" svg:width="0.925cm" svg:height="0.962cm" svg:x="1.603cm" svg:y="14.491cm">
@@ -5898,87 +5969,83 @@
       <text:p>D</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr15" draw:text-style-name="P1" draw:layer="layout" svg:width="10.4cm" svg:height="1.5cm" draw:transform="rotate (1.5707963267949) translate (11.953cm 17.241cm)">
+    <draw:custom-shape draw:style-name="gr20" draw:text-style-name="P1" draw:layer="layout" svg:width="10.4cm" svg:height="1.5cm" draw:transform="rotate (1.5707963267949) translate (11.953cm 17.241cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr16" draw:text-style-name="P1" draw:layer="layout" svg:width="4.39cm" svg:height="1.3cm" svg:x="8.858cm" svg:y="10.046cm">
+    <draw:custom-shape draw:style-name="gr14" draw:text-style-name="P1" draw:layer="layout" svg:width="4.39cm" svg:height="1.3cm" svg:x="11.7cm" svg:y="15.7cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
     <draw:g>
-     <draw:line draw:style-name="gr17" draw:text-style-name="P1" draw:layer="layout" svg:x1="11.803cm" svg:y1="18.191cm" svg:x2="11.803cm" svg:y2="15.491cm">
+     <draw:line draw:style-name="gr13" draw:text-style-name="P1" draw:layer="layout" svg:x1="4.2cm" svg:y1="7cm" svg:x2="7.3cm" svg:y2="7cm">
       <text:p/>
      </draw:line>
-     <draw:line draw:style-name="gr17" draw:text-style-name="P1" draw:layer="layout" svg:x1="16.403cm" svg:y1="18.191cm" svg:x2="16.403cm" svg:y2="15.491cm">
+     <draw:line draw:style-name="gr13" draw:text-style-name="P1" draw:layer="layout" svg:x1="4.2cm" svg:y1="11.6cm" svg:x2="7.3cm" svg:y2="11.6cm">
       <text:p/>
      </draw:line>
-     <draw:line draw:style-name="gr17" draw:text-style-name="P1" draw:layer="layout" svg:x1="16.403cm" svg:y1="15.491cm" svg:x2="11.803cm" svg:y2="15.491cm">
-      <text:p/>
-     </draw:line>
-    </draw:g>
-    <draw:g>
-     <draw:line draw:style-name="gr17" draw:text-style-name="P1" draw:layer="layout" svg:x1="16.403cm" svg:y1="5.791cm" svg:x2="16.403cm" svg:y2="8.491cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr17" draw:text-style-name="P1" draw:layer="layout" svg:x1="11.803cm" svg:y1="5.791cm" svg:x2="11.803cm" svg:y2="8.491cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr17" draw:text-style-name="P1" draw:layer="layout" svg:x1="11.803cm" svg:y1="8.491cm" svg:x2="16.403cm" svg:y2="8.491cm">
+     <draw:line draw:style-name="gr13" draw:text-style-name="P1" draw:layer="layout" svg:x1="7.3cm" svg:y1="11.6cm" svg:x2="7.3cm" svg:y2="7cm">
       <text:p/>
      </draw:line>
     </draw:g>
-    <draw:g>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="4.714cm" svg:y1="5.092cm" svg:x2="7.401cm" svg:y2="7.779cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="3.517cm" svg:y1="6.292cm" svg:x2="6.204cm" svg:y2="8.979cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="6.204cm" svg:y1="8.979cm" svg:x2="7.401cm" svg:y2="7.779cm">
-      <text:p/>
-     </draw:line>
-    </draw:g>
-    <draw:g>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="3.514cm" svg:y1="18.079cm" svg:x2="6.201cm" svg:y2="15.392cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="4.714cm" svg:y1="19.276cm" svg:x2="7.401cm" svg:y2="16.589cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="7.401cm" svg:y1="16.589cm" svg:x2="6.201cm" svg:y2="15.392cm">
-      <text:p/>
-     </draw:line>
-    </draw:g>
-    <draw:g>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="16.804cm" svg:y1="19.379cm" svg:x2="14.117cm" svg:y2="16.692cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="18.001cm" svg:y1="18.179cm" svg:x2="15.314cm" svg:y2="15.492cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="15.314cm" svg:y1="15.492cm" svg:x2="14.117cm" svg:y2="16.692cm">
-      <text:p/>
-     </draw:line>
-    </draw:g>
-    <draw:g>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="18.101cm" svg:y1="6.489cm" svg:x2="15.414cm" svg:y2="9.176cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="16.901cm" svg:y1="5.292cm" svg:x2="14.214cm" svg:y2="7.979cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="14.214cm" svg:y1="7.979cm" svg:x2="15.414cm" svg:y2="9.176cm">
-      <text:p/>
-     </draw:line>
-    </draw:g>
-    <draw:custom-shape draw:style-name="gr19" draw:text-style-name="P1" draw:layer="layout" svg:width="5cm" svg:height="4.645cm" svg:x="11.501cm" svg:y="13.046cm">
+    <draw:custom-shape draw:style-name="gr23" draw:text-style-name="P1" draw:layer="layout" svg:width="5.2cm" svg:height="4.645cm" svg:x="8.5cm" svg:y="12.9cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
-    <draw:frame draw:style-name="gr12" draw:text-style-name="P4" draw:layer="layout" svg:width="2.686cm" svg:height="0.962cm" svg:x="3.4cm" svg:y="2.3cm">
+    <draw:frame draw:style-name="gr24" draw:text-style-name="P4" draw:layer="layout" svg:width="2.686cm" svg:height="0.962cm" svg:x="3.4cm" svg:y="2.3cm">
      <draw:text-box>
       <text:p>3-13 (c)</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:custom-shape draw:style-name="gr20" draw:text-style-name="P1" draw:layer="layout" svg:width="10.4cm" svg:height="1.5cm" draw:transform="rotate (1.5707963267949) translate (5.5cm 17.3cm)">
+     <text:p/>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr25" draw:text-style-name="P1" draw:layer="layout" svg:width="4.3cm" svg:height="4.645cm" svg:x="5.8cm" svg:y="7.155cm">
+     <text:p/>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:g>
+     <draw:line draw:style-name="gr13" draw:text-style-name="P1" draw:layer="layout" svg:x1="18cm" svg:y1="11.6cm" svg:x2="14.9cm" svg:y2="11.6cm">
+      <text:p/>
+     </draw:line>
+     <draw:line draw:style-name="gr13" draw:text-style-name="P1" draw:layer="layout" svg:x1="18cm" svg:y1="7cm" svg:x2="14.9cm" svg:y2="7cm">
+      <text:p/>
+     </draw:line>
+     <draw:line draw:style-name="gr13" draw:text-style-name="P1" draw:layer="layout" svg:x1="14.9cm" svg:y1="7cm" svg:x2="14.9cm" svg:y2="11.6cm">
+      <text:p/>
+     </draw:line>
+    </draw:g>
+    <draw:g>
+     <draw:line draw:style-name="gr26" draw:text-style-name="P1" draw:layer="layout" svg:x1="17.7cm" svg:y1="14.6cm" svg:x2="14.6cm" svg:y2="14.6cm">
+      <text:p/>
+     </draw:line>
+     <draw:line draw:style-name="gr26" draw:text-style-name="P1" draw:layer="layout" svg:x1="17.7cm" svg:y1="10cm" svg:x2="14.6cm" svg:y2="10cm">
+      <text:p/>
+     </draw:line>
+     <draw:line draw:style-name="gr26" draw:text-style-name="P1" draw:layer="layout" svg:x1="14.6cm" svg:y1="10cm" svg:x2="14.6cm" svg:y2="14.6cm">
+      <text:p/>
+     </draw:line>
+    </draw:g>
+    <draw:g>
+     <draw:line draw:style-name="gr26" draw:text-style-name="P1" draw:layer="layout" svg:x1="4.4cm" svg:y1="10cm" svg:x2="7.5cm" svg:y2="10cm">
+      <text:p/>
+     </draw:line>
+     <draw:line draw:style-name="gr26" draw:text-style-name="P1" draw:layer="layout" svg:x1="4.4cm" svg:y1="14.6cm" svg:x2="7.5cm" svg:y2="14.6cm">
+      <text:p/>
+     </draw:line>
+     <draw:line draw:style-name="gr26" draw:text-style-name="P1" draw:layer="layout" svg:x1="7.5cm" svg:y1="14.6cm" svg:x2="7.5cm" svg:y2="10cm">
+      <text:p/>
+     </draw:line>
+    </draw:g>
+    <draw:frame draw:style-name="gr15" draw:text-style-name="P4" draw:layer="layout" svg:width="6.238cm" svg:height="0.962cm" svg:x="4.2cm" svg:y="21.3cm">
+     <draw:text-box>
+      <text:p>F = AD + CD + AB’C</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr15" draw:text-style-name="P4" draw:layer="layout" svg:width="9.832cm" svg:height="0.962cm" svg:x="4.6cm" svg:y="22.9cm">
+     <draw:text-box>
+      <text:p>F = (C + D)(A + C)(A + D)(B’ + D)</text:p>
      </draw:text-box>
     </draw:frame>
    </draw:page>
@@ -7148,27 +7215,13 @@
       <table:table-column table:style-name="co2"/>
       <table:table-row table:style-name="ro1" table:default-cell-style-name="ce3">
        <table:table-cell table:style-name="ce2">
-        <text:p text:style-name="P5"><text:span text:style-name="T3">1</text:span></text:p>
+        <text:p text:style-name="P5"><text:span text:style-name="T3">0</text:span></text:p>
+       </table:table-cell>
+       <table:table-cell>
+        <text:p text:style-name="P6">1</text:p>
        </table:table-cell>
        <table:table-cell>
         <text:p text:style-name="P6">0</text:p>
-       </table:table-cell>
-       <table:table-cell>
-        <text:p text:style-name="P6">1</text:p>
-       </table:table-cell>
-       <table:table-cell>
-        <text:p text:style-name="P6">1</text:p>
-       </table:table-cell>
-      </table:table-row>
-      <table:table-row table:style-name="ro2" table:default-cell-style-name="ce3">
-       <table:table-cell>
-        <text:p text:style-name="P6">0</text:p>
-       </table:table-cell>
-       <table:table-cell>
-        <text:p text:style-name="P6">1</text:p>
-       </table:table-cell>
-       <table:table-cell>
-        <text:p text:style-name="P6">1</text:p>
        </table:table-cell>
        <table:table-cell>
         <text:p text:style-name="P6">0</text:p>
@@ -7179,13 +7232,13 @@
         <text:p text:style-name="P6">0</text:p>
        </table:table-cell>
        <table:table-cell>
+        <text:p text:style-name="P6">1</text:p>
+       </table:table-cell>
+       <table:table-cell>
         <text:p text:style-name="P6">0</text:p>
        </table:table-cell>
        <table:table-cell>
-        <text:p text:style-name="P6">1</text:p>
-       </table:table-cell>
-       <table:table-cell>
-        <text:p text:style-name="P6">1</text:p>
+        <text:p text:style-name="P6">0</text:p>
        </table:table-cell>
       </table:table-row>
       <table:table-row table:style-name="ro2" table:default-cell-style-name="ce3">
@@ -7193,7 +7246,21 @@
         <text:p text:style-name="P6">1</text:p>
        </table:table-cell>
        <table:table-cell>
+        <text:p text:style-name="P6">1</text:p>
+       </table:table-cell>
+       <table:table-cell>
+        <text:p text:style-name="P6">1</text:p>
+       </table:table-cell>
+       <table:table-cell>
         <text:p text:style-name="P6">0</text:p>
+       </table:table-cell>
+      </table:table-row>
+      <table:table-row table:style-name="ro2" table:default-cell-style-name="ce3">
+       <table:table-cell>
+        <text:p text:style-name="P6">1</text:p>
+       </table:table-cell>
+       <table:table-cell>
+        <text:p text:style-name="P6">1</text:p>
        </table:table-cell>
        <table:table-cell>
         <text:p text:style-name="P6">1</text:p>
@@ -7208,24 +7275,24 @@
        AAAJAAACAQAgAAAAFgBYVEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMA
        OwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAAewIAAP//AAACAAUAAAAAAAAACQQAAAAAAAAA
        AQD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABxAAIAHgAAAKsX
-       AAAtHwAAAQAAADEAAAABAAEAAABfAQAAAQAxAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAA
+       AAAtHwAAAQAAADAAAAABAAEAAABfAQAAAQAwAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAA
        AAACAQATAAAACQBYVEVYVF9FT0wAAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1AAAAAAAAAA
        AAACAQAeAAAAFABYVEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhU
        X1BBSU5UU0hBUEVfQkVHSU4AAAAAAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNh
        bnMAAAAAAAB7AgAA//8AAAIABQAAAAAAAAAJBAAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEA
-       hwABAAUAAAD/////AIYAAQAEAAAAAAAAAHEAAgAeAAAA7SMAAC0fAAABAAAAMAAAAAEAAQAA
-       AF8BAAABADAAAAIBABMAAAAJAFhURVhUX0VPQwAAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VP
+       hwABAAUAAAD/////AIYAAQAEAAAAAAAAAHEAAgAeAAAA7SMAAC0fAAABAAAAMQAAAAEAAQAA
+       AF8BAAABADEAAAIBABMAAAAJAFhURVhUX0VPQwAAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VP
        TAAAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPUAAAAAAAAAAAAAIBAB4AAAAUAFhURVhUX1BB
        SU5UU0hBUEVfRU5EAAAAAAAAAAAAAgEAIAAAABYAWFRFWFRfUEFJTlRTSEFQRV9CRUdJTgAA
        AAAAAAAAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAHsCAAD//wAAAgAF
        AAAAAAAAAAkEAAAAAAAAAAEA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQA
-       AAAAAAAAcQACAB4AAAAvMAAALR8AAAEAAAAxAAAAAQABAAAAXwEAAAEAMQAAAgEAEwAAAAkA
+       AAAAAAAAcQACAB4AAAAvMAAALR8AAAEAAAAwAAAAAQABAAAAXwEAAAEAMAAAAgEAEwAAAAkA
        WFRFWFRfRU9DAAAAAAAAAAAAAgEAEwAAAAkAWFRFWFRfRU9MAAAAAAAAAAAAAgEAEwAAAAkA
        WFRFWFRfRU9QAAAAAAAAAAAAAgEAHgAAABQAWFRFWFRfUEFJTlRTSEFQRV9FTkQAAAAAAAAA
        AAACAQAgAAAAFgBYVEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMAOwAA
        AA8ATGliZXJhdGlvbiBTYW5zAAAAAAAAewIAAP//AAACAAUAAAAAAAAACQQAAAAAAAAAAQD/
        AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABxAAIAHgAAAHE8AAAt
-       HwAAAQAAADEAAAABAAEAAABfAQAAAQAxAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAAC
+       HwAAAQAAADAAAAABAAEAAABfAQAAAQAwAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAAC
        AQATAAAACQBYVEVYVF9FT0wAAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1AAAAAAAAAAAAAC
        AQAeAAAAFABYVEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhUX1BB
        SU5UU0hBUEVfQkVHSU4AAAAAAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMA
@@ -7242,7 +7309,7 @@
        AQAgAAAAFgBYVEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMAOwAAAA8A
        TGliZXJhdGlvbiBTYW5zAAAAAAAAewIAAP//AAACAAUAAAAAAAAACQQAAAAAAAAAAQD/AwAA
        AAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABxAAIAHgAAAC8wAABzKgAA
-       AQAAADEAAAABAAEAAABfAQAAAQAxAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAACAQAT
+       AQAAADAAAAABAAEAAABfAQAAAQAwAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAACAQAT
        AAAACQBYVEVYVF9FT0wAAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1AAAAAAAAAAAAACAQAe
        AAAAFABYVEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhUX1BBSU5U
        U0hBUEVfQkVHSU4AAAAAAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAA
@@ -7253,13 +7320,13 @@
        UEVfRU5EAAAAAAAAAAAAAgEAIAAAABYAWFRFWFRfUEFJTlRTSEFQRV9CRUdJTgAAAAAAAAAA
        igABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAHsCAAD//wAAAgAFAAAAAAAA
        AAkEAAAAAAAAAAEA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAA
-       cQACAB4AAACrFwAAvDUAAAEAAAAwAAAAAQABAAAAXwEAAAEAMAAAAgEAEwAAAAkAWFRFWFRf
+       cQACAB4AAACrFwAAvDUAAAEAAAAxAAAAAQABAAAAXwEAAAEAMQAAAgEAEwAAAAkAWFRFWFRf
        RU9DAAAAAAAAAAAAAgEAEwAAAAkAWFRFWFRfRU9MAAAAAAAAAAAAAgEAEwAAAAkAWFRFWFRf
        RU9QAAAAAAAAAAAAAgEAHgAAABQAWFRFWFRfUEFJTlRTSEFQRV9FTkQAAAAAAAAAAAACAQAg
        AAAAFgBYVEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMAOwAAAA8ATGli
        ZXJhdGlvbiBTYW5zAAAAAAAAewIAAP//AAACAAUAAAAAAAAACQQAAAAAAAAAAQD/AwAAAAAA
        iAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABxAAIAHgAAAO0jAAC8NQAAAQAA
-       ADAAAAABAAEAAABfAQAAAQAwAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAACAQATAAAA
+       ADEAAAABAAEAAABfAQAAAQAxAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAACAQATAAAA
        CQBYVEVYVF9FT0wAAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1AAAAAAAAAAAAACAQAeAAAA
        FABYVEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhUX1BBSU5UU0hB
        UEVfQkVHSU4AAAAAAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAAB7
@@ -7270,7 +7337,7 @@
        RU5EAAAAAAAAAAAAAgEAIAAAABYAWFRFWFRfUEFJTlRTSEFQRV9CRUdJTgAAAAAAAAAAigAB
        AEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAHsCAAD//wAAAgAFAAAAAAAAAAkE
        AAAAAAAAAAEA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcQAC
-       AB4AAABxPAAAvDUAAAEAAAAxAAAAAQABAAAAXwEAAAEAMQAAAgEAEwAAAAkAWFRFWFRfRU9D
+       AB4AAABxPAAAvDUAAAEAAAAwAAAAAQABAAAAXwEAAAEAMAAAAgEAEwAAAAkAWFRFWFRfRU9D
        AAAAAAAAAAAAAgEAEwAAAAkAWFRFWFRfRU9MAAAAAAAAAAAAAgEAEwAAAAkAWFRFWFRfRU9Q
        AAAAAAAAAAAAAgEAHgAAABQAWFRFWFRfUEFJTlRTSEFQRV9FTkQAAAAAAAAAAAACAQAgAAAA
        FgBYVEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMAOwAAAA8ATGliZXJh
@@ -7281,7 +7348,7 @@
        VEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhUX1BBSU5UU0hBUEVf
        QkVHSU4AAAAAAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAAB7AgAA
        //8AAAIABQAAAAAAAAAJBAAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////
-       AIYAAQAEAAAAAAAAAHEAAgAeAAAA7SMAAAVBAAABAAAAMAAAAAEAAQAAAF8BAAABADAAAAIB
+       AIYAAQAEAAAAAAAAAHEAAgAeAAAA7SMAAAVBAAABAAAAMQAAAAEAAQAAAF8BAAABADEAAAIB
        ABMAAAAJAFhURVhUX0VPQwAAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPTAAAAAAAAAAAAAIB
        ABMAAAAJAFhURVhUX0VPUAAAAAAAAAAAAAIBAB4AAAAUAFhURVhUX1BBSU5UU0hBUEVfRU5E
        AAAAAAAAAAAAAgEAIAAAABYAWFRFWFRfUEFJTlRTSEFQRV9CRUdJTgAAAAAAAAAAigABAEEA
@@ -7861,12 +7928,12 @@
       <text:p>00</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr13" draw:text-style-name="P4" draw:layer="layout" svg:width="1.492cm" svg:height="1cm" svg:x="2.228cm" svg:y="4.891cm">
+    <draw:frame draw:style-name="gr18" draw:text-style-name="P4" draw:layer="layout" svg:width="1.492cm" svg:height="1cm" svg:x="2.228cm" svg:y="4.891cm">
      <draw:text-box>
       <text:p>AB</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr14" draw:text-style-name="P4" draw:layer="layout" svg:width="1.416cm" svg:height="0.962cm" svg:x="3.012cm" svg:y="3.929cm">
+    <draw:frame draw:style-name="gr19" draw:text-style-name="P4" draw:layer="layout" svg:width="1.416cm" svg:height="0.962cm" svg:x="3.012cm" svg:y="3.929cm">
      <draw:text-box>
       <text:p>CD</text:p>
      </draw:text-box>
@@ -7888,12 +7955,12 @@
     </draw:frame>
     <draw:frame draw:style-name="gr4" draw:text-style-name="P3" draw:layer="layout" svg:width="1.2cm" svg:height="0.607cm" svg:x="14.058cm" svg:y="12.191cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m14</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">1</text:span><text:span text:style-name="T2">4</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr4" draw:text-style-name="P3" draw:layer="layout" svg:width="1.2cm" svg:height="0.607cm" svg:x="14.058cm" svg:y="14.991cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m10</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">1</text:span><text:span text:style-name="T2">0</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr4" draw:text-style-name="P3" draw:layer="layout" svg:width="1.2cm" svg:height="0.607cm" svg:x="4.558cm" svg:y="12.191cm">
@@ -7923,7 +7990,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr4" draw:text-style-name="P3" draw:layer="layout" svg:width="1.2cm" svg:height="0.607cm" svg:x="10.858cm" svg:y="14.991cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">m1</text:span><text:span text:style-name="T2">1</text:span></text:p>
+      <text:p><text:span text:style-name="T2">m11</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr9" draw:text-style-name="P4" draw:layer="layout" svg:width="0.925cm" svg:height="0.962cm" svg:x="1.603cm" svg:y="14.491cm">
@@ -7941,87 +8008,65 @@
       <text:p>D</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr15" draw:text-style-name="P1" draw:layer="layout" svg:width="10.4cm" svg:height="1.5cm" draw:transform="rotate (1.5707963267949) translate (11.953cm 17.241cm)">
+    <draw:custom-shape draw:style-name="gr20" draw:text-style-name="P1" draw:layer="layout" svg:width="10.4cm" svg:height="1.5cm" draw:transform="rotate (1.5707963267949) translate (8.8cm 17.4cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr16" draw:text-style-name="P1" draw:layer="layout" svg:width="4.39cm" svg:height="1.3cm" svg:x="8.858cm" svg:y="10.046cm">
+    <draw:custom-shape draw:style-name="gr14" draw:text-style-name="P1" draw:layer="layout" svg:width="4.39cm" svg:height="1.3cm" draw:transform="rotate (1.5707963267949) translate (15.2cm 14.7cm)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
     <draw:g>
-     <draw:line draw:style-name="gr17" draw:text-style-name="P1" draw:layer="layout" svg:x1="11.803cm" svg:y1="18.191cm" svg:x2="11.803cm" svg:y2="15.491cm">
+     <draw:line draw:style-name="gr13" draw:text-style-name="P1" draw:layer="layout" svg:x1="4.3cm" svg:y1="6.8cm" svg:x2="7cm" svg:y2="6.8cm">
       <text:p/>
      </draw:line>
-     <draw:line draw:style-name="gr17" draw:text-style-name="P1" draw:layer="layout" svg:x1="16.403cm" svg:y1="18.191cm" svg:x2="16.403cm" svg:y2="15.491cm">
+     <draw:line draw:style-name="gr13" draw:text-style-name="P1" draw:layer="layout" svg:x1="4.3cm" svg:y1="11.4cm" svg:x2="7cm" svg:y2="11.4cm">
       <text:p/>
      </draw:line>
-     <draw:line draw:style-name="gr17" draw:text-style-name="P1" draw:layer="layout" svg:x1="16.403cm" svg:y1="15.491cm" svg:x2="11.803cm" svg:y2="15.491cm">
-      <text:p/>
-     </draw:line>
-    </draw:g>
-    <draw:g>
-     <draw:line draw:style-name="gr17" draw:text-style-name="P1" draw:layer="layout" svg:x1="16.403cm" svg:y1="5.791cm" svg:x2="16.403cm" svg:y2="8.491cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr17" draw:text-style-name="P1" draw:layer="layout" svg:x1="11.803cm" svg:y1="5.791cm" svg:x2="11.803cm" svg:y2="8.491cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr17" draw:text-style-name="P1" draw:layer="layout" svg:x1="11.803cm" svg:y1="8.491cm" svg:x2="16.403cm" svg:y2="8.491cm">
+     <draw:line draw:style-name="gr13" draw:text-style-name="P1" draw:layer="layout" svg:x1="7cm" svg:y1="11.4cm" svg:x2="7cm" svg:y2="6.8cm">
       <text:p/>
      </draw:line>
     </draw:g>
-    <draw:g>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="4.714cm" svg:y1="5.092cm" svg:x2="7.401cm" svg:y2="7.779cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="3.517cm" svg:y1="6.292cm" svg:x2="6.204cm" svg:y2="8.979cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="6.204cm" svg:y1="8.979cm" svg:x2="7.401cm" svg:y2="7.779cm">
-      <text:p/>
-     </draw:line>
-    </draw:g>
-    <draw:g>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="3.514cm" svg:y1="18.079cm" svg:x2="6.201cm" svg:y2="15.392cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="4.714cm" svg:y1="19.276cm" svg:x2="7.401cm" svg:y2="16.589cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="7.401cm" svg:y1="16.589cm" svg:x2="6.201cm" svg:y2="15.392cm">
-      <text:p/>
-     </draw:line>
-    </draw:g>
-    <draw:g>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="16.804cm" svg:y1="19.379cm" svg:x2="14.117cm" svg:y2="16.692cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="18.001cm" svg:y1="18.179cm" svg:x2="15.314cm" svg:y2="15.492cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="15.314cm" svg:y1="15.492cm" svg:x2="14.117cm" svg:y2="16.692cm">
-      <text:p/>
-     </draw:line>
-    </draw:g>
-    <draw:g>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="18.101cm" svg:y1="6.489cm" svg:x2="15.414cm" svg:y2="9.176cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="16.901cm" svg:y1="5.292cm" svg:x2="14.214cm" svg:y2="7.979cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="14.214cm" svg:y1="7.979cm" svg:x2="15.414cm" svg:y2="9.176cm">
-      <text:p/>
-     </draw:line>
-    </draw:g>
-    <draw:custom-shape draw:style-name="gr19" draw:text-style-name="P1" draw:layer="layout" svg:width="5cm" svg:height="4.645cm" svg:x="11.501cm" svg:y="13.046cm">
+    <draw:custom-shape draw:style-name="gr22" draw:text-style-name="P1" draw:layer="layout" svg:width="5cm" svg:height="4.645cm" svg:x="5.1cm" svg:y="12.9cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
     <draw:frame draw:style-name="gr12" draw:text-style-name="P4" draw:layer="layout" svg:width="2.72cm" svg:height="0.962cm" svg:x="3.4cm" svg:y="2.3cm">
      <draw:text-box>
       <text:p>3-13 (d)</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:custom-shape draw:style-name="gr27" draw:text-style-name="P1" draw:layer="layout" svg:width="10.4cm" svg:height="1.5cm" svg:x="5.6cm" svg:y="15.7cm">
+     <text:p/>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr28" draw:text-style-name="P1" draw:layer="layout" svg:width="5cm" svg:height="4.645cm" svg:x="8.2cm" svg:y="13.1cm">
+     <text:p/>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:g>
+     <draw:line draw:style-name="gr13" draw:text-style-name="P1" draw:layer="layout" svg:x1="17.7cm" svg:y1="11.4cm" svg:x2="15cm" svg:y2="11.4cm">
+      <text:p/>
+     </draw:line>
+     <draw:line draw:style-name="gr13" draw:text-style-name="P1" draw:layer="layout" svg:x1="17.7cm" svg:y1="6.8cm" svg:x2="15cm" svg:y2="6.8cm">
+      <text:p/>
+     </draw:line>
+     <draw:line draw:style-name="gr13" draw:text-style-name="P1" draw:layer="layout" svg:x1="15cm" svg:y1="6.8cm" svg:x2="15cm" svg:y2="11.4cm">
+      <text:p/>
+     </draw:line>
+    </draw:g>
+    <draw:custom-shape draw:style-name="gr28" draw:text-style-name="P1" draw:layer="layout" svg:width="5cm" svg:height="4.645cm" svg:x="11.3cm" svg:y="7cm">
+     <text:p/>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:frame draw:style-name="gr15" draw:text-style-name="P4" draw:layer="layout" svg:width="7.589cm" svg:height="0.962cm" svg:x="5cm" svg:y="21.2cm">
+     <draw:text-box>
+      <text:p>F = AC’ + AD + AB’ + C’D</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr15" draw:text-style-name="P4" draw:layer="layout" svg:width="9.21cm" svg:height="0.962cm" svg:x="5cm" svg:y="23cm">
+     <draw:text-box>
+      <text:p>F = (A + C’)(A + D)(B’ + C’ + D)</text:p>
      </draw:text-box>
     </draw:frame>
    </draw:page>
