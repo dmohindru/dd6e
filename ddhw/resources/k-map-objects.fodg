@@ -35,10 +35,10 @@
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
      <config:config-item config:name="SlidesPerRow" config:type="short">4</config:config-item>
      <config:config-item config:name="EditMode" config:type="int">0</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">2117</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-8100</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">40380</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">28006</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">2685</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-7266</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">39175</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">27170</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">1000</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">1000</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">100</config:config-item>
@@ -346,7 +346,6 @@
   </style:style>
   <style:style style:name="P4" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="1.2cm" fo:margin-right="0cm" fo:margin-top="0.4cm" fo:margin-bottom="0cm" fo:text-indent="0cm"/>
-   <style:text-properties fo:font-size="18pt"/>
   </style:style>
   <style:style style:name="P5" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="1.2cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:text-indent="0cm"/>
@@ -1995,42 +1994,42 @@
      </draw:line>
      <draw:frame draw:style-name="gr6" draw:text-style-name="P6" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="4.533cm" svg:y="23.2cm">
       <draw:text-box>
-       <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">0</text:span></text:p>
+       <text:p><text:span text:style-name="T2">m0</text:span></text:p>
       </draw:text-box>
      </draw:frame>
      <draw:frame draw:style-name="gr7" draw:text-style-name="P6" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="7.733cm" svg:y="23.2cm">
       <draw:text-box>
-       <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">1</text:span></text:p>
+       <text:p><text:span text:style-name="T2">m1</text:span></text:p>
       </draw:text-box>
      </draw:frame>
      <draw:frame draw:style-name="gr7" draw:text-style-name="P6" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="14.033cm" svg:y="23.2cm">
       <draw:text-box>
-       <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">2</text:span></text:p>
+       <text:p><text:span text:style-name="T2">m2</text:span></text:p>
       </draw:text-box>
      </draw:frame>
      <draw:frame draw:style-name="gr7" draw:text-style-name="P6" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="10.833cm" svg:y="23.2cm">
       <draw:text-box>
-       <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">3</text:span></text:p>
+       <text:p><text:span text:style-name="T2">m3</text:span></text:p>
       </draw:text-box>
      </draw:frame>
      <draw:frame draw:style-name="gr7" draw:text-style-name="P6" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="4.533cm" svg:y="26.1cm">
       <draw:text-box>
-       <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">4</text:span></text:p>
+       <text:p><text:span text:style-name="T2">m4</text:span></text:p>
       </draw:text-box>
      </draw:frame>
      <draw:frame draw:style-name="gr6" draw:text-style-name="P6" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="7.733cm" svg:y="26.1cm">
       <draw:text-box>
-       <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">5</text:span></text:p>
+       <text:p><text:span text:style-name="T2">m5</text:span></text:p>
       </draw:text-box>
      </draw:frame>
      <draw:frame draw:style-name="gr6" draw:text-style-name="P6" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="14.033cm" svg:y="26.1cm">
       <draw:text-box>
-       <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">6</text:span></text:p>
+       <text:p><text:span text:style-name="T2">m6</text:span></text:p>
       </draw:text-box>
      </draw:frame>
      <draw:frame draw:style-name="gr6" draw:text-style-name="P6" draw:layer="layout" svg:width="0.942cm" svg:height="0.607cm" svg:x="10.833cm" svg:y="26.1cm">
       <draw:text-box>
-       <text:p><text:span text:style-name="T2">m</text:span><text:span text:style-name="T2">7</text:span></text:p>
+       <text:p><text:span text:style-name="T2">m7</text:span></text:p>
       </draw:text-box>
      </draw:frame>
      <draw:frame draw:style-name="gr8" draw:text-style-name="P3" draw:layer="layout" svg:width="1.205cm" svg:height="0.962cm" svg:x="5.528cm" svg:y="22.4cm">
