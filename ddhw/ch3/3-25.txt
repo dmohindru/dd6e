@@ -1,0 +1,46 @@
+Eight degenerate two-level form
+
+1. AND-AND --> AND
+(A.B)(C.D) 
+ABCD
+
+2. OR-OR --> OR
+(A + B) + (C + D)
+A + B + C + D
+
+3. AND-NAND --> NAND
+((A.B)(C.D))'
+(ABCD)'
+
+4. OR-NOR --> NOR
+((A + B) + (C + D))'
+(A + B + C + D)'
+
+5. NOR-NAND --> OR
+((A + B)'.(C + D)')'
+((A'B')(C'D'))'
+(A'B')' + (C'D')'
+(A + B) + (C + D)
+A + B + C + D
+
+6. NAND-NOR --> AND
+((AB)' + (CD)')'
+((A' + B') + (C' + D'))'
+(A' + B')'(C' + D')'
+(AB)(CD)
+ABCD
+
+7. NOR-AND --> NOR
+(A + B)'.(C + D)'
+A'B'C'D'
+(A + B + C + D)'
+
+
+8. NAND-OR --> NAND
+(A.B)' + (C.D)'
+A' + B' + C' + D'
+(ABCD)'
+
+Here we can see than more input logic gate can be constructed from less input logic gate using
+two level degenerate form. e.g. degenerate form use 2 input gate to form functionality of 4 input
+gates. 
