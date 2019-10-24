@@ -2,11 +2,9 @@
 module mod3_32_e(F, A, B, C, D, E);
     output F;
     input A, B, C, D, E;
-    wire nor1_wire, nor2_wire;
+    //wire nor1_wire, nor2_wire;
 
-    nor G1(nor1_wire, A, B);
-    nor G2(nor2_wire, C, D);
-    and G3(F, ~nor1_wire, ~nor2_wire, E);
+    assign F = (!(!(A || B)) && !(!(C || D)) && E);
 endmodule
 
 module mod3_32_e_tb;

@@ -2,13 +2,9 @@
 module mod3_32_c(F, A, B, C, D);
     output F;
     input A, B, C, D;
-    wire and1_wire, and2_wire, or1_wire, or2_wire;
+    //wire and1_wire, and2_wire, or1_wire, or2_wire;
 
-    and G1(and1_wire, A, ~B);
-    and G2(and2_wire, ~A, B);
-    or G3(or1_wire, C, ~D);
-    or G4(or2_wire, and1_wire, and2_wire);
-    and G5(F, or1_wire, or2_wire);
+    assign F = ((A && ~B) || (~A && B)) && (C || ~D);
 endmodule
 
 module mod3_32_c_tb;
