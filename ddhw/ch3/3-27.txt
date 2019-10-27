@@ -1,0 +1,14 @@
+XNOR = a'b + ab'
+dual of XNOR
+= (a + b')(a' + b)
+= aa' + ab + a'b' + b'b
+= ab + a'b' ----> 1
+
+complement of XNOR
+= (a'b + ab')'
+= (a'b)'(ab')'
+= (a + b')(a' + b)
+= aa' + ab + a'b' + b'b
+= ab + a'b' ----> 2
+
+expression 1 = 2. Hence proved

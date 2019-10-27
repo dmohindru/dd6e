@@ -1,0 +1,15 @@
+Line 1: dash not allowed in name. module statement to be terminated by ;
+
+Line 2: inputs to be spelled as input. Input should be terminated by ;
+
+Line 3: output to be terminated by ; C cannot be input and output at same time.
+
+Line 4: no error
+
+Line 5: A cannot be an output of the primitive as its is declared as input to the module.
+
+Line 6: statement to be terminated by ; too many input to not gate
+
+Line 7: AND to be written as and
+
+Line 8: no need for semi colon after endmodule
