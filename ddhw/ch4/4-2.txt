@@ -1,0 +1,13 @@
+T1 = (A'.T4)' = (A'(A + D'))' = (A'A + A'D')' = (A'D')' = A + D
+T2 = A' + T3 = A' + BC
+T3 = BC
+T4 = (A'.D)' = A + D'
+T5 = T2.T4 = (A' + BC)(A + D') = A'A + A'D' + ABC + BCD' = A'D' + ABC
+
+F = T1.T2 = (A + D)(A' + BC) = AA' + ABC + A'D + BCD = ABC + A'D
+G = T5' = (A'D' + ABC)'
+G = (A'D')'(ABC)'
+G = (A + D)(A' + B' + C')
+G = AA' + AB' + AC' + A'D + B'D + C'D
+G = A'D + AB' + AC'
+
