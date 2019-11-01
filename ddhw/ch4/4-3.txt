@@ -1,0 +1,6 @@
+
+a) Y = I0.S₁'.S0' + I₁.S₁'.S0 + I₂.S₁.S0' + I₃.S₁.S0
+
+b) Inputs = 6, outputs = 1
+Rows = 2⁶ = 64
+Columns = Inputs + Outputs = 6 + 1 = 7
