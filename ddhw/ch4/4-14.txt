@@ -1,0 +1,17 @@
+Gate    Prop_Delay (ns)
+------------------
+xor     8
+and     4
+or      4
+
+Propogation Delay of Carry Lookahead Genertor unit = 4 + 4 = 8ns
+
+Therefore total propogation delay = 8 + 8 + 8 = 24ns
+
+-------------------------------------------------------
+extra work: 
+compute propogation delay of 4 bit ripple carry adder using full adder (fig 4-8, 4-9)
+
+propogation delay of 1 bit full adder: 8 + 8 + 4 = 20ns
+propogation delay of 4 bit full adder: 20 * 4 = 80ns
+
