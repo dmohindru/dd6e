@@ -1,0 +1,46 @@
+x   y   Cin |   S   |   C   |
+-----------------------------
+0   0   0   |   0   |   0   |
+0   0   1   |   1   |   0   |
+0   1   0   |   1   |   0   |
+0   1   1   |   0   |   1   |
+1   0   0   |   1   |   0   |
+1   0   1   |   0   |   1   |
+1   1   0   |   0   |   1   |
+1   1   1   |   1   |   1   |
+
+a)
+P = x + y
+G = xy
+
+S = x ^ y ^ Cin
+C = xy + yCin + xCin
+
+C = xy + Cin(x + y)
+C = G + P.Cin
+
+Ci = (C'G' + P')'
+Ci = (C'G')'(P)
+Ci = (C + G)(P)
+Ci = C.P + G.P
+now G.P = xy(x + y) = xxy + xyy = xy + xy = xy = G
+Ci = G + C.P <------ Proved
+
+Si = (PiGi') ^ C
+Si = ((x+y)(xy)') ^ C
+Si = ((x+y)(x'+y')) ^ C
+Si = (xx' + xy' + x'y + yy') ^ C
+Si = (xy' + x'y) ^ C
+Si = x ^ y ^ C <----- Proved
+
+b)
+P = x + y
+P' = (x + y)'
+output of nor gate = (A0 + B0)'
+
+G = xy
+G' = (xy)'
+output of nand gate = (A0B0)'
+
+This circuit implements full adder proved in part a of this problem.
+
