@@ -37,6 +37,7 @@ module Add_usign_tb;
     reg c_in;
     wire [3:0] s;
     wire c_out;
+    integer i, j;
 
     //Instantiate UUT
     Add_usign_4 UUT(c_out, s, a, b, c_in);
@@ -44,14 +45,23 @@ module Add_usign_tb;
     //stimulus block
     initial
         begin
-            a = 4'b0010;
-            b = 4'b0011;
-            c_in = 1'b0;
-            #100;
+            a = 4'b000;
+            
+            c_in = 1'b1;
+            for (i = 0; i < 15; i = i + 1) begin
+                #100 a = a + 1'b1;
+                #100 b = 4'b0000;
+                for (j = 0; j < 15; j = j + 1) begin
+                    #100 b = b + 1'b1;
+                end
+            end
+            
+            //c_in = 1'b0;
+            //#100;
             //a = 4'b0010;
             //b = 4'b0013;
-            c_in = 1'b1;
-            #100;
+            //c_in = 1'b1;
+            //#100;
         end
     initial $monitor("a = %d, b = %d, c_in = %d, sum = %d, c_out = %d", a, b, c_in, s, c_out);
 endmodule
