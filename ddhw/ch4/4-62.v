@@ -6,7 +6,10 @@ module decoder_5X32(d, en, in);
     wire [3:0] sub_en;
     decoder_2X4 m1(sub_en, 1'b1, in[4:3]);
 
-
+    decoder_3X8 m2(d[31:24], sub_en[3], in[2:0]);
+    decoder_3X8 m3(d[23:16], sub_en[2], in[2:0]);
+    decoder_3X8 m4(d[15:8], sub_en[1], in[2:0]);
+    decoder_3X8 m5(d[7:0], sub_en[0], in[2:0]);
 endmodule
 
 module decoder_3X8(d, en, in);
@@ -51,6 +54,26 @@ module decoder_2X4(d, en, in);
     nor (d[3], not_en, not_a, not_b);
 endmodule
 
+
+module decoder_5X32_tb;
+    reg [4:0] in;
+    reg en;
+    wire [31:0] f;
+    integer i;
+    
+    //Instantiate UUT
+    decoder_5X32 UUT(f, 1'b1, in);
+
+    //stimulus block
+    initial
+        begin
+            in = 5'b00000;
+            repeat(31) #10 in = in + 1'b1;
+        end
+    initial $monitor("in = %b, output = %b", in, f);
+endmodule
+
+/*
 module decoder_3X8_tb;
     reg [2:0] in;
     reg en;
@@ -71,7 +94,7 @@ module decoder_3X8_tb;
         end
     initial $monitor("en = %b, in = %b, output = %b", en, in, f);
 endmodule
-
+*/
 /*
 module decoder_2X4_tb;
     reg [1:0] in;

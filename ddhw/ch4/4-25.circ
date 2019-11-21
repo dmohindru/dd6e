@@ -113,85 +113,37 @@
     <wire from="(600,160)" to="(600,670)"/>
     <wire from="(590,170)" to="(590,680)"/>
     <wire from="(680,330)" to="(690,330)"/>
-    <comp lib="0" loc="(370,350)" name="Splitter">
-      <a name="facing" val="west"/>
-    </comp>
-    <comp lib="6" loc="(108,101)" name="Text">
-      <a name="text" val="in[4:0]"/>
-    </comp>
-    <comp loc="(830,180)" name="3To8 Decoder"/>
-    <comp loc="(830,350)" name="3To8 Decoder"/>
-    <comp lib="0" loc="(110,130)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="width" val="5"/>
-      <a name="tristate" val="false"/>
-    </comp>
-    <comp lib="0" loc="(900,350)" name="Pin">
-      <a name="facing" val="west"/>
-      <a name="output" val="true"/>
-      <a name="width" val="8"/>
-      <a name="tristate" val="false"/>
-      <a name="labelloc" val="east"/>
-    </comp>
-    <comp lib="6" loc="(374,649)" name="Text">
-      <a name="text" val="5X32 Decoder"/>
-    </comp>
-    <comp loc="(490,390)" name="2 to 4 Decoder"/>
-    <comp loc="(830,690)" name="3To8 Decoder"/>
-    <comp lib="6" loc="(1029,526)" name="Text">
-      <a name="text" val="out[15:8]"/>
-    </comp>
     <comp lib="0" loc="(710,150)" name="Splitter">
       <a name="facing" val="west"/>
       <a name="fanout" val="3"/>
       <a name="incoming" val="3"/>
     </comp>
-    <comp lib="0" loc="(710,320)" name="Splitter">
-      <a name="facing" val="west"/>
-      <a name="fanout" val="3"/>
-      <a name="incoming" val="3"/>
+    <comp loc="(830,350)" name="3To8 Decoder"/>
+    <comp lib="6" loc="(108,101)" name="Text">
+      <a name="text" val="in[4:0]"/>
     </comp>
-    <comp lib="0" loc="(890,180)" name="Pin">
-      <a name="facing" val="west"/>
-      <a name="output" val="true"/>
-      <a name="width" val="8"/>
+    <comp lib="0" loc="(110,130)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="width" val="5"/>
       <a name="tristate" val="false"/>
-      <a name="labelloc" val="east"/>
     </comp>
-    <comp loc="(830,520)" name="3To8 Decoder"/>
-    <comp lib="0" loc="(710,490)" name="Splitter">
-      <a name="facing" val="west"/>
-      <a name="fanout" val="3"/>
-      <a name="incoming" val="3"/>
-    </comp>
-    <comp lib="6" loc="(1029,694)" name="Text">
-      <a name="text" val="out[7:0]"/>
-    </comp>
-    <comp lib="6" loc="(1031,356)" name="Text">
-      <a name="text" val="out[23:16]"/>
-    </comp>
-    <comp lib="0" loc="(910,690)" name="Pin">
-      <a name="facing" val="west"/>
-      <a name="output" val="true"/>
-      <a name="width" val="8"/>
-      <a name="tristate" val="false"/>
-      <a name="labelloc" val="east"/>
+    <comp lib="6" loc="(1029,526)" name="Text">
+      <a name="text" val="out[15:8]"/>
     </comp>
     <comp lib="0" loc="(110,130)" name="Splitter">
       <a name="facing" val="south"/>
       <a name="fanout" val="5"/>
       <a name="incoming" val="5"/>
     </comp>
-    <comp lib="0" loc="(710,660)" name="Splitter">
-      <a name="facing" val="west"/>
-      <a name="fanout" val="3"/>
-      <a name="incoming" val="3"/>
-    </comp>
     <comp lib="6" loc="(1024,187)" name="Text">
       <a name="text" val="out[31:24]"/>
     </comp>
-    <comp lib="0" loc="(160,430)" name="Constant"/>
-    <comp lib="0" loc="(900,520)" name="Pin">
+    <comp lib="0" loc="(370,350)" name="Splitter">
+      <a name="facing" val="west"/>
+    </comp>
+    <comp loc="(830,180)" name="3To8 Decoder"/>
+    <comp loc="(830,690)" name="3To8 Decoder"/>
+    <comp lib="0" loc="(910,690)" name="Pin">
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
       <a name="width" val="8"/>
@@ -205,6 +157,54 @@
       <a name="bit1" val="2"/>
       <a name="bit2" val="1"/>
       <a name="bit3" val="0"/>
+    </comp>
+    <comp lib="0" loc="(710,320)" name="Splitter">
+      <a name="facing" val="west"/>
+      <a name="fanout" val="3"/>
+      <a name="incoming" val="3"/>
+    </comp>
+    <comp lib="0" loc="(900,350)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="width" val="8"/>
+      <a name="tristate" val="false"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="0" loc="(710,490)" name="Splitter">
+      <a name="facing" val="west"/>
+      <a name="fanout" val="3"/>
+      <a name="incoming" val="3"/>
+    </comp>
+    <comp loc="(830,520)" name="3To8 Decoder"/>
+    <comp lib="6" loc="(1029,694)" name="Text">
+      <a name="text" val="out[7:0]"/>
+    </comp>
+    <comp lib="0" loc="(890,180)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="width" val="8"/>
+      <a name="tristate" val="false"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="0" loc="(710,660)" name="Splitter">
+      <a name="facing" val="west"/>
+      <a name="fanout" val="3"/>
+      <a name="incoming" val="3"/>
+    </comp>
+    <comp loc="(490,390)" name="2 to 4 Decoder"/>
+    <comp lib="0" loc="(160,430)" name="Constant"/>
+    <comp lib="0" loc="(900,520)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="width" val="8"/>
+      <a name="tristate" val="false"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="6" loc="(1031,356)" name="Text">
+      <a name="text" val="out[23:16]"/>
+    </comp>
+    <comp lib="6" loc="(374,649)" name="Text">
+      <a name="text" val="5X32 Decoder"/>
     </comp>
   </circuit>
   <circuit name="3To8 Decoder">
@@ -248,7 +248,7 @@
       <text font-family="SansSerif" font-size="12" text-anchor="middle" x="291" y="272">en</text>
       <rect fill="none" height="149" stroke="#000000" width="120" x="270" y="161"/>
       <text font-family="SansSerif" font-size="12" text-anchor="middle" x="333" y="295">2X4 Decoder</text>
-      <text font-family="SansSerif" font-size="12" text-anchor="middle" x="360" y="236">o[4:0]</text>
+      <text font-family="SansSerif" font-size="12" text-anchor="middle" x="360" y="236">o[3:0]</text>
       <circ-port height="8" pin="260,200" width="8" x="266" y="196"/>
       <circ-port height="8" pin="260,260" width="8" x="266" y="266"/>
       <circ-port height="10" pin="420,220" width="10" x="385" y="225"/>
@@ -257,16 +257,16 @@
     <comp lib="0" loc="(260,260)" name="Pin">
       <a name="tristate" val="false"/>
     </comp>
+    <comp lib="0" loc="(260,200)" name="Pin">
+      <a name="width" val="2"/>
+      <a name="tristate" val="false"/>
+    </comp>
     <comp lib="0" loc="(420,220)" name="Pin">
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
       <a name="width" val="4"/>
       <a name="tristate" val="false"/>
       <a name="labelloc" val="east"/>
-    </comp>
-    <comp lib="0" loc="(260,200)" name="Pin">
-      <a name="width" val="2"/>
-      <a name="tristate" val="false"/>
     </comp>
   </circuit>
 </project>
