@@ -1,16 +1,23 @@
-module prob_4_27(f1, f2, f3, in);
+/* 
+F1 = (x + y')z = min(1, 5, 7)
+F2 = y'z' + xy' + yz' = min(0, 3, 4, 5, 7)
+F3 = (x' + y)z = min(1, 3, 7)
+*/
+
+module prob_4_28_b(f1, f2, f3, in);
     output f1, f2, f3;
     input [2:0] in;
     wire [7:0] decode_out;
 
     decoder_3X8 m1(decode_out, 1'b0, in);
     // f1
-    nand(f1, decode_out[2], decode_out[4], decode_out[7] );
+    nand(f1, decode_out[1], decode_out[5], decode_out[7] );
     // f2
-    nand(f2, decode_out[0], decode_out[3]);
+    nand(f2, decode_out[0], decode_out[3], decode_out[4], decode_out[5], decode_out[7]);
     //f3
-    nand(f3, decode_out[0], decode_out[2], decode_out[3], decode_out[4], decode_out[7]);
+    nand(f3, decode_out[1], decode_out[3], decode_out[7]);
 endmodule
+
 
 module decoder_3X8(d, en, in);
     output [7:0] d;
@@ -36,13 +43,13 @@ module decoder_3X8(d, en, in);
 
 endmodule
 
-module prob_4_27_tb;
+module prob_4_28_b_tb;
     reg [2:0] in;
     //reg en;
     wire f1, f2, f3;
     
     //Instantiate UUT
-    prob_4_27 UUT(f1, f2, f3, in);
+    prob_4_28_b UUT(f1, f2, f3, in);
 
     //stimulus block
     initial
@@ -52,25 +59,3 @@ module prob_4_27_tb;
         end
     initial $monitor("in = %b, f1 = %b, f2 = %b, f3 = %b", in, f1, f2, f3);
 endmodule
-
-/*module decoder_3X8_tb;
-    reg [2:0] in;
-    reg en;
-    wire [7:0] f;
-    integer i;
-    
-    //Instantiate UUT
-    decoder_3X8 UUT(f, en, in);
-
-    //stimulus block
-    initial
-        for (i = 0; i < 2; i = i + 1) begin
-            en = i;
-            begin
-                in = 3'b000;
-                repeat(8) #10 in = in + 1'b1;
-            end
-        end
-    initial $monitor("en = %b, in = %b, output = %b", en, in, f);
-endmodule
-*/
