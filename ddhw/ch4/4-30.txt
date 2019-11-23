@@ -1,0 +1,18 @@
+Octal to binary priority encoder   
+   
+    Inputs                          Outputs
+--------------------------------------------------
+D0  D1  D2  D3  D4  D5  D6  D7  |   x   y   z   V
+--------------------------------------------------
+0   0   0   0   0   0   0   0   |   x   x   x   0   
+1   0   0   0   0   0   0   0   |   0   0   0   1
+x   1   0   0   0   0   0   0   |   0   0   1   1
+x   x   1   0   0   0   0   0   |   0   1   0   1
+x   x   x   1   0   0   0   0   |   0   1   1   1
+x   x   x   x   1   0   0   0   |   1   0   0   1
+x   x   x   x   x   1   0   0   |   1   0   1   1
+x   x   x   x   x   x   1   0   |   1   1   0   1
+x   x   x   x   x   x   x   1   |   1   1   1   1
+
+if D6 and D2 are same at same time four outputs would be
+x = 1, y = 1, z = 0, V = 1
