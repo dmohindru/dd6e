@@ -1,0 +1,1 @@
+assign out = (in[3] & in[2] & in[0]);
