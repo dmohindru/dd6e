@@ -1,0 +1,7 @@
+Characteristic Equation for JK Flip Flop
+
+Q(t+1) = JQ' + K'Q
+
+For Complement Output
+Q'(t+1) = (JQ' + K'Q)' = (JQ')'(K'Q)' = (J' + Q)(K + Q') = J'K + KQ + J'Q' + QQ' = J'Q' + KQ
+Q'(t+1) = J'Q' + KQ
