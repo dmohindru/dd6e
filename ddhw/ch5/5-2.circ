@@ -60,7 +60,7 @@
     <a name="clabel" val=""/>
     <a name="clabelup" val="east"/>
     <a name="clabelfont" val="SansSerif plain 12"/>
-    <wire from="(210,240)" to="(400,240)"/>
+    <wire from="(210,270)" to="(400,270)"/>
     <wire from="(590,310)" to="(630,310)"/>
     <wire from="(360,90)" to="(790,90)"/>
     <wire from="(790,90)" to="(790,240)"/>
@@ -68,17 +68,20 @@
     <wire from="(360,180)" to="(400,180)"/>
     <wire from="(520,270)" to="(520,420)"/>
     <wire from="(360,90)" to="(360,180)"/>
-    <wire from="(210,270)" to="(300,270)"/>
+    <wire from="(210,240)" to="(300,240)"/>
     <wire from="(590,310)" to="(590,420)"/>
     <wire from="(760,240)" to="(790,240)"/>
     <wire from="(480,230)" to="(630,230)"/>
-    <wire from="(320,270)" to="(400,270)"/>
-    <comp lib="6" loc="(176,244)" name="Text">
-      <a name="text" val="J"/>
-    </comp>
+    <wire from="(320,240)" to="(400,240)"/>
     <comp lib="0" loc="(520,420)" name="Pin">
       <a name="facing" val="north"/>
       <a name="tristate" val="false"/>
+    </comp>
+    <comp lib="6" loc="(175,274)" name="Text">
+      <a name="text" val="J"/>
+    </comp>
+    <comp lib="1" loc="(320,240)" name="NOT Gate">
+      <a name="size" val="20"/>
     </comp>
     <comp lib="0" loc="(590,420)" name="Pin">
       <a name="facing" val="north"/>
@@ -95,16 +98,13 @@
     <comp lib="6" loc="(593,457)" name="Text">
       <a name="text" val="Rst"/>
     </comp>
-    <comp lib="1" loc="(320,270)" name="NOT Gate">
-      <a name="size" val="20"/>
-    </comp>
     <comp lib="6" loc="(414,33)" name="Text">
       <a name="text" val="JK FLIP FLOP USING D FLIP FLOP AND 2X1 MUX"/>
     </comp>
     <comp lib="0" loc="(210,240)" name="Pin">
       <a name="tristate" val="false"/>
     </comp>
-    <comp lib="6" loc="(173,278)" name="Text">
+    <comp lib="6" loc="(175,246)" name="Text">
       <a name="text" val="K"/>
     </comp>
   </circuit>
