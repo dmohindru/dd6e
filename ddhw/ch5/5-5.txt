@@ -1,0 +1,19 @@
+Truth table:- specifies all the possible input to the combinational circuit and output of circuit.
+
+State table:- The time sequence of inputs, outputs and flip-flop can be enumarated in a state table.
+
+Characterstic table:- A Characterstic table defines the logical properties of a flip-flop by describing its operation in a
+tabular form.
+
+Exitation table:- This table specifies for a particular transition of state what input need to be applied to a flip flop.
+
+
+
+Boolean equation:- Boolean equation is derived from truth table.
+
+State equation:- State equation is derived for state table.
+
+Characterstic equation:- Characterstic equation is derived from Characterstic table.
+
+Flip flop input equation:- Flip flop input equation is derived from Exitation table.
+
