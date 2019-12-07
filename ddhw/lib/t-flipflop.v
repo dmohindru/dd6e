@@ -1,4 +1,4 @@
-//D Flipflop with negetive reset
+//T Flipflop with negetive reset
 module T_flipflop(Q, T, Clk, Rst);
     output Q;
     input T, Clk, Rst;

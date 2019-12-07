@@ -1,0 +1,20 @@
+Present State    Next State     FF Inputs     
+-------------    ----------     ---------
+ A      B          A      B     Ta     Tb
+ ------------   -----------     ---------
+ 0      0          0      1     0       1
+ 0      1          1      0     1       1
+ 1      0          0      0     1       0
+ 1      1          0      0     1       1
+
+ Ta = A + B
+ Tb = A' + B
+
+ Its a counter with repeating sequence of 00-->01-->10-->00
+ 
+
+    
+
+
+    
+    
