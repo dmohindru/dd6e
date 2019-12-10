@@ -1,0 +1,43 @@
+Input sequence: 010110111011110
+a) 
+state:  a a a b a b d a b d c a b d c c a 
+input:    0 1 0 1 1 0 1 1 1 0 1 1 1 1 0
+output:   0 0 1 0 0 1 0 0 0 1 0 0 0 0 1
+
+b)
+a = 00, b = 01, c = 10, d = 11
+
+                    Next state          Output
+                    ----------      ------------
+present state       x=0     x=1      x=0    x=1
+------------------------------------------------
+        a           a       b        0      0
+        b           a       d        1      0
+        c           a       c        1      0 <------ equivalent state
+        d           a       c        1      0 <------ equivalent state
+
+state c and d are equivalent replacing state d with c
+
+                    Next state          Output
+                    ----------      ------------
+present state       x=0     x=1      x=0    x=1
+------------------------------------------------
+        a           a       b        0      0
+        b           a       c        1      0 <------ equivalent state
+        c           a       c        1      0 <------ equivalent state
+
+state b and c are equivalent replacing state c with b
+
+                    Next state          Output
+                    ----------      ------------
+present state       x=0     x=1      x=0    x=1
+------------------------------------------------
+        a           a       b        0      0
+        b           a       b        1      0 
+hence final reduced state diagram
+
+c)
+state:  a a
+input:    0 1 0 1 1 0 1 1 1 0 1 1 1 1 0
+output:   
+    
