@@ -1,0 +1,42 @@
+                    Next state          Output
+                    ----------      ------------
+present state       x=0     x=1      x=0    x=1
+------------------------------------------------
+        a           e       a        0      0
+        b           c       d        0      0
+        c           e       f        0      0 
+        d           h       b        1      0 <------ equivalent state
+        e           c       d        0      0
+        f           e       a        1      1
+        g           h       g        0      1
+        h           h       b        1      0 <------ equivalent state
+
+state d and h are similar. removing state h and replacing it with d.
+
+                    Next state          Output
+                    ----------      ------------
+present state       x=0     x=1      x=0    x=1
+------------------------------------------------
+        a           e       a        0      0
+        b           c       d        0      0 <------ equivalent state
+        c           e       f        0      0 
+        d           d       b        1      0 
+        e           c       d        0      0 <------ equivalent state
+        f           e       a        1      1
+        g           d       g        0      1
+
+state b and e are similar. removing state e and replacing it with b.
+
+
+                    Next state          Output
+                    ----------      ------------
+present state       x=0     x=1      x=0    x=1
+------------------------------------------------
+        a           b       a        0      0
+        b           c       d        0      0 
+        c           b       f        0      0 
+        d           d       b        1      0 
+        f           b       a        1      1
+        g           d       g        0      1
+
+final reduced state table

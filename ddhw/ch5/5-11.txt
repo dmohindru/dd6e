@@ -37,7 +37,10 @@ present state       x=0     x=1      x=0    x=1
 hence final reduced state diagram
 
 c)
-state:  a a
+state:  a a a b a b b a b a b b b b b b
 input:    0 1 0 1 1 0 1 1 1 0 1 1 1 1 0
-output:   
+output:   0 0 1 0 0 1 0 0 0 1 0 0 0 0 1
+
+Comparing with output of previous state table we get same output
+output:   0 0 1 0 0 1 0 0 0 1 0 0 0 0 1
     
