@@ -1,0 +1,15 @@
+input sequence: 01001010001
+
+a) output sequence with old state table
+present state: a e d h h b c f e c e
+input:         0 1 0 0 1 0 1 0 0 0 1
+next state:    e d h h b c f e c e d
+output:        0 0 1 1 0 0 0 1 0 0 0
+
+b) output sequence with new state table
+present state: a b d d d b c f b c b
+input:         0 1 0 0 1 0 1 0 0 0 1
+next state:    b d d d b c f b c b d
+output:        0 0 1 1 0 0 0 1 0 0 0
+
+output is similar for both the state table.

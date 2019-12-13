@@ -1,0 +1,43 @@
+I haven't understood the problem what does it mean by J'K flipflop. I assume behaviour is as under.
+
+J = 0, K = 0, same state
+J = 0, K = 1, one state
+J = 1, K = 0, zero state
+J = 1, K = 1, inverted state
+
+state table of above behaviour
+
+                    
+present state(q)    j       k       Next state q(t+1)
+------------------------------------------------
+        0           0       0           0 
+        0           0       1           1  
+        0           1       0           0  
+        0           1       1           1  
+        1           0       0           1 
+        1           0       1           1 
+        1           1       0           0 
+        1           1       1           0
+
+q(t+1) = q'k + qj'
+
+behaviour of jk flipflop
+
+J = 0, K = 0, same state
+J = 0, K = 1, zero state
+J = 1, K = 0, one state
+J = 1, K = 1, inverted state
+
+present state(q)    j       k       Next state q(t+1)
+------------------------------------------------
+        0           0       0           0 
+        0           0       1           0  
+        0           1       0           1  
+        0           1       1           1  
+        1           0       0           1 
+        1           0       1           0 
+        1           1       0           1 
+        1           1       1           0
+
+q(t+1) =  q'j + qk'
+
