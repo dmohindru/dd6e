@@ -1,0 +1,22 @@
+state table                    
+                    Next state         Output
+                    ----------      ------------
+present state       x=0     x=1      x=0    x=1
+------------------------------------------------
+        S0          S0      S1       0      1
+        S1          S1      S1       1      0 
+
+let S0 = 0 and S1 = 1. So we need only 1 flip flop. We choose d-flopflip name A for the circuit.
+
+present | Input | Next  | Output |
+ state  |       | State |        |
+----------------------------------
+    A   |   x   | A(t+1)|   y    |
+----------------------------------
+    0   |   0   |   0   |    0   |
+    0   |   1   |   1   |    1   |
+    1   |   0   |   1   |    1   |
+    1   |   1   |   1   |    0   |
+
+A(t+1) = A | x
+y = A ^ x
