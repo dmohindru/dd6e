@@ -19,7 +19,10 @@ A   B   |   x  |  A   B  |  Ta  Tb |  Ja  Ka  Jb  Kb|
 Ta = A'B + Bx'
 Tb = A'Bx + B'x' + A.x'
 
-Ja = 
-Ka = 
-Jb = 
-Kb = 
+-------------------------------------------
+Ja = B
+Ka = Bx'
+Jb = x'
+Kb = A'x + Ax'
+
+jk Flipflop results into simpler flipflop input equations.
