@@ -1,0 +1,4 @@
+a) blocking procedural assignment is executed in sequential manner means in order they are lised in
+   verilog code.
+
+   nonblocking procedural assignment is executed concurrently with other nonblocking procedural statements. 

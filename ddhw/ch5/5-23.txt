@@ -1,0 +1,19 @@
+a)
+initial value of
+RegA = 30
+RegB = 15
+
+
+RegA = RegB;
+RegB = RegA;
+
+value of 
+RegA = 15 
+RegB = 15
+
+RegA <= RegB;
+RegB <= RegA;
+
+value of 
+RegA = 15 
+RegB = 30
