@@ -1,0 +1,17 @@
+a) Q(t+1) = JQ' + K'Q
+when Q = 0
+Q(t+1) = J.1 + K'.0 = J
+
+when Q = 1
+Q(t+1) = J.0 + K'.1 = K'
+
+b) Flip flop changes state on positive clock edge
+when J = 0, K = 0 at positive edge of clock, state of flip flop remains in same state 
+as it was before clock tick.
+
+when J = 0, K = 1 at positive edge of clock, state of flip flop is set to zero state.
+
+when J = 1, K = 0 at positive edge of clock, state of flip flop is set to one state.
+
+when J = 1, K = 1 at positive edge of clock, state of flip flop is inverted as it was 
+before clock tick.
