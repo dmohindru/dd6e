@@ -6,7 +6,7 @@ module ex_5_29(out, in, clk, reset);
     parameter S0 = 3'b000, S1 = 3'b001, S2 = 3'b010, S3 = 3'b011, S4 = 3'b100;
     reg [2:0] state, next_state;
 
-    always @(posedge clk) begin
+    always @(posedge clk, negedge reset) begin
         if (!reset) state <= S0;
         else state <= next_state;
     end
@@ -38,15 +38,18 @@ module ex_5_29_tb;
 
     ex_5_29 UUT(out, in, clk, reset);
 
-    initial #100 $finish;
+    initial #350 $finish;
     initial begin clk = 0; forever #5 clk = ~clk; end
-    initial begin
-    reset = 1'b1;
-    #15 reset = 1'b0;
-    #10 reset = 1'b1; in = 1'b0;
-    #10 in = 1'b1;
-    #10 in = 1'b1;
-    #10 in = 1'b1;
-    end
+    initial fork
+    
+    #2 reset = 1'b1;
+    #3 reset = 1'b0;
+    #4 reset = 1'b1;
+
+    in = 1'b0;
+    #40 in = 1'b1;
+    #90 in = 1'b0;
+    #110 in = 1'b1;
+    join
     initial begin $dumpfile("5-29.vcd"); $dumpvars(0, ex_5_29_tb); end
 endmodule
