@@ -26,7 +26,7 @@ module ex_5_35(z, x, y, clk, rst);
 
     //current state logic
     always @(posedge clk, negedge rst) begin
-        if (!rst) state <= S0;
+        if (!rst) begin state <= S0; next_state <= S0; end
         else state <= next_state;
     end
 
