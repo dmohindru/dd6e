@@ -1,4 +1,6 @@
-/*module ex_5_53(y_out, x_in, clk, rst);
+/*
+// Normal mealy machine
+module ex_5_53(y_out, x_in, clk, rst);
     output y_out;
     input x_in, clk, rst;
     reg y_out;
@@ -25,6 +27,7 @@
 
 endmodule*/
 
+//registered or synchoronous mealy machine
 module ex_5_53(y_out, x_in, clk, rst);
     output y_out;
     input x_in, clk, rst;
