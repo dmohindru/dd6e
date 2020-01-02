@@ -8,10 +8,14 @@ a   b  | a   b  |  y2 y1 y0 |
 1   0  | 1   1  |   1  0  0 |
 1   1  | 0   0  |   1  1  0 |
 
-
+output logic
 y0 = 0;
 y1 = b;
 y2 = a;
+
+next state logic
+a(t+1) = a ^ b;
+b(t+1) = ~b
 
 
 
