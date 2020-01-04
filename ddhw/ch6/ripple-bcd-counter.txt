@@ -1,5 +1,6 @@
 Trying to follow algorithimic way to reach to circuit diagram of fig 6.10 on page 358
 
+bcd ripple counter
 
 w   x   y   z   |   w   x   y   z   |   Jw  Kw  Jx  Kx  Jy  Ky  Jz  Kz  |
 ------------------------------------------------------------------------
@@ -26,5 +27,36 @@ w   x   y   z   |   w   x   y   z   |   Jw  Kw  Jx  Kx  Jy  Ky  Jz  Kz  |
 Jz = 1
 Kz = 1
 
-Jy = 
-Ky = 
+Jy = w'z
+Ky = z
+
+Jx = yz
+Kx = yz
+
+Jw = xyz 
+Kw = z
+
+
+synchronous binary counter
+
+w   x   y   z   |   w   x   y   z   |   Jw  Kw  Jx  Kx  Jy  Ky  Jz  Kz  |
+------------------------------------------------------------------------
+0   0   0   0   |   0   0   0   1   |   0   x   0   x   0   x   1   x   |
+0   0   0   1   |   0   0   1   0   |   0   x   0   x   1   x   x   1   |
+0   0   1   0   |   0   0   1   1   |   0   x   0   x   x   0   1   x   |
+0   0   1   1   |   0   1   0   0   |   0   x   1   x   x   1   x   1   |
+-------------------------------------------------------------------------
+0   1   0   0   |   0   1   0   1   |   0   x   x   0   0   x   1   x   |
+0   1   0   1   |   0   1   1   0   |   0   x   x   0   1   x   x   1   |
+0   1   1   0   |   0   1   1   1   |   0   x   x   0   x   0   1   x   |
+0   1   1   1   |   1   0   0   0   |   1   x   x   1   x   1   x   1   |
+-------------------------------------------------------------------------
+1   0   0   0   |   1   0   0   1   |   x   0   0   x   0   x   1   x   |
+1   0   0   1   |   0   0   0   0   |   x   1   0   x   0   x   x   1   |
+1   0   1   0   |   x   x   x   x   |   x   x   x   x   x   x   1   x   |
+1   0   1   1   |   x   x   x   x   |   x   x   x   x   x   x   x   1   |
+-------------------------------------------------------------------------
+1   1   0   0   |   x   x   x   x   |   x   x   x   x   x   x   1   x   |
+1   1   0   1   |   x   x   x   x   |   x   x   x   x   x   x   x   1   |
+1   1   1   0   |   x   x   x   x   |   x   x   x   x   x   x   1   x   |
+1   1   1   1   |   x   x   x   x   |   x   x   x   x   x   x   x   1   |
