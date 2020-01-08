@@ -1,0 +1,17 @@
+Truth table for control (C) and parallel load (L) input for clocked input (C_in) using nand gate.
+
+C   L   |   C_in
+--------------
+0   0   |   1
+0   1   |   1
+1   0   |   1
+1   1   |   0
+
+register updates it contents only when clock control and parallel load control in high. Assume flip flop are trigerred on 
+negetive edge of clock.
+
+Because this circuit has a gated input to clock, which would introduce a propogation delay to clock input of flip flop. Hence
+circuit might have synchronosing issue with clock.
+More over if load signal is asynchoronous then it might posses following problems.
+1. If gated clock arrives in the setup interval of clock input of flip flop, causing metastability.
+2. Load signal might truncate the clock width, hindering the proper function of clocked circuit.
