@@ -1,0 +1,8 @@
+Serial transfer is when data is transfered 1 bit at each clock pusle. Where are as parallel transfer is
+when data is transfered n-bit at each clock pulse.
+
+Serial data can be converted into parallel data using a universal shift register where data is first entered into register
+serial and then taken out in parallel.
+
+Similarly parallel data can be converted into Serial data using universal shift register where data is first entered into 
+register parallel and then taken out in serial 1 bit at each clock pulse.
