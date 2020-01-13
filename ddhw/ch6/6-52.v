@@ -65,7 +65,7 @@ module ushift_4_tb;
      Sixth no change
     */
     initial fork
-        //clear_b = 1;
+        clear_b = 1;
         sel = 2'b00;
         msb_in = 1'b0;
         lsb_in = 1'b0;
