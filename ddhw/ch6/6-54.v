@@ -51,6 +51,97 @@ module rshift_4(s_out, s_in, shift_ctrl, clear_b, clk);
     mux_2x1 m0(m_out0, {s_in, s_out0}, shift_ctrl);
     mux_2x1 m1(m_out1, {s_out0, s_out1}, shift_ctrl);
     mux_2x1 m2(m_out2, {s_out1, s_out2}, shift_ctrl);
-    mux_2x1 m3(m_out3, {s_out, s_out2}, shift_ctrl);
+    mux_2x1 m3(m_out3, {s_out2, s_out}, shift_ctrl);
+
+endmodule
+
+module sadder_4(s_out, s_in, shift_ctrl, clear_b, clk);
+    output s_out;
+    input s_in, shift_ctrl, clear_b, clk;
+
+    wire s_out_a, s_out_b, s_out_c, ff_clk_in, ff_j_in, ff_k_in;
+
+    rshift_4 a(s_out_a, s_out, shift_ctrl, clear_b, clk);
+    rshift_4 b(s_out_b, s_in, shift_ctrl, clear_b, clk);
+
+    and(ff_clk_in, shift_ctrl, clk);
+    and(ff_j_in, s_out_a, s_out_b);
+    nor(ff_k_in, s_out_a, s_out_b);
+
+    jk_ff c(s_out_c, ff_j_in, ff_k_in, ff_clk_in, clear_b);
+    
+    xor(s_out, s_out_a, s_out_b, s_out_c);
+
+endmodule
+
+//test bench for rshift_4
+/*module rshift_4_tb;
+    reg s_in, shift_ctrl, clear_b, clk;
+    wire s_out;
+
+    rshift_4 UUT(s_out, s_in, shift_ctrl, clear_b, clk);
+
+    initial #200 $finish;
+    initial begin clk = 0; forever #5 clk = ~clk; end
+    initial fork
+        clear_b = 1;
+        shift_ctrl = 0;
+        s_in = 0;
+        #2 clear_b = 0;
+        #3 clear_b = 1;
+        //----------
+        #10 s_in = 1;
+        #10 shift_ctrl = 1;
+        #20 s_in = 0;
+        #30 s_in = 1;
+        #40 s_in = 0;
+        //-----------
+        #50 shift_ctrl = 0; 
+        //-----------
+        #100 shift_ctrl = 1;
+        #100 s_in = 0;
+        #110 s_in = 0;
+        #120 s_in = 1;
+        #130 s_in = 1;
+        //----------
+        #140 shift_ctrl = 0;
+    join
+    initial begin $dumpfile("6-54.vcd"); $dumpvars(0, rshift_4_tb); end
+
+endmodule
+*/
+
+module sadder_4_tb;
+    reg s_in, shift_ctrl, clear_b, clk;
+    wire s_out;
+
+    sadder_4 UUT(s_out, s_in, shift_ctrl, clear_b, clk);
+
+    initial #200 $finish;
+    initial begin clk = 0; forever #5 clk = ~clk; end
+    initial fork
+        clear_b = 1;
+        shift_ctrl = 0;
+        s_in = 0;
+        #2 clear_b = 0;
+        #3 clear_b = 1;
+        //load 1010
+        #10 shift_ctrl = 1;
+        #10 s_in = 0;
+        #20 s_in = 1;
+        #30 s_in = 0;
+        #40 s_in = 1;
+        //load 0011
+        #50 s_in = 1;
+        #60 s_in = 1;
+        #70 s_in = 0;
+        #80 s_in = 0;
+        //perform addition
+        #90 s_in = 0;
+        #100 s_in = 0;
+        #110 s_in = 0;
+        #120 s_in = 0;
+    join
+    initial begin $dumpfile("6-54.vcd"); $dumpvars(0, sadder_4_tb); end
 
 endmodule
