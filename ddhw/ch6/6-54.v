@@ -62,6 +62,7 @@ module sadder_4(s_out, s_in, shift_ctrl, clear_b, clk);
     wire s_out_a, s_out_b, s_out_c, ff_clk_in, ff_j_in, ff_k_in;
 
     rshift_4 a(s_out_a, s_out, shift_ctrl, clear_b, clk);
+    //rshift_4 a(s_out_a, s_in, shift_ctrl, clear_b, clk);
     rshift_4 b(s_out_b, s_in, shift_ctrl, clear_b, clk);
 
     and(ff_clk_in, shift_ctrl, clk);
