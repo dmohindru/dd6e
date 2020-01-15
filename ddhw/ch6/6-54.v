@@ -55,6 +55,22 @@ module rshift_4(s_out, s_in, shift_ctrl, clear_b, clk);
 
 endmodule
 
+
+/*module rshift_4(s_out, s_in, shift_ctrl, clear_b, clk);
+    output s_out;
+    input s_in, shift_ctrl, clear_b, clk;
+
+    reg [3:0] s;
+
+    always @(posedge clk, negedge clear_b) begin
+        if (!clear_b) s <= 4'b0000;
+        else if(shift_ctrl) s <= {s_in,s[3:1]};
+    end
+
+    assign s_out = s[0];
+
+endmodule*/
+
 module sadder_4(s_out, s_in, shift_ctrl, clear_b, clk);
     output s_out;
     input s_in, shift_ctrl, clear_b, clk;
