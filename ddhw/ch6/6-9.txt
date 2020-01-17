@@ -1,17 +1,20 @@
 a) complement output of register b and set the initial content of carry flip flop to 1.
 
 b)
-Q   x   y   |   Q(t+1)|   S   | J     K   |
+Q   x   y   |   Q(t+1)|   D   | J     K   |
 -------------------------------------------
 0   0   0   |     0   |   0   | 0     x   |
 0   0   1   |     1   |   1   | 1     x   |
 0   1   0   |     0   |   1   | 0     x   |
 0   1   1   |     0   |   0   | 0     x   |
+-------------------------------------------
 1   0   0   |     1   |   1   | x     0   |
 1   0   1   |     1   |   0   | x     0   |
 1   1   0   |     0   |   0   | x     1   |
 1   1   1   |     1   |   1   | x     0   |
 
 
+Q(t+1) = x'y + qx' + qy 
+D = q'x'y + q'xy' + qx'y' + qxy
 j = x'y
 k = (x'+y)' = xy'

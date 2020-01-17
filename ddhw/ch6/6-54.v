@@ -55,7 +55,7 @@ module rshift_4(s_out, s_in, shift_ctrl, clear_b, clk);
 
 endmodule
 
-module sadder_4(s_out, s_in, shift_ctrl, clear_b, clk);
+/*module sadder_4(s_out, s_in, shift_ctrl, clear_b, clk);
     output s_out;
     input s_in, shift_ctrl, clear_b, clk;
 
@@ -72,6 +72,30 @@ module sadder_4(s_out, s_in, shift_ctrl, clear_b, clk);
     jk_ff c(s_out_c, ff_j_in, ff_k_in, ff_clk_in, clear_b);
     
     xor(s_out, s_out_a, s_out_b, s_out_c);
+
+endmodule
+*/
+
+module sadder_4(s_out, s_in, shift_ctrl, clear_b, clk);
+    output s_out;
+    input s_in, shift_ctrl, clear_b, clk;
+
+    reg carry;
+    reg [3:0] a, b;
+
+    always @(posedge clk, negedge clear_b) begin
+        if (!clear_b) begin
+            carry <= 1'b1;
+            a <= 4'b0000;
+            b <= 4'b0000;
+        end
+        else if (shift_ctrl) begin
+            b <= {s_in, b[3:1]};
+            a[2:0] <= a[3:1];
+            {carry,a[3]} = a[0] + b[0] + carry;
+        end
+    end
+    assign s_out = a[0];
 
 endmodule
 
