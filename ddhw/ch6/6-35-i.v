@@ -40,6 +40,6 @@ module s_subtractor_4_tb;
         //perform subtraction finish process by 4 cycles
         #90 shift_ctrl = 0;
     join
-    initial begin $dumpfile("6-35-h.vcd"); $dumpvars(0, s_subtractor_4_tb); end
+    initial begin $dumpfile("6-35-i.vcd"); $dumpvars(0, s_subtractor_4_tb); end
 
 endmodule
