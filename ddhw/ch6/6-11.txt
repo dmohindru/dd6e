@@ -1,0 +1,5 @@
+a) Down Counter
+
+b) Up Counter
+
+refer to file 6-11.circ for circuit verification
