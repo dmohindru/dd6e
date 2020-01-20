@@ -26,14 +26,14 @@ a)
     Jz = 1
     Kz = 1
 
-    Jy = z
-    Ky = z
+    Jy = z'
+    Ky = z'
 
-    Jx = yz
-    Kx = yz
+    Jx = y'z'
+    Kx = y'z'
 
-    Jw = xyz
-    Kw = xyz
+    Jw = x'y'z'  
+    Kw = x'y'z'
 
 b)
 
@@ -63,13 +63,13 @@ b)
       -------------------------------------------------------------------
 
     Tz = 1
-    Ty = z
-    Tx = yz
-    Tw = xyz
+    Ty = z'
+    Tx = y'z'
+    Tw = x'y'z'
 
     using D FF
 
-    Dz = z
+    Dz = z'
     Dy = y'z' + yz
-    Dx = xyz + x'y' + x'z'
-    Dw = wxyz + w'x' + w'y' + w'z'
+    Dx = x'y'z' + xy + xz
+    Dw = w'x'y'z' + wz + wy + wx
