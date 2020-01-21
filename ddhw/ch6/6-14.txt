@@ -1,0 +1,5 @@
+a) next count after 1001100111 is 1001101000. Hence 4 flip flop are complemented.
+
+b) next count after 0000111111 is 0001000000. Hence 7 flip flop are complemented.
+
+c) next count after 0011111111 is 0100000000. Hence 8 flip flop are complemented.

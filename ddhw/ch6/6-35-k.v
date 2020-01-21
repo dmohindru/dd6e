@@ -31,11 +31,27 @@ module bcd_ripple_counter(count, clk, reset);
 
 endmodule
 
+module bcd_ripple_counter_beh(count, clk, reset);
+    output [3:0] count;
+    input clk, reset;
+    reg [3:0] count;
+    
+    always @(negedge clk, negedge reset) begin
+        if (!reset)
+            count <= 4'b0000;
+        else if (count >= 9)
+            count <= 4'b0000;
+        else
+            count = count + 1'b1;
+    end
+
+endmodule
+
 module ripple_counter_tb;
     reg clk, reset;
     wire [3:0] count;
 
-    bcd_ripple_counter UUT(count, clk, reset);
+    bcd_ripple_counter_beh UUT(count, clk, reset);
 
     initial #200 $finish;
     initial begin clk = 0; forever #5 clk = ~clk; end

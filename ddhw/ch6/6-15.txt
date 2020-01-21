@@ -1,0 +1,5 @@
+maximum delay for 10 bit ripple counter would be 5ns X 10(bits) = 50 ns
+
+maximum frequency at which counter can operate reliable will be 
+= 1 / 50 ns hz
+= 20 Mhz 
