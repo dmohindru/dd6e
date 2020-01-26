@@ -1,0 +1,26 @@
+a)
+
+  L  |   C   |   I  |   function    | J K  |
+--------------------------------------------
+  0  |   0   |   0  |  No change    | 0 0  |
+  0  |   0   |   1  |  No change    | 0 0  |
+  0  |   1   |   0  |  Toggle out   | 1 1  |
+  0  |   1   |   1  |  Toggle out   | 1 1  |
+  ------------------------------------------
+  1  |   0   |   0  |  Load 0       | 0 1  |
+  1  |   0   |   1  |  Load 1       | 1 0  |
+  1  |   1   |   0  |  Load 0       | 0 1  |
+  1  |   1   |   1  |  Load 1       | 1 0  |
+
+  J = L'C + LI
+  K = L'C + LI'
+
+  b) Expression for J and K input as under
+
+  J = ((LI)'L)' (L + C)
+  J = L'C + LI  <------ equivalent to J input expression in part a
+
+
+  K = (LI)' (L + C)
+  K = L'C + LI' <------ equivalent to K input expression in part a
+
