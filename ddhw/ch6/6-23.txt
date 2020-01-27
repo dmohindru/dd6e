@@ -1,0 +1,5 @@
+use 3 bit counter and flip flop. Start signal set the flip flop to state 1, which give count signal to 3 bit counter.
+When counter reaches count 111 (7), carry out signal from counter should reset flip flop to zero, hence output is also set
+to zero.
+
+or it can be implemented as state machine.
