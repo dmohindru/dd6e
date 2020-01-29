@@ -1,0 +1,22 @@
+sequence 0, 4, 2, 1, 6
+present state     next state     Flip Flop Inputs   |
+ x   y   z    |   x   y   z   |   Jx Kx Jy Ky Jz Kz |
+ ---------------------------------------------------|
+ 0   0   0    |   1   0   0   |   1  x  0  x  0  x  |
+ 0   0   1    |   1   1   0   |   1  x  1  x  x  1  |
+ 0   1   0    |   0   0   1   |   0  x  x  1  1  x  |
+ 0   1   1    |   x   x   x   |   x  x  x  x  x  x  |
+ ----------------------------------------------------
+ 1   0   0    |   0   1   0   |   x  1  1  x  0  x  |
+ 1   0   1    |   x   x   x   |   x  x  x  x  x  x  |
+ 1   1   0    |   0   0   0   |   x  1  x  1  0  x  |
+ 1   1   1    |   x   x   x   |   x  x  x  x  x  x  |
+
+ Jx = y'
+ Kx = 1
+
+ Jy = x + z
+ Ky = 1 
+
+ Jz = x'y
+ Kz = 1
