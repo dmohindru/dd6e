@@ -1,0 +1,20 @@
+a) Unused states
+
+present state         next state     
+-------------------------------------
+  A  B  C  E    |     A  B  C  E    |
+  --------------|-------------------|
+  0  0  1  0    |     1  0  0  1    |
+  0  1  0  0    |     1  0  1  0    |
+  0  1  0  1    |     0  0  1  0    |
+  0  1  1  0    |     1  0  1  1    |
+  -----------------------------------
+  1  0  0  1    |     0  1  0  0    |
+  1  0  1  0    |     1  1  0  1    |
+  1  0  1  1    |     0  1  0  1    |
+  1  1  0  1    |     0  1  1  0    |
+
+  clearin by observing above table we can see counter does not return to it stable state one in
+  any unused state.
+
+  b) Refer to file 6-29.circ
