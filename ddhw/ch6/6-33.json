@@ -1,0 +1,13 @@
+{signal: [
+  {name: 't_Clk', wave: 'P.............'},
+  {name: 't_Clr', wave: '01..........................', period:0.5},
+  {name: 't_Count', wave: '1......0......', period:1},
+  {name: 't_Load', wave: '0....10.......', period:1},
+  {name: 't_IN', wave: 'x....=........', period:1, data: '1100'},
+  {name: 't_A', wave: '=======.......', period:1, data: '0000 0001 0010 0011 0100 1100 1101'},
+  {name: 't_CO', wave: '0.............', period:1}, 
+],
+ head:{
+   text:'Wave form for ex 6-33',
+   tick:0,
+ },}
