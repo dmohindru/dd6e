@@ -1,0 +1,2 @@
+Intra assignment delay is a form of a delay which has an effect of postponing the
+assignment of a value (a constant, or value of a variable/expressing) to a variable. 

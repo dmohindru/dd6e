@@ -52,3 +52,21 @@ module ex_6_39_str(a, clk, reset);
     assign a = {a_out, b_out, c_out};
 
 endmodule
+
+module ex_6_39_tb;
+    reg clk, reset;
+    wire [2:0] a_beh, a_str;
+
+    ex_6_39_beh UUT0(a_beh, clk, reset);
+    ex_6_39_str UUT1(a_str, clk, reset);
+
+    initial #300 $finish;
+    initial begin clk = 0; forever #5 clk = ~clk; end
+    initial fork
+        reset = 1;
+        #2 reset = 0;
+        #3 reset = 1;
+    join
+    initial begin $dumpfile("6-39.vcd"); $dumpvars(0, ex_6_39_tb); end
+    
+endmodule
