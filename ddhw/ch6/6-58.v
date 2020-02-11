@@ -92,3 +92,33 @@ module ex_6_58_b(a, c_out, i, load, count, clk, clear_b);
     assign c_out = count && (a == 4'b1111);
 endmodule
 
+module ex_6_58_t;
+    reg load, count, clk, clear_b;
+    reg [3:0] i;
+    wire [3:0] a_out, b_out;
+    wire c_out_a, c_out_b;
+
+    ex_6_58_a UUT0(a_out, c_out_a, i, load, count, clk, clear_b);
+    ex_6_58_b UUT1(b_out, c_out_b, i, load, count, clk, clear_b);
+
+    initial #300 $finish;
+    initial begin clk = 0; forever #5 clk = ~clk; end
+    initial fork
+        clear_b = 1;
+        i = 4'b0000;
+        load = 0;
+        count = 0;
+        #2 clear_b = 0;
+        #3 clear_b = 1;
+        #10 count = 1;
+        #60 load = 1;
+        #60 i = 4'b1010;
+        #70 load = 0;
+        #150 load = 1;
+        #150 i = 4'b1110;
+        #160 load = 0;
+    join
+    initial begin $dumpfile("6-58.vcd"); $dumpvars(0, ex_6_58_t); end
+
+endmodule
+
