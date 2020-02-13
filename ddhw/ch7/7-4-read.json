@@ -1,0 +1,12 @@
+{signal: [
+  {name: 't_Clk', wave: 'n...'},
+  {name: 'mem_add', wave: 'x=.....x', period:0.5, data: 'Address_valid'},
+  {name: 'mem_enable', wave: '01....0', period:0.5},
+  {name: 'read/write', wave: '1......', period:0.5},
+  {name: 'data in', wave: 'x...=.x', period:0.5, data: 'Data_valid'},
+  
+],
+ head:{
+   text:'Wave form memory read cycle',
+   tick:0,
+ },}

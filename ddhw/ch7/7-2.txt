@@ -1,0 +1,7 @@
+a) 2E12 X 2 = 2E13 bytes
+
+b)2E31 bytes
+
+c) 2E24 X 4 = 2E26 bytes
+
+d) 2E18 X 8 = 2E21 bytes

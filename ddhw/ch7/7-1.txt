@@ -1,0 +1,22 @@
+K = 1024  = 2E10
+M = 1024K = 2E20
+G = 1024M = 2E30
+
+a) 4K X 16
+Address line = log2(4 X 1024) = 12
+Data line = 16
+
+b) 2G X 8
+Address line = log2(2 X 2E30) = 31
+Data line = 8
+
+c) 16M X 32
+Address line = log2(16 X 2E20) = 24
+Data line = 32
+
+d) 256K X 64
+Address line = log2(256 X 2E10) = 18
+Data line = 64
+
+
+
