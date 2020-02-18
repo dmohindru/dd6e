@@ -1,0 +1,7 @@
+a) 512K / 32K = 16 chips
+
+b) address lines for 512K memory chip = log2(512 X 1024) = 19
+   address lines connect of address input of all chips = log2(32 X 1024) = 15
+
+c) 4 lines need to be decoded. Size of decoder 4X16. 
+   
