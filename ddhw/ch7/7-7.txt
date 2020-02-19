@@ -1,1 +1,8 @@
-a) 
+Total address lines to be used = log2(16 X 1024) = 14 Lines
+Number of and gates required in straight forward configuration = 2E14 = 16384
+For coincident decoding
+a) Size of each decoder = 7X128. Number of and gates used = 128X2 = 256.
+
+b) address (6000)10 = (0101110 1110000)2
+input on X =  0101110 =  46
+input on Y =  1110000 = 112 
