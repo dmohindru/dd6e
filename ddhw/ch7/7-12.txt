@@ -1,0 +1,38 @@
+a) 000010101010
+B1  B2  B3  B4  B5  B6  B7  B8  B9  B10 B11 B12
+0   0   0   0   1   0   1   0   1   0   1   0
+C1 = xor of bits (1, 3, 5, 7, 9, 11) =  0, 0, 1, 1, 1, 1 = 0
+C2 = xor of bits (2, 3, 6, 7, 10, 11) = 0, 0, 0, 1, 0, 1 = 0
+C3 = xor of bits (4, 5, 6, 7, 12) = 0, 1, 0, 1, 0 = 0
+C4 = xor of bits (8, 9, 10, 11, 12) = 0, 1, 0, 1, 0 = 0
+
+C4 C3 C2 C1
+0  0  0  0   = 0
+Hence original word = 0101 1010
+
+
+b) 011101101111
+B1  B2  B3  B4  B5  B6  B7  B8  B9  B10 B11 B12
+0   1   1   1   0   1   1   0   1   1   1   1
+C1 = xor of bits (1, 3, 5, 7, 9, 11) =  0, 1, 0, 1, 1, 1 = 0
+C2 = xor of bits (2, 3, 6, 7, 10, 11) = 1, 1, 1, 1, 1, 1 = 0
+C3 = xor of bits (4, 5, 6, 7, 12) = 1, 0, 1, 1, 1 = 0
+C4 = xor of bits (8, 9, 10, 11, 12) = 0, 1, 1, 1, 1 = 0
+
+C4 C3 C2 C1
+0  0  0  0   = 0
+Hence original word = 1011 1111
+
+
+b) 100010100011
+B1  B2  B3  B4  B5  B6  B7  B8  B9  B10 B11 B12
+1   0   0   0   1   0   1   0   0   0   1   1
+C1 = xor of bits (1, 3, 5, 7, 9, 11) =  1, 0, 1, 1, 0, 1 = 0
+C2 = xor of bits (2, 3, 6, 7, 10, 11) = 0, 0, 0, 1, 0, 1 = 0
+C3 = xor of bits (4, 5, 6, 7, 12) = 0, 1, 0, 1, 1 = 1
+C4 = xor of bits (8, 9, 10, 11, 12) = 0, 0, 0, 1, 1 = 0
+
+C4 C3 C2 C1
+0  1  0  0   = 4 (error at bit position 4)
+corrected word: 100110100011 
+Hence original word = 0101 0011

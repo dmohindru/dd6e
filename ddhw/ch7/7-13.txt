@@ -1,0 +1,9 @@
+relationship 2^k - 1 >= n + k
+a) 24 bits
+5 + 1  = 6 bits
+
+b) 32 bits
+6 + 1 = 7 bits
+
+c) 64 bits
+7 + 1 = 8 bits
