@@ -1,0 +1,15 @@
+a) Inputs to circuit: 4 + 1 = 5
+   Output of circuit: 7
+   ROM =  2^5X7 = 32X7
+
+b) Inputs to circuit: 10
+   Output of circuit: 5
+   ROM = 2^9X5 = 1024X5
+
+c) Inputs to circuit: 8
+   Output of circuit: 8
+   ROM = 2^8X8 = 256X8
+
+d) Inputs to circuit: 9
+   Output of circuit: 4
+   ROM = 2^9X4 = 512X4
