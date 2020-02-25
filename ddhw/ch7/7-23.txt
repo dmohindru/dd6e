@@ -1,0 +1,22 @@
+z  = D'
+z' = D
+y  = CD + C'D' = CD + (C + D)'
+y' = C'D + CD'
+x  = B'C + B'D + BC'D' = B'(C + D) + BC'D'
+x' = B'C'D' + BD + BC
+w  = A + BC + BD = A + B(C + D)
+w' =  A'C'D' + A'B'
+
+use w, x', y, z (total 7 terms)
+
+Product Term      Inputs                Outputs
+                                    (T) (C) (T) (T)
+                A   B   C   D        w   x   y   z
+-------------   -------------       --------------
+A       1       1   -   -   -        1   -   -   -
+D'      2       -   -   -   0        -   -   -   1
+BC      3       -   1   1   -        1   1   -   -
+BD      4       -   1   -   1        1   1   -   -
+CD      5       -   -   1   1        -   -   1   -
+C'D'    6       -   -   0   0        -   -   1   -
+B'C'D'  7       -   0   0   0        -   1   -   -
