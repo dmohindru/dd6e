@@ -1,0 +1,1 @@
+x XOR y XOR A = A'x'y + A'xy' + Ax'y' + Axy
