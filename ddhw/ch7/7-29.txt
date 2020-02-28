@@ -1,0 +1,11 @@
+F = x XOR y XOR A 
+F = A'x'y + A'xy' + Ax'y' + Axy
+
+Product Term      Inputs      Outputs
+                               (T) 
+                A   x   y       F  
+-------------   -----------    ----
+A'x'y   1       0   0   1       1  
+A'xy'   2       0   1   0       1  
+Ax'y'   3       1   0   0       1  
+Axy     4       1   1   1       1  
